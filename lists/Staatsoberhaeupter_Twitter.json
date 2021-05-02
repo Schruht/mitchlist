@@ -1,0 +1,94 @@
+{
+  "short":"Staatsoberhaeupter_Twitter",
+  "name":"Staatsoberhäupter nach Followern auf Twitter",
+  "subjects":["Politik","Netzkultur"],
+  "description":"Sortieren Sie diese Staatsoberhäupter nach der Zahl ihrer Follower auf Twitter. Gibt es mehrere Account, wird der mit den meisten Followern gezählt.",
+  "standard":"@BorisJohnson - Boris Johnson (Vereinigtes Königreich)",
+  "cut":true,
+  "things":[
+    {
+      "name":"@antoniocostapm - António Costa (Portugal)",
+      "value":"ca. 207 Tausend"
+    },
+    {
+      "name":"@MarinSanna - Sanna Marin (Finland)",
+      "value":"ca. 227 Tausend"
+    },
+    {
+      "name":"@vanderbellen - Alexander Van der Bellen (Österreich)",
+      "value":"ca. 241 Tausend"
+    },
+    {
+      "name":"@sebastiankurz - Sebastian Kurz (Österreich)",
+      "value":"ca. 475 Tausend"
+    },
+    {
+      "name":"@vonderleyen - Ursula von der Leyen (EU)",
+      "value":"ca. 585 Tausend"
+    },
+    {
+      "name":"@jacindaardern - Jacinda Ardern (Neuseeland)",
+      "value":"ca. 770 Tausend"
+    },
+    {
+      "name":"@netanyahu - Benjamin Netanyahu (Israel)",
+      "value":"ca. 1,8 Tausend"
+    },
+    {
+      "name":"@PaulKagame - Paul Kagame (Ruanda)",
+      "value":"ca. 2,3 Tausend"
+    },
+    {
+      "name":"@nayibbukele - Nayib Bukele (El Salvador)",
+      "value":"ca. 2,4 Tausend"
+    },
+    {
+      "name":"@BorisJohnson - Boris Johnson (Vereinigtes Königreich)",
+      "value":"ca. 3,4 Millionen"
+    },
+    {
+      "name":"@AlsisiOfficial - Abdelfattah Elsisi (Ägypten)",
+      "value":"ca. 4,9 Millionen"
+    },
+    {
+      "name":"@JustinTrudeau - Justin Trudeau (Kanada)",
+      "value":"ca. 5,6 Millionen"
+    },
+    {
+      "name":"@jairbolsonaro - Jair M. Bolsonaro (Brasilien)",
+      "value":"ca. 6,7 Millionen"
+    },
+    {
+      "name":"@EmmanuelMacron - Emmanuel Macron (Frankreich)",
+      "value":"ca. 6,9 Millionen"
+    },
+    {
+      "name":"@KingSalman - Salman ibn Abd al-Aziz (Saudi-Arabien)",
+      "value":"ca. 9 Millionen"
+    },
+    {
+      "name":"@ImranKhanPTI - Imran Khan (Pakistan)",
+      "value":"ca. 13,6 Millionen"
+    },
+    {
+      "name":"@jokowi - Joko Widodo (Indonesien)",
+      "value":"ca. 15,6 Millionen"
+    },
+    {
+      "name":"@RTErdogan - Recep Tayyip Erdoğan (Türkei)",
+      "value":"ca. 17,7 Millionen"
+    },
+    {
+      "name":"@Pontifex - Papst Franziskus (Vatikan)",
+      "value":"ca. 19 Millionen"
+    },
+    {
+      "name":"@JoeBiden - Joe Biden (USA)",
+      "value":"ca. 30 Millionen"
+    },
+    {
+      "name":"@narendramodi - Narendra Modi (Indien)",
+      "value":"ca. 67,6 Millionen"
+    }
+  ]
+}

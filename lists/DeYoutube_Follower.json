@@ -1,0 +1,102 @@
+{
+  "short":"DeYoutube_Follower",
+  "name":"Deutsche Youtubekanäle nach Abonnenten",
+  "subjects":["Netzkultur"],
+  "description":"Sortieren Sie diese deutschen Youtubekanäle nach der Zahl ihrer Abonnenten, beginnend mit den meisten Abonnenten (Stand: 2.05.2021)",
+  "standard":"GameStar",
+  "cut":true,
+  "things":[
+    {
+      "name":"freekickerz",
+      "value":"ca. 8,6 Millionen"
+    },
+    {
+      "name":"BibisBeautyPalace",
+      "value":"ca. 5,9 Millionen"
+    },
+    {
+      "name":"Gronkh",
+      "value":"ca. 4,9 Millionen"
+    },
+    {
+      "name":"Dagi Bee",
+      "value":"ca. 4 Millionen"
+    },
+    {
+      "name":"YTITTY",
+      "value":"ca. 3,1 Millionen"
+    },
+    {
+      "name":"MontanaBlack",
+      "value":"ca. 2,8 Millionen"
+    },
+    {
+      "name":"KinoCheck",
+      "value":"ca. 2,4 Millionen"
+    },
+    {
+      "name":"Zombey",
+      "value":"ca. 2 Millionen"
+    },
+    {
+      "name":"Sallys Welt",
+      "value":"ca. 1,9 Millionen"
+    },
+    {
+      "name":"Varion",
+      "value":"ca. 1,5 Millionen"
+    },
+    {
+      "name":"GameStar",
+      "value":"ca. 1,3 Millionen"
+    },
+    {
+      "name":"ZDF heute-show",
+      "value":"ca. 1,1 Millionen"
+    },
+    {
+      "name":"tagesschau",
+      "value":"ca. 959 Tausend"
+    },
+    {
+      "name":"Terra X Lesch & Co",
+      "value":"ca. 820 Tausend"
+    },
+    {
+      "name":"Mathe by Daniel Jung",
+      "value":"ca. 780 Tausend"
+    },
+    {
+      "name":"Held der Steine",
+      "value":"ca. 685 Tausend"
+    },
+    {
+      "name":"Rocket Beans TV",
+      "value":"ca. 573 Tausend"
+    },
+    {
+      "name":"Berliner Philharmoniker",
+      "value":"ca. 397 Tausend"
+    },
+    {
+      "name":"Gartengemüsekiosk",
+      "value":"ca. 130 Tausend"
+    },
+    {
+      "name":"Bundesregierung",
+      "value":"ca. 52 Tausend"
+    },
+    {
+      "name":"ALDI SÜD",
+      "value":"ca. 24 Tausend"
+    },
+    {
+      "name":"UniversitaetzuKoeln",
+      "value":"ca. 8 Tausend"
+    },
+    {
+      "name":"Bundeskanzleramt Österreich",
+      "value":"ca. 6 Tausend"
+    }
+  ]
+}

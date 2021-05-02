@@ -1,0 +1,126 @@
+{
+  "short":"Fluesse_Laenge",
+  "name":"Flüsse nach Länge",
+  "subjects":["Geographie"],
+  "description":"Sortieren Sie diese Flüsse nach ihrer Länge von der Quelle bis zur Mündung, beginnend mit dem längsten.",
+  "standard":"Donau",
+  "cut":true,
+  "things":[
+    {
+      "name":"Nil",
+      "value":"6650 km"
+    },
+    {
+      "name":"Amazonas",
+      "value":"6400 km"
+    },
+    {
+      "name":"Jangtsekiang",
+      "value":"6380 km"
+    },
+    {
+      "name":"Mississippi (über Missouri)",
+      "value":"6051 km"
+    },
+    {
+      "name":"Ob",
+      "value":"5410 km"
+    },
+    {
+      "name":"Amur/Heilong Jiang",
+      "value":"5052 km"
+    },
+    {
+      "name":"Gelber Fluss/Huang He",
+      "value":"4845 km"
+    },
+    {
+      "name":"Kongo",
+      "value":"4835 km"
+    },
+    {
+      "name":"Mekong",
+      "value":"4500 km"
+    },
+    {
+      "name":"Niger",
+      "value":"4184 km"
+    },
+    {
+      "name":"Wolga",
+      "value":"3530 km"
+    },
+    {
+      "name":"Yukon",
+      "value":"3185 km"
+    },
+    {
+      "name":"Rio Grande",
+      "value":"3034 km"
+    },
+    {
+      "name":"Donau",
+      "value":"2857 km"
+    },
+    {
+      "name":"Colorado",
+      "value":"2333 km"
+    },
+    {
+      "name":"Dnepr",
+      "value":"2201 km"
+    },
+    {
+      "name":"Don",
+      "value":"1904 km"
+    },
+    {
+      "name":"Elbe (über Moldau)",
+      "value":"1245 km"
+    },
+    {
+      "name":"Rhein",
+      "value":"1239 km"
+    },
+    {
+      "name":"Weichsel",
+      "value":"1047 km"
+    },
+    {
+      "name":"Ebro",
+      "value":"925 km"
+    },
+    {
+      "name":"Seine",
+      "value":"775 km"
+    },
+    {
+      "name":"Po",
+      "value":"652 km"
+    },
+    {
+      "name":"Hudson",
+      "value":"493 km"
+    },
+    {
+      "name":"Tiber",
+      "value":"405 km"
+    },
+    {
+      "name":"Severn",
+      "value":"354 km"
+    },
+    {
+      "name":"Themse",
+      "value":"346 km"
+    },
+    {
+      "name":"Isar",
+      "value":"292 km"
+    },
+    {
+      "name":"Wupper",
+      "value":"116 km"
+    }
+  ]
+}

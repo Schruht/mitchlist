@@ -1,0 +1,66 @@
+{
+  "short":"Buchreihen_Titel",
+  "name":"Buchreihen nach Titeln",
+  "subjects":["Literatur"],
+  "description":"Sortieren Sie diese Buchreihen nach der Anzahl der Titel, beginnend mit der kürzesten. Es werden keine Spin-Offs oder Kurzgeschichten gezählt, außer es ist anders angegeben.",
+  "standard":"Harry Potter (J.K. Rowling)",
+  "cut":true,
+  "things":[
+    {
+      "name":"Faust (Johann Wolfgang von Goethe)",
+      "value":"2"
+    },
+    {
+      "name":"Faust (Johann Wolfgang von Goethe)",
+      "value":"2"
+    },
+    {
+      "name":"Die Tribute von Panem (Suzanne Collins)",
+      "value":"3"
+    },
+    {
+      "name":"Eragon (Christopher Paolini)",
+      "value":"4"
+    },
+    {
+      "name":"Percy Jackson (Rick Riordan)",
+      "value":"4"
+    },
+    {
+      "name":"Harry Potter (J.K. Rowling)",
+      "value":"7"
+    },
+    {
+      "name":"Der Dunkle Turm (Steven King)",
+      "value":"8"
+    },
+    {
+      "name":"Conan (Robert E. Howard)",
+      "value":"17"
+    },
+    {
+      "name":"Master and Commander (Patrick O'Brian)",
+      "value":"20"
+    },
+    {
+      "name":"James Bond (Ian Fleming) - Romane und Kurzgeschichten",
+      "value":"12 Romane und 8 Kurzgeschichten"
+    },
+    {
+      "name":"Miss Marple (Agatha Christie)  - Romane und Kurzgeschichten",
+      "value":"32 (12 Romane und 20 Kurzgeschichten)"
+    },
+    {
+      "name":"Voyages extraordinaires (Jules Verne)",
+      "value":"54"
+    },
+    {
+      "name":"Sherlock Holmes (Arthur Conan Doyle)  - Romane und Kurzgeschichten",
+      "value":"60 (4 Romane und 56 Kurzgeschichten)"
+    },
+    {
+      "name":"Grimms Märchen",
+      "value":"210"
+    }
+  ]
+}

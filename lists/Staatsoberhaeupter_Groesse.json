@@ -1,0 +1,70 @@
+{
+  "short":"Staatsoberhaeupter_Groesse",
+  "name":"Staatsoberhäupter nach Größe",
+  "subjects":["Politik"],
+  "description":"Sortieren Sie diese Staatsoberhäupter und Regierungschefs nach ihrer Körpergröße",
+  "standard":"Frank-Walter Steinmeier (Deutschland)",
+  "cut":true,
+  "things":[
+    {
+      "name":"Aleksandar Vucic (Kroatien)",
+      "value":"1,98 m"
+    },
+    {
+      "name":"Justin Trudeau (Kanada)",
+      "value":"1,88 m"
+    },
+    {
+      "name":"Baschar al-Assad (Syrien)",
+      "value":"1,87 m"
+    },
+    {
+      "name":"Sebastian Kurz (Österreich)",
+      "value":"1,86 m"
+    },
+    {
+      "name":"Jair Bolsonaro (Brasilien)",
+      "value":"1,85 m"
+    },
+    {
+      "name":"Recep Tayyip Erdogan (Türkei)",
+      "value":"1,83 m"
+    },
+    {
+      "name":"Joe Biden (USA)",
+      "value":"1,82 m"
+    },
+    {
+      "name":"Xi Jinping (Volksrepublik China)",
+      "value":"1,80 m"
+    },
+    {
+      "name":"Frank-Walter Steinmeier (Deutschland)",
+      "value":"1,78 m"
+    },
+    {
+      "name":"Boris Johnson (Vereinigtes Königreich)",
+      "value":"1,75 m"
+    },
+    {
+      "name":"Victor Orban (Ungarn)",
+      "value":"1,73 m"
+    },
+    {
+      "name":"Emmanuel Macron (Frankreich)",
+      "value":"1,72 m"
+    },
+    {
+      "name":"Vladimir Putin (Russland)",
+      "value":"1,70 m"
+    },
+    {
+      "name":"Angela Merkel (Deutschland)",
+      "value":"1,65 m"
+    },
+    {
+      "name":"Queen Elisabeth II. (Vereinigtes Königreich, Kanada, Australien, Neuseeland, Jamaika und 11 weitere)",
+      "value":"1,63 m"
+    }
+  ]
+}

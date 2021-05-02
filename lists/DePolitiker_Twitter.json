@@ -1,0 +1,150 @@
+{
+  "short":"DePolitiker_Twitter",
+  "name":"Deutsche Politiker nach Twitter Followern",
+  "subjects":["Politik","Netzkultur"],
+  "description":"Sortieren Sie diese deutschen Politiker nach der Zahl ihrer Follower auf Twitter, beginnend mit den meisten. Gibt es mehrere Account, wird der mit den meisten Followern gezählt. [Stand: 02.05.2021]",
+  "standard":"@ArminLaschet - Armin Laschet (CDU)",
+  "cut":true,
+  "things":[
+    {
+      "name":"@MartinSchulz - Martin Schulz (SPD)",
+      "value":"ca. 680 Tausend"
+    },
+    {
+      "name":"@vonderleyen - Ursula von der Leyen (CDU)",
+      "value":"ca. 587 Tausend"
+    },
+    {
+      "name":"@Karl_Lauterbach - Karl Lauterbach (SPD)",
+      "value":"ca. 507 Tausend"
+    },
+    {
+      "name":"@SWagenknecht - Sahra Wagenknecht (LINKE)",
+      "value":"ca. 470 Tausend"
+    },
+    {
+      "name":"@c_lindner - Christian Lindner (FDP)",
+      "value":"ca. 453 Tausend"
+    },
+    {
+      "name":"@HeikoMaas - Heiko Maas (CDU)",
+      "value":"ca. 451 Tausend"
+    },
+    {
+      "name":"@GregorGysi - Gregor Gysi (LINKE)",
+      "value":"ca. 410 Tausend"
+    },
+    {
+      "name":"@MartinSonneborn - Martin Sonneborn (Die PARTEI)",
+      "value":"ca. 305 Tausend"
+    },
+    {
+      "name":"@peteraltmaier - Peter Altmaier (CDU)",
+      "value":"ca. 297 Tausend"
+    },
+    {
+      "name":"@sigmargabriel - Sigmar Gabriel (SPD)",
+      "value":"ca. 289 Tausend"
+    },
+    {
+      "name":"@Markus_Soeder - Markus Söder (CSU)",
+      "value":"ca. 284 Tausend"
+    },
+    {
+      "name":"@KuehniKev - Kevin Kühnert (SPD)",
+      "value":"ca. 266 Tausend"
+    },
+    {
+      "name":"@jensspahn - Jens Spahn (CDU)",
+      "value":"ca. 248 Tausend"
+    },
+    {
+      "name":"@ABaerbock - Annalena Baerbock (GRÜNE)",
+      "value":"ca. 240 Tausend"
+    },
+    {
+      "name":"@cem_oezdemir - Cem Özdemir (GRÜNE)",
+      "value":"ca. 232 Tausend"
+    },
+    {
+      "name":"@GoeringEckardt - Katrin Göring-Eckardt (GRÜNE)",
+      "value":"ca. 184 Tausend"
+    },
+    {
+      "name":"@ArminLaschet - Armin Laschet (CDU)",
+      "value":"ca. 143 Tausend"
+    },
+    {
+      "name":"@_FriedrichMerz - Friedrich Merz (CDU)",
+      "value":"ca. 141 Tausend"
+    },
+    {
+      "name":"@OlafScholz - Olaf Scholz (SPD)",
+      "value":"ca. 133 Tausend"
+    },
+    {
+      "name":"@akk - Anegret Kramp-Karrenbauer (CDU)",
+      "value":"ca. 125 Tausend"
+    },
+    {
+      "name":"@katjakipping - Katja Kipping (LINKE)",
+      "value":"ca. 124 Tausend"
+    },
+    {
+      "name":"@Alice_Weidel - Alice Weidel (AfD)",
+      "value":"ca. 116 Tausend"
+    },
+    {
+      "name":"@EskenSaskia - Saskia Esken (SPD)",
+      "value":"ca. 87 Tausend"
+    },
+    {
+      "name":"@Joerg_Meuthen - Jörg Meuthen (AfD)",
+      "value":"ca. 71 Tausend"
+    },
+    {
+      "name":"@andreasscheuer - Andreas Scheuer (CSU)",
+      "value":"ca. 67 Tausend"
+    },
+    {
+      "name":"@Beatrix_vStorch - Beatrix von Storch (AfD)",
+      "value":"ca. 62 Tausend"
+    },
+    {
+      "name":"@NowaboFM - Norbert Walter-Borjans (SPD)",
+      "value":"ca. 53 Tausend"
+    },
+    {
+      "name":"@FraukePetry - Frauke Petry (parteilos)",
+      "value":"ca. 51 Tausend"
+    },
+    {
+      "name":"@PaulZiemiak - Paul Zimiak (CDU)",
+      "value":"ca. 46 Tausend"
+    },
+    {
+      "name":"@BjoernHoecke - Björn Höcke (AfD)",
+      "value":"ca. 44 Tausend"
+    },
+    {
+      "name":"@HBraun - Helge Braun (CDU)",
+      "value":"ca. 34 Tausend"
+    },
+    {
+      "name":"@Lambsdorff - Alexander Graf Lambsdorff (FDP)",
+      "value":"ca. 21 Tausend"
+    },
+    {
+      "name":"@philipproesler - Philipp Rösler (FDP)",
+      "value":"ca. 17 Tausend"
+    },
+    {
+      "name":"@BerndLucke - Bernd Lucke (LKR)",
+      "value":"ca. 8 Tausend"
+    },
+    {
+      "name":"@FranziskaGiffey - Franziska Giffey (SPD)",
+      "value":"ca. 2500"
+    }
+  ]
+}

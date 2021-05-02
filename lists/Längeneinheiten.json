@@ -1,0 +1,138 @@
+{
+  "short":"Längeneinheiten",
+  "name":"Längeneinheiten",
+  "subjects":["Physik","Mathematik","Astronomie"],
+  "description":"Sortieren Sie diese Längeneinheiten, beginnend mit der Längsten",
+  "standard":"Meter",
+  "cut":false,
+  "things":[
+    {
+      "name":"Parsec",
+      "value":"30.856.776.000.000.000 Meter"
+    },
+    {
+      "name":"Lichtjahr",
+      "value":"9.454.254.955.488.000 Meter"
+    },
+    {
+      "name":"Terameter",
+      "value":"1.000.000.000.000 Meter"
+    },
+    {
+      "name":"Astronomische Einheit",
+      "value":"149.597.870.700 Meter"
+    },
+    {
+      "name":"Monddistanz",
+      "value":"384.402.000 Meter"
+    },
+    {
+      "name":"Lichtsekunde",
+      "value":"299.792.458 Meter"
+    },
+    {
+      "name":"Spanische League",
+      "value":"5.570 Meter"
+    },
+    {
+      "name":"Britische League",
+      "value":"4.800 Meter"
+    },
+    {
+      "name":"Seemeile",
+      "value":"1.852 Meter"
+    },
+    {
+      "name":"Meile",
+      "value":"1.609,3 Meter"
+    },
+    {
+      "name":"Kilometer",
+      "value":"1.000 Meter"
+    },
+    {
+      "name":"Stadion",
+      "value":"177,6 Meter"
+    },
+    {
+      "name":"Toise",
+      "value":"1,94 Meter"
+    },
+    {
+      "name":"Klafter",
+      "value":"1,9 Meter"
+    },
+    {
+      "name":"Meter",
+      "value":"1 Meter"
+    },
+    {
+      "name":"Yard",
+      "value":"0,9144 Meter"
+    },
+    {
+      "name":"Elle",
+      "value":"0,46 Meter"
+    },
+    {
+      "name":"Pariser Fuß",
+      "value":"0,324 Meter"
+    },
+    {
+      "name":"Foot",
+      "value":"0,3048 Meter"
+    },
+    {
+      "name":"Licht-Nanosekunde",
+      "value":"0,299792458 Meter"
+    },
+    {
+      "name":"Spanne",
+      "value":"0,23 Meter"
+    },
+    {
+      "name":"Dezimeter",
+      "value":"0,1 Meter"
+    },
+    {
+      "name":"Handbreite",
+      "value":"0,08 Meter"
+    },
+    {
+      "name":"Zoll",
+      "value":"0,025 Meter"
+    },
+    {
+      "name":"Centimeter",
+      "value":"0,01 Meter"
+    },
+    {
+      "name":"Line",
+      "value":"0,00211 Meter"
+    },
+    {
+      "name":"Milimeter",
+      "value":"0,001 Meter"
+    },
+    {
+      "name":"Calibre",
+      "value":"0,000254 Meter"
+    },
+    {
+      "name":"Mikrometer",
+      "value":"0,000001 Meter"
+    },
+    {
+      "name":"Nanometer",
+      "value":"0,000000001 Meter"
+    },
+    {
+      "name":"Ångström",
+      "value":"0,0000000001 Meter"
+    },
+    {
+      "name":"Planck Länge",
+      "value":"1,616 199 × 10⁻³⁵ Meter"
+    }
+  ]
+}

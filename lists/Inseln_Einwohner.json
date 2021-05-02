@@ -1,0 +1,230 @@
+{
+  "short":"Inseln_Einwohner",
+  "name":"Inseln nach Einwohnerzahl",
+  "subjects":["Geographie","Dmeographie"],
+  "description":"Sortieren Sie diese Inseln nach der Zahl der Einwohner",
+  "standard":"Teneriffa",
+  "cut":true,
+  "things":[
+    {
+      "name":"Java",
+      "value":"ca. 132 Millionen"
+    },
+    {
+      "name":"Honshū",
+      "value":"ca. 104 Millionen"
+    },
+    {
+      "name":"Großbritannien",
+      "value":"ca. 60 Millionen"
+    },
+    {
+      "name":"Sumatra",
+      "value":"ca. 47 Millionen"
+    },
+    {
+      "name":"Luzon",
+      "value":"ca. 46 Millionen"
+    },
+    {
+      "name":"Taiwan",
+      "value":"ca. 23 Millionen"
+    },
+    {
+      "name":"Madagaskar",
+      "value":"ca. 19,9 Millionen"
+    },
+    {
+      "name":"Borneo",
+      "value":"ca. 19,7 Millionen"
+    },
+    {
+      "name":"Kuba",
+      "value":"ca. 11,1 Millionen"
+    },
+    {
+      "name":"Hainan",
+      "value":"ca. 8,6 Millionen"
+    },
+    {
+      "name":"Long Island",
+      "value":"ca. 7,5 Millionen"
+    },
+    {
+      "name":"Neuguinea",
+      "value":"ca. 6,4 Millionen"
+    },
+    {
+      "name":"Irland",
+      "value":"ca. 6 Millionen"
+    },
+    {
+      "name":"Sizilien",
+      "value":"ca. 5 Millionen"
+    },
+    {
+      "name":"Bali",
+      "value":"ca. 3,8 Millionen"
+    },
+    {
+      "name":"Nordinsel Neuseelands",
+      "value":"ca. 3 Millionen"
+    },
+    {
+      "name":"Jamaika",
+      "value":"ca. 2,7 Millionen"
+    },
+    {
+      "name":"Sardinien",
+      "value":"ca. 1,65 Millionen"
+    },
+    {
+      "name":"Manhatten",
+      "value":"ca. 1,62 Millionen"
+    },
+    {
+      "name":"Mauritius",
+      "value":"ca. 1,3 Millionen"
+    },
+    {
+      "name":"Hongkong",
+      "value":"ca. 1,2 Millionen"
+    },
+    {
+      "name":"Zypern",
+      "value":"ca. 1 Millionen"
+    },
+    {
+      "name":"Oʻahu",
+      "value":"ca. 950 Tausend"
+    },
+    {
+      "name":"Teneriffa",
+      "value":"ca. 900 Tausend"
+    },
+    {
+      "name":"Mallorca",
+      "value":"ca. 860 Tausend"
+    },
+    {
+      "name":"Gran Canaria",
+      "value":"ca. 838 Tausend"
+    },
+    {
+      "name":"Kreta",
+      "value":"ca. 623 Tausend"
+    },
+    {
+      "name":"Sansibar",
+      "value":"ca. 619 Tausend"
+    },
+    {
+      "name":"Jeju",
+      "value":"ca. 560 Tausend"
+    },
+    {
+      "name":"Tasmanien",
+      "value":"ca. 507 Tausend"
+    },
+    {
+      "name":"Neufundland",
+      "value":"ca. 479 Tausend"
+    },
+    {
+      "name":"Malta",
+      "value":"ca. 373 Tausend"
+    },
+    {
+      "name":"Island",
+      "value":"ca. 310 Tausend"
+    },
+    {
+      "name":"Korsika",
+      "value":"ca. 281 Tausend"
+    },
+    {
+      "name":"Barbados",
+      "value":"ca. 278 Tausend"
+    },
+    {
+      "name":"Madeira",
+      "value":"ca. 245 Tausend"
+    },
+    {
+      "name":"Tahiti",
+      "value":"ca. 178 Tausend"
+    },
+    {
+      "name":"Isle of Wight",
+      "value":"ca. 140 Tausend"
+    },
+    {
+      "name":"Curacao",
+      "value":"ca. 138 Tausend"
+    },
+    {
+      "name":"Lanzarote",
+      "value":"ca. 131 Tausend"
+    },
+    {
+      "name":"Ibiza",
+      "value":"ca. 117 Tausend"
+    },
+    {
+      "name":"Korfu",
+      "value":"ca. 107 Tausend"
+    },
+    {
+      "name":"Lesbos",
+      "value":"ca. 90 Tausend"
+    },
+    {
+      "name":"Isle of Man",
+      "value":"ca. 80 Tausend"
+    },
+    {
+      "name":"Rügen",
+      "value":"ca. 73 Tausend"
+    },
+    {
+      "name":"Gotland",
+      "value":"ca. 56 Tausend"
+    },
+    {
+      "name":"Grand Bahama",
+      "value":"ca. 51 Tausend"
+    },
+    {
+      "name":"Samos",
+      "value":"ca. 33 Tausend"
+    },
+    {
+      "name":"Sylt",
+      "value":"ca. 21 Tausend"
+    },
+    {
+      "name":"Krk",
+      "value":"ca. 17 Tausend"
+    },
+    {
+      "name":"Fehmarn",
+      "value":"ca. 13 Tausend"
+    },
+    {
+      "name":"Capri",
+      "value":"ca. 12 Tausend"
+    },
+    {
+      "name":"Bora Bora",
+      "value":"ca. 10 Tausend"
+    },
+    {
+      "name":"St. Helena",
+      "value":"ca. 4,8 Tausend"
+    },
+    {
+      "name":"Herrenchiemsee",
+      "value":"ca. 18 (nicht Tausend, einfach 18)"
+    }
+  ]
+}

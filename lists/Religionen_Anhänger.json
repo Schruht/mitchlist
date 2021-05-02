@@ -1,0 +1,102 @@
+{
+  "short":"Religionen_Anhänger",
+  "name":"Religionen nach Anhänger",
+  "subjects":["Theologie"],
+  "description":"Sortieren Sie diese Religion nach der Zahl ihrer Anhänger, beginnend mit der Größten",
+  "standard":"Katholisches Christentum",
+  "cut":false,
+  "things":[
+    {
+      "name":"Christentum (Gesamt)",
+      "value":"ca. 2,4 Milliarden"
+    },
+    {
+      "name":"Islam (Gesamt)",
+      "value":"ca. 1,9 Milliarden"
+    },
+    {
+      "name":"Sunnitischer Islam",
+      "value":"ca. 1,6 Milliarden"
+    },
+    {
+      "name":"Katholisches Christentum",
+      "value":"ca. 1,3 Milliarden"
+    },
+    {
+      "name":"Hinduismus",
+      "value":"ca. 1,2 Milliarden"
+    },
+    {
+      "name":"Protestantisches Christentum",
+      "value":"ca. 0,9 Milliarden"
+    },
+    {
+      "name":"Buddhismus",
+      "value":"ca. 0,5 Milliarden"
+    },
+    {
+      "name":"Schiitischer Islam",
+      "value":"ca. 280 Millionen"
+    },
+    {
+      "name":"Östlich-Orthodoxes Christentum",
+      "value":"ca. 220 Millionen"
+    },
+    {
+      "name":"Anglikanisches Christentum",
+      "value":"ca. 110 Millionen"
+    },
+    {
+      "name":"Shintoismus",
+      "value":"ca. 104 Millionen"
+    },
+    {
+      "name":"Sikhismus",
+      "value":"ca. 25 Millionen"
+    },
+    {
+      "name":"Judentum",
+      "value":"ca. 14 Millionen"
+    },
+    {
+      "name":"Daoismus",
+      "value":"ca. 12 Millionen"
+    },
+    {
+      "name":"Daoismus",
+      "value":"ca. 12 Millionen"
+    },
+    {
+      "name":"Zeugen Jehovas",
+      "value":"ca. 8,7 Millionen"
+    },
+    {
+      "name":"Konfuzianismus",
+      "value":"ca. 6,5 Millionen"
+    },
+    {
+      "name":"Jainismus",
+      "value":"ca. 4,4 Millionen"
+    },
+    {
+      "name":"Rastafari",
+      "value":"ca. 1 Millionen"
+    },
+    {
+      "name":"Wicca",
+      "value":"ca. 0,8 Millionen"
+    },
+    {
+      "name":"Quäker",
+      "value":"ca. 0,4 Millionen"
+    },
+    {
+      "name":"Zoroastrismus",
+      "value":"ca. 0,2 Millionen"
+    },
+    {
+      "name":"Scientology",
+      "value":"ca. 0,1 Millionen"
+    }
+  ]
+}

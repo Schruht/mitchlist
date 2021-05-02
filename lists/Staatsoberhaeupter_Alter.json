@@ -1,0 +1,110 @@
+{
+  "short":"Staatsoberhaeupter_Alter",
+  "name":"Staatsoberhäupter nach Alter",
+  "subjects":["Politik","Alter"],
+  "description":"Sortieren Sie diese Staatsoberhäupter und Regierungschefs nach ihrem Alter, beginnend mit dem/der Jüngsten",
+  "standard":"Angela Merkel",
+  "cut":true,
+  "things":[
+    {
+      "name":"Sebastian Kurz (Österreich)",
+      "value":"27. August 1986"
+    },
+    {
+      "name":"Sanna Marin (Finnland)",
+      "value":"16. November 1985"
+    },
+    {
+      "name":"Kim Jong-un (Nordkorea)",
+      "value":"8. Januar 1983"
+    },
+    {
+      "name":"Jacinda Ardern (Neuseeland)",
+      "value":"26. Juli 1980"
+    },
+    {
+      "name":"Jigme Khesar Namgyel Wangchuck (Bhutan)",
+      "value":"21. Februar 1980"
+    },
+    {
+      "name":"Emmanuel Macron (Frankreich)",
+      "value":"21. Dezember 1977"
+    },
+    {
+      "name":"Andrzej Duda (Polen)",
+      "value":"16. Mai 1972"
+    },
+    {
+      "name":"Justin Trudeau (Kanada)",
+      "value":"25. Dezember 1971"
+    },
+    {
+      "name":"Baschar al-Assad (Syrien)",
+      "value":"11. September 1965"
+    },
+    {
+      "name":"Boris Johnson (Vereinigtes Königreich)",
+      "value":"19. Juni 1964"
+    },
+    {
+      "name":"Viktor Orbán (Ungarn)",
+      "value":"31. Mai 1963"
+    },
+    {
+      "name":"Chaltmaagiin Battulga (Mongolei)",
+      "value":"3. März 1963"
+    },
+    {
+      "name":"Frank-Walter Steinmeier (Deutschland)",
+      "value":"5. Januar 1956"
+    },
+    {
+      "name":"Angela Merkel (Deutschland)",
+      "value":"17. Juli 1954"
+    },
+    {
+      "name":"Recep Tayyip Erdoğan (Türkei)",
+      "value":"26. Februar 1954"
+    },
+    {
+      "name":"Xi Jinping (Volksrepublic China)",
+      "value":"15. Juni 1953"
+    },
+    {
+      "name":"Vladimir Putin (Russland)",
+      "value":"7. Oktober 1952"
+    },
+    {
+      "name":"Narendra Modi (Indien)",
+      "value":"17. September 1950"
+    },
+    {
+      "name":"Benjamin Netanjahu (Israel)",
+      "value":"21. Oktober 1949"
+    },
+    {
+      "name":"Alexander Van der Bellen (Österreich)",
+      "value":"18. Januar 1944"
+    },
+    {
+      "name":"Joe Biden (USA)",
+      "value":"20. November 1942"
+    },
+    {
+      "name":"Michael D. Higgins (Irland)",
+      "value":"18. April 1941"
+    },
+    {
+      "name":"Papst Franziskus (Vatikan)",
+      "value":"17. Dezember 1936"
+    },
+    {
+      "name":"Salman bin Abdulaziz Al Saud (Saudi-Arabien)",
+      "value":"31. Dezember 1935"
+    },
+    {
+      "name":"Queen Elisabeth II. (Vereinigtes Königreich, Kanada, Australien, Neuseeland, Jamaika und 11 weitere)",
+      "value":"21. April 1926"
+    }
+  ]
+}
