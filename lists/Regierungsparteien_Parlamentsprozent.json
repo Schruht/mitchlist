@@ -1,0 +1,98 @@
+{
+  "short":"Regierungsparteien_Parlamentsprozent",
+  "name":"Internationale Regierungsparteien nach Prozent",
+  "subjects":["Politik"],
+  "description":"Sortieren Sie diese Regierungsparteien nach der Prozentzahl der Sitze, die sie im jeweiligen Parlament haben.",
+  "standard":"CDU (Deutschland - Bundestag)",
+  "cut":false,
+  "things":[
+    {
+      "name":"Kommunistische Partei Kubas (Cuba - Asamblea Nacional del Poder Popular)",
+      "value":"100%"
+    },
+    {
+      "name":"Partei der Arbeit Koreas (Nordkorea - Oberste Volksversammlung)",
+      "value":"88,3%"
+    },
+    {
+      "name":"Einiges Russland (Russland - Duma)",
+      "value":"76,2%"
+    },
+    {
+      "name":"Kommunistische Partei Chinas (Volksrepublik China - Nationaler Volkskongress)",
+      "value":"70,6%"
+    },
+    {
+      "name":"Fidesz (Ungarn - Parlament)",
+      "value":"58,8%"
+    },
+    {
+      "name":"Conservatives (Vereinigtes Königreich - Unterhaus)",
+      "value":"55,7%"
+    },
+    {
+      "name":"Labour (Neuseeland - Repräsentantenhaus)",
+      "value":"54,2%"
+    },
+    {
+      "name":"Prawo i Sprawiedliwość (Polen - Sejm)",
+      "value":"51,1%"
+    },
+    {
+      "name":"Demokraten (USA - Repräsentantenhaus)",
+      "value":"51%"
+    },
+    {
+      "name":"La République en Marche (Frankreich - Nationalversammlung)",
+      "value":"47%"
+    },
+    {
+      "name":"CSU (Bayern - Landtag)",
+      "value":"40,9%"
+    },
+    {
+      "name":"ÖVP (Österreich - Nationalrat)",
+      "value":"38,9%"
+    },
+    {
+      "name":"Movimento 5 Stelle (Italien - Senato)",
+      "value":"33,3%"
+    },
+    {
+      "name":"Partido Socialista Obrero Español (Spanien - Congreso de los Diputados)",
+      "value":"30,9%"
+    },
+    {
+      "name":"CDU (Deutschland - Bundestag)",
+      "value":"28,2%"
+    },
+    {
+      "name":"Socialdemokraterne (Dänemark - Folketing)",
+      "value":"27,4%"
+    },
+    {
+      "name":"Unabhängigkeitspartei (Island - Althing)",
+      "value":"25,4%"
+    },
+    {
+      "name":"Christdemokraten (Europäisches Parlament)",
+      "value":"25,2%"
+    },
+    {
+      "name":"Fólkaflokkurin (Faröer Inseln - Løgting)",
+      "value":"24,2%"
+    },
+    {
+      "name":"Fianna Fáil (Irland - Dáil Éireann)",
+      "value":"23,1%"
+    },
+    {
+      "name":"Sozialdemokratische Partei Finnlands (Finnland - Parlament)",
+      "value":"20%"
+    },
+    {
+      "name":"Partido Social Liberal (Brasilien - Abgeordnetenkammer)",
+      "value":"10,7%"
+    }
+  ]
+}
