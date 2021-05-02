@@ -1,0 +1,105 @@
+{
+  "short":"Berge_Hoehe",
+  "name":"Berge nach Höhe",
+  "subjects":["Geographie"],
+  "description":"Sortieren Sie diese ",
+  "standard":"Zugspitze",
+  "cut":true,
+  "things":[
+    {
+      "name":"Mount Everest",
+      "value":"8848 m"
+    },
+    {
+      "name":"K2",
+      "value":"8611 m"
+    },
+    {
+      "name":"Annapurna I",
+      "value":"8091 m"
+    },
+    {
+      "name":"Denali",
+      "value":"6190 m"
+    },
+    {
+      "name":"Kilimanjaro",
+      "value":"5895 m"
+    },
+    {
+      "name":"Mont Blanc",
+      "value":"4809 m"
+    },
+    {
+      "name":"Matterhorn",
+      "value":"4478 m"
+    },
+    {
+      "name":"Rainer",
+      "value":"4392 m"
+    },
+    {
+      "name":"Großglockner",
+      "value":"3798 m"
+    },
+    {
+      "name":"Fuji",
+      "value":"3776 m"
+    },
+    {
+      "name":"Teide",
+      "value":"3718 m"
+    },
+    {
+      "name":"Etna",
+      "value":"3326 m"
+    },
+    {
+      "name":"Zugspitze",
+      "value":"2962 m"
+    },
+    {
+      "name":"Olymp",
+      "value":"2917 m"
+    },
+    {
+      "name":"Mount Saint Helens",
+      "value":"2549 m"
+    },
+    {
+      "name":"Sinai",
+      "value":"2285 m"
+    },
+    {
+      "name":"Rushmore",
+      "value":"1745 m"
+    },
+    {
+      "name":"Ben Nevis",
+      "value":"1345 m"
+    },
+    {
+      "name":"Vesuv",
+      "value":"1281 m"
+    },
+    {
+      "name":"Tafelberg",
+      "value":"1085 m"
+    },
+    {
+      "name":"Krakatoa",
+      "value":"813 m"
+    },
+    {
+      "name":"Felsen von Gibraltar",
+      "value":"426 m"
+    },
+    {
+      "name":"Zuckerhut",
+      "value":"396 m"
+    },
+    {
+      "name":"Uluru/Ayers Rock",
+      "value":"350 m"
+    }
+}

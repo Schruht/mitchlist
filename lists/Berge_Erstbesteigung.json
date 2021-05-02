@@ -1,0 +1,74 @@
+{
+  "short":"Berge_Erstbesteigung",
+  "name":"Berge nach dem Datum der Erstbesteigung",
+  "subjects":["Geographie","Chronologie"],
+  "description":"Sortieren Sie diese Berge nach ihrem Datum der Erstbesteigung",
+  "standard":"Kilimandscharo",
+  "cut":true,
+  "things":[
+    {
+      "name":"Fuji",
+      "value":"663"
+    },
+    {
+      "name":"Tafelberg",
+      "value":"1503"
+    },
+    {
+      "name":"Ben Nevis",
+      "value":"1771"
+    },
+    {
+      "name":"Mont Blanc (Alpen)",
+      "value":"1786"
+    },
+    {
+      "name":"Großglockner (Alpen)",
+      "value":"1800"
+    },
+    {
+      "name":"Zugspitze (Alpen)",
+      "value":"1820"
+    },
+    {
+      "name":"Matterhorn (Alpen)",
+      "value":"1865"
+    },
+    {
+      "name":"Elbrus (Kaukasus)",
+      "value":"1874"
+    },
+    {
+      "name":"Kilimandscharo",
+      "value":"1889"
+    },
+    {
+      "name":"Denali/Mount McKinley (Alaska)",
+      "value":"1913"
+    },
+    {
+      "name":"Annapurna (Himalaya)",
+      "value":"1950"
+    },
+    {
+      "name":"Mount Everest (Himalaya)",
+      "value":"1953"
+    },
+    {
+      "name":"K2 (Karakorum)",
+      "value":"1954"
+    },
+    {
+      "name":"Broad Peak (Karakorum)",
+      "value":"1957"
+    },
+    {
+      "name":"Dhaulagiri (Himalaya)",
+      "value":"1960"
+    },
+    {
+      "name":"Shishapangma (Himalaya)",
+      "value":"1964"
+    }
+  ]
+}

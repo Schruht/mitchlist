@@ -1,0 +1,74 @@
+{
+  "short":"Seen_Groesse",
+  "name":"Seen nach Größe",
+  "subjects":["Geographie"],
+  "description":"Sortieren Sie diese Seen nach ihrer Größe, beginnend mit dem größten See",
+  "standard":"Bodensee",
+  "cut":true,
+  "things":[
+    {
+      "name":"Kaspisches Meer",
+      "value":"ca. 386 Tausend km²"
+    },
+    {
+      "name":"Victoriasee",
+      "value":"ca. 68 Tausend km²"
+    },
+    {
+      "name":"Lake Michigan",
+      "value":"ca. 58 Tausend km²"
+    },
+    {
+      "name":"Tanganjikasee",
+      "value":"ca. 33 Tausend km²"
+    },
+    {
+      "name":"Baikalsee",
+      "value":"ca. 31 Tausend km²"
+    },
+    {
+      "name":"Malawisee",
+      "value":"ca. 30 Tausend km²"
+    },
+    {
+      "name":"Lake Erie",
+      "value":"ca. 25 Tausend km²"
+    },
+    {
+      "name":"Titicacasee",
+      "value":"ca. 8200 km²"
+    },
+    {
+      "name":"Bodensee",
+      "value":"ca. 536 km²"
+    },
+    {
+      "name":"Lake Tahoe",
+      "value":"ca. 497 km²"
+    },
+    {
+      "name":"Neusiedler See",
+      "value":"ca. 320 km²"
+    },
+    {
+      "name":"Chiemsee",
+      "value":"ca. 80 km²"
+    },
+    {
+      "name":"Loch Ness",
+      "value":"ca. 46 km²"
+    },
+    {
+      "name":"Attersee",
+      "value":"ca. 46 km²"
+    },
+    {
+      "name":"Traunsee",
+      "value":"ca. 24 km²"
+    },
+    {
+      "name":"Königssee",
+      "value":"ca. 5 km²"
+    }
+  ]
+}

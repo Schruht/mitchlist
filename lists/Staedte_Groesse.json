@@ -1,0 +1,182 @@
+{
+  "short":"Staedte_Groesse",
+  "name":"Städte nach Einwohnerzahl",
+  "subjects":["Demographie"],
+  "description":"Sortieren Sie diese Städte nach ihren Einwohnerzahlen",
+  "standard":"Berlin",
+  "cut":true,
+  "things":[
+    {
+      "name":"Tokyo",
+      "value":"ca. 37 Millionen"
+    },
+    {
+      "name":"Shanghai",
+      "value":"ca. 25 Millionen"
+    },
+    {
+      "name":"Mexiko-Stadt",
+      "value":"ca. 20 Millionen"
+    },
+    {
+      "name":"Kairo",
+      "value":"ca. 20 Millionen"
+    },
+    {
+      "name":"Beijing",
+      "value":"ca. 19,6 Millionen"
+    },
+    {
+      "name":"Beijing",
+      "value":"ca. 18,8 Millionen"
+    },
+    {
+      "name":"Buenos Aires",
+      "value":"ca. 14,9 Millionen"
+    },
+    {
+      "name":"Istanbul",
+      "value":"ca. 14,7 Millionen"
+    },
+    {
+      "name":"Manila",
+      "value":"ca. 13,4 Millionen"
+    },
+    {
+      "name":"Kinshasa",
+      "value":"ca. 13,1 Millionen"
+    },
+    {
+      "name":"Los Angeles",
+      "value":"ca. 12,4 Millionen"
+    },
+    {
+      "name":"Paris",
+      "value":"ca. 10,9 Millionen"
+    },
+    {
+      "name":"Jakarta",
+      "value":"ca. 10,5 Millionen"
+    },
+    {
+      "name":"Lima",
+      "value":"ca. 10,3 Millionen"
+    },
+    {
+      "name":"Seoul",
+      "value":"ca. 9,9 Millionen"
+    },
+    {
+      "name":"London",
+      "value":"ca. 9 Millionen"
+    },
+    {
+      "name":"Chicago",
+      "value":"ca. 8,8 Millionen"
+    },
+    {
+      "name":"Luanda",
+      "value":"ca. 7,7 Millionen"
+    },
+    {
+      "name":"Hongkong",
+      "value":"ca. 7,4 Millionen"
+    },
+    {
+      "name":"Riyadh",
+      "value":"ca. 6,9 Millionen"
+    },
+    {
+      "name":"Madrid",
+      "value":"ca. 6,5 Millionen"
+    },
+    {
+      "name":"Toronto",
+      "value":"ca. 6 Millionen"
+    },
+    {
+      "name":"Singapur",
+      "value":"ca. 5,8 Millionen"
+    },
+    {
+      "name":"Barcelona",
+      "value":"ca. 5,5 Millionen"
+    },
+    {
+      "name":"Washington D.C.",
+      "value":"ca. 5,2 Millionen"
+    },
+    {
+      "name":"Berlin",
+      "value":"ca. 3,6 Millionen"
+    },
+    {
+      "name":"Rom",
+      "value":"ca. 2,8 Millionen"
+    },
+    {
+      "name":"Havanna",
+      "value":"ca. 2,1 Millionen"
+    },
+    {
+      "name":"Hamburg",
+      "value":"ca. 1,8 Millionen"
+    },
+    {
+      "name":"Nowosibirsk",
+      "value":"ca. 1,6 Millionen"
+    },
+    {
+      "name":"München",
+      "value":"ca. 1,5 Millionen"
+    },
+    {
+      "name":"Ulaanbaatar",
+      "value":"ca. 1,4 Millionen"
+    },
+    {
+      "name":"Mailand",
+      "value":"ca. 1,3 Millionen"
+    },
+    {
+      "name":"Köln",
+      "value":"ca. 1 Millionen"
+    },
+    {
+      "name":"Neapel",
+      "value":"ca. 972 Tausend"
+    },
+    {
+      "name":"Frankfurt am Main",
+      "value":"ca. 763 Tausend"
+    },
+    {
+      "name":"Riga",
+      "value":"ca. 696 Tausend"
+    },
+    {
+      "name":"Düsseldorf",
+      "value":"ca. 621 Tausend"
+    },
+    {
+      "name":"Dresden",
+      "value":"ca. 556 Tausend"
+    },
+    {
+      "name":"Luxor",
+      "value":"ca. 487 Tausend"
+    },
+    {
+      "name":"Florenz",
+      "value":"ca. 383 Tausend"
+    },
+    {
+      "name":"Cardiff",
+      "value":"ca. 349 Tausend"
+    },
+    {
+      "name":"Kiel",
+      "value":"ca. 246 Tausend"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "short":"StarWarsScreentime",
+  "name":"Star Wars Charaktere nach Screentime",
+  "subjects":["Film & Fernsehen"],
+  "description":"Sortieren Sie diese Star Wars Charaktere nach ihrer Screentime in allen 3 Trilogien (ohne die 'Star Wars Story Filme' und die Serien)",
+  "standard":"Padmé Amidala",
+  "cut":false,
+  "things":[
+    {
+      "name":"Anakin Skywalker/Darth Vader",
+      "value":"ca. 162 Minuten"
+    },
+    {
+      "name":"Luke Skywalker",
+      "value":"ca. 132 Minuten"
+    },
+    {
+      "name":"Rey",
+      "value":"ca. 128 Minuten"
+    },
+    {
+      "name":"Obi-Wan Kenobi",
+      "value":"ca. 113 Minuten"
+    },
+    {
+      "name":"Han Solo",
+      "value":"ca. 88 Minuten"
+    },
+    {
+      "name":"Prinzessin Leia",
+      "value":"ca. 77 Minuten"
+    },
+    {
+      "name":"Padmé Amidala",
+      "value":"ca. 72 Minuten"
+    },
+    {
+      "name":"C3PO",
+      "value":"ca. 70 Minuten"
+    },
+    {
+      "name":"Chewbacca",
+      "value":"ca. 59 Minuten"
+    },
+    {
+      "name":"Kylo Ren",
+      "value":"ca. 55 Minuten"
+    },
+    {
+      "name":"Imperator Palpatin",
+      "value":"ca. 49 Minuten"
+    },
+    {
+      "name":"Yoda",
+      "value":"ca. 44 Minuten"
+    },
+    {
+      "name":"Qui-Gon Jinn",
+      "value":"ca. 36 Minuten"
+    },
+    {
+      "name":"BB-8",
+      "value":"ca. 22 Minuten"
+    },
+    {
+      "name":"Jar Jar Binks",
+      "value":"ca. 21 Minuten"
+    },
+    {
+      "name":"Lando Calrissian",
+      "value":"ca. 17 Minuten"
+    },
+    {
+      "name":"Mace Windu",
+      "value":"ca. 15 Minuten"
+    },
+    {
+      "name":"Count Dooku",
+      "value":"ca. 12 Minuten"
+    },
+    {
+      "name":"Jabba",
+      "value":"ca. 7 Minuten"
+    },
+    {
+      "name":"Darth Maul",
+      "value":"ca. 6 Minuten"
+    },
+    {
+      "name":"Grandmoff Tarkin",
+      "value":"ca. 5 Minuten"
+    },
+    {
+      "name":"Captain Phasma",
+      "value":"ca. 3 Minuten"
+    },
+    {
+      "name":"Wedge Antilles",
+      "value":"ca. 2 Minuten"
+    }
+  ]
+}

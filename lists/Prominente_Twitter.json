@@ -1,0 +1,162 @@
+{
+  "short":"Prominente_Twitter",
+  "name":"Prominente nach Followern auf Twitter",
+  "subjects":["Netzkultur"],
+  "description":"Sortieren Sie diese Prominenten und Organisationen nach der Zahl ihrer Follower auf Twitter",
+  "standard":"@RobertDowneyJr - Robert Downey Jr.",
+  "cut":true,
+  "things":[
+    {
+      "name":"@BarackObama - Barack Obama",
+      "value":"ca. 130 Millionen"
+    },
+    {
+      "name":"@justinbieber - Justin Bieber",
+      "value":"ca. 114 Millionen"
+    },
+    {
+      "name":"@katyperry - Katy Perry",
+      "value":"ca. 109 Millionen"
+    },
+    {
+      "name":"@Cristiano - Cristiano Ronaldo",
+      "value":"ca. 92 Millionen"
+    },
+    {
+      "name":"@taylorswift13 - Taylor Swift",
+      "value":"ca. 89 Millionen"
+    },
+    {
+      "name":"@BillGates - Bill Gates",
+      "value":"ca. 54 Millionen"
+    },
+    {
+      "name":"@elonmusk - Elon Musk",
+      "value":"ca. 52 Millionen"
+    },
+    {
+      "name":"@KingJames - LeBron James",
+      "value":"ca. 50 Millionen"
+    },
+    {
+      "name":"@nytimes - The New York Times",
+      "value":"ca. 49 Millionen"
+    },
+    {
+      "name":"@NASA - NASA",
+      "value":"ca. 46 Millionen"
+    },
+    {
+      "name":"@ConanOBrien - Conan O'Brien",
+      "value":"ca. 28 Millionen"
+    },
+    {
+      "name":"@MichelleObama - Michelle Obama",
+      "value":"ca. 20 Millionen"
+    },
+    {
+      "name":"@DalaiLama - Dalai Lama",
+      "value":"ca. 19,3 Millionen"
+    },
+    {
+      "name":"@pontifex - Papst Franciscus",
+      "value":"ca. 18,9 Millionen"
+    },
+    {
+      "name":"@RobertDowneyJr - Robert Downey Jr.",
+      "value":"ca. 16,2 Millionen"
+    },
+    {
+      "name":"@tim_cook - Tim Cook",
+      "value":"ca. 12,8 Millionen"
+    },
+    {
+      "name":"@netflix - Netflix",
+      "value":"ca. 11,6 Millionen"
+    },
+    {
+      "name":"@VP - Kamela Harris (Account des Vizepräsidenten der Vereinigten Staaten)",
+      "value":"ca. 10 Millionen"
+    },
+    {
+      "name":"@WHO - World Health Organization (WHO)",
+      "value":"ca. 9,2 Millionen"
+    },
+    {
+      "name":"@Ubisoft - Ubisoft",
+      "value":"ca. 8,4 Millionen"
+    },
+    {
+      "name":"@BillNye - Bill Nye",
+      "value":"ca. 6,2 Millionen"
+    },
+    {
+      "name":"@GretaThunberg - Greta Thunberg",
+      "value":"ca. 5 Millionen"
+    },
+    {
+      "name":"@usainbolt - Usain Bolt",
+      "value":"ca. 4,9 Millionen"
+    },
+    {
+      "name":"@HamillHimself - Mark Hamill",
+      "value":"ca. 4,6 Millionen"
+    },
+    {
+      "name":"@KevinSpacey - Kevin Spacey",
+      "value":"ca. 3,6 Millionen"
+    },
+    {
+      "name":"@SirPatStew - Patrick Stewart",
+      "value":"ca. 3,6 Millionen"
+    },
+    {
+      "name":"@CocaCola - Coca-Cola",
+      "value":"ca. 3,3 Millionen"
+    },
+    {
+      "name":"@BenAffleck - Ben Affleck",
+      "value":"ca. 3,1 Millionen"
+    },
+    {
+      "name":"@janboehm - Jan Böhmermann",
+      "value":"ca. 2,2 Millionen"
+    },
+    {
+      "name":"@pizzahut - Pizza Hut",
+      "value":"ca. 1,6 Millionen"
+    },
+    {
+      "name":"@MIT - Massachusetts Institute of Technology (MIT)",
+      "value":"ca. 1,1 Millionen"
+    },
+    {
+      "name":"@MagnusCarlsen - Magnus Carlsen",
+      "value":"ca. 494 Tausend"
+    },
+    {
+      "name":"@AuthorDanBrown - Dan Brown",
+      "value":"ca. 408 Tausend"
+    },
+    {
+      "name":"@spain - Spanien",
+      "value":"ca. 325 Tausend"
+    },
+    {
+      "name":"@RoyalAirForce - Royal Air Force",
+      "value":"ca. 254 Tausend"
+    },
+    {
+      "name":"@TheRocketBeans - Rocket Beans TV",
+      "value":"ca. 183 Tausend"
+    },
+    {
+      "name":"@morgan_freeman - Morgan Freeman",
+      "value":"ca. 164 Tausend"
+    },
+    {
+      "name":"@cityoflondon - London",
+      "value":"ca. 52 Tausend"
+    }
+  ]
+}
