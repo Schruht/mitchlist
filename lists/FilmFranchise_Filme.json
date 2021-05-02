@@ -1,0 +1,58 @@
+{
+  "short":"FilmFranchise_Filme",
+  "name":"Film-Franchises nach Anzahl der Filme",
+  "subjects":["Film & Fernsehen"],
+  "description":"Sortieren Sie diese Film-Franchises nach der Zahl der Filme, beginnend mit dem größten Franchise",
+  "standard":"Mittelerde",
+  "cut":true,
+  "things":[
+    {
+      "name":"James Bond",
+      "value":"26"
+    },
+    {
+      "name":"Marvel Cinematic Universe",
+      "value":"23"
+    },
+    {
+      "name":"Star Trek",
+      "value":"13"
+    },
+    {
+      "name":"X-Men",
+      "value":"12"
+    },
+    {
+      "name":"Star Wars (Ohne das berüchtigte Holidays-Special)",
+      "value":"11"
+    },
+    {
+      "name":"Dracula mit Christopher Lee",
+      "value":"9"
+    },
+    {
+      "name":"Rocky",
+      "value":"8"
+    },
+    {
+      "name":"Mittelerde",
+      "value":"6"
+    },
+    {
+      "name":"Fluch der Karibik",
+      "value":"5"
+    },
+    {
+      "name":"Die Tribute von Panem",
+      "value":"4"
+    },
+    {
+      "name":"Batman: The Dark Knight",
+      "value":"3"
+    },
+    {
+      "name":"Die Unglaublichen",
+      "value":"2"
+    }
+  ]
+}

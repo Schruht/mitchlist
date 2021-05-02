@@ -1,0 +1,74 @@
+{
+  "short":"Filme_Bewertung",
+  "name":"Filme nach IMDb Bewertung",
+  "subjects":["Film & Fernsehen"],
+  "description":"Sortieren Sie diese ",
+  "standard":"Mission Impossible",
+  "cut":true,
+  "things":[
+    {
+      "name":"Der Pate (1972)",
+      "value":"9,1"
+    },
+    {
+      "name":"The Dark Knight (2008)",
+      "value":"9,0"
+    },
+    {
+      "name":"Die Zwölf Geschworenen (1957)",
+      "value":"8,9"
+    },
+    {
+      "name":"Parasite (2019)",
+      "value":"8,5"
+    },
+    {
+      "name":"Citizen Kane (1941)",
+      "value":"8,3"
+    },
+    {
+      "name":"Das Leben des Brian (1979)",
+      "value":"8,0"
+    },
+    {
+      "name":"Die Vögel (1963)",
+      "value":"7,7"
+    },
+    {
+      "name":"Batman (1989)",
+      "value":"7,5"
+    },
+    {
+      "name":"Mission: Impossible (1996)",
+      "value":"7,2"
+    },
+    {
+      "name":"Saturday Night Fever (1977)",
+      "value":"6,8"
+    },
+    {
+      "name":"Justice League (2017)",
+      "value":"6,2"
+    },
+    {
+      "name":"Godzilla (1998)",
+      "value":"5,4"
+    },
+    {
+      "name":"After Earth (2013)",
+      "value":"4,8"
+    },
+    {
+      "name":"Fifty Shades of Grey (2015)",
+      "value":"4,1"
+    },
+    {
+      "name":"Batman & Robin (1997)",
+      "value":"3,8"
+    },
+    {
+      "name":"Cats (2009)",
+      "value":"2,9"
+    }
+  ]
+}

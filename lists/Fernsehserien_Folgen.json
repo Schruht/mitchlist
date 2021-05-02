@@ -1,0 +1,150 @@
+{
+  "short":"Fernsehserien_Folgen",
+  "name":"Fernsehserien nach Anzahl der Episoden",
+  "subjects":["Film & Fernsehen"],
+  "description":"Sortieren Sie diese Fernsehserien nach der Zahl der Episoden, beginnend mit der Längsten",
+  "standard":"",
+  "cut":true,
+  "things":[
+    {
+      "name":"Lassie",
+      "value":"591"
+    },
+    {
+      "name":"Bonanza",
+      "value":"431"
+    },
+    {
+      "name":"CSI: Crime Scene Investigation",
+      "value":"337"
+    },
+    {
+      "name":"Supernatural",
+      "value":"327"
+    },
+    {
+      "name":"The Big Bang Theorie",
+      "value":"279"
+    },
+    {
+      "name":"Perry Mason",
+      "value":"271"
+    },
+    {
+      "name":"Mord ist ihr Hobby",
+      "value":"264"
+    },
+    {
+      "name":"Two and a half Men",
+      "value":"262"
+    },
+    {
+      "name":"M*A*S*H",
+      "value":"256"
+    },
+    {
+      "name":"Modern Family",
+      "value":"250"
+    },
+    {
+      "name":"Friends",
+      "value":"236"
+    },
+    {
+      "name":"Akte X",
+      "value":"218"
+    },
+    {
+      "name":"How I Met Your Mother",
+      "value":"208"
+    },
+    {
+      "name":"The King of Queens",
+      "value":"207"
+    },
+    {
+      "name":"The Office",
+      "value":"201"
+    },
+    {
+      "name":"Matlock",
+      "value":"193"
+    },
+    {
+      "name":"Scrubs",
+      "value":"182"
+    },
+    {
+      "name":"Seinfeld",
+      "value":"180"
+    },
+    {
+      "name":"Kobra, übernehmen Sie",
+      "value":"171"
+    },
+    {
+      "name":"Magnum",
+      "value":"162"
+    },
+    {
+      "name":"The Mentalist",
+      "value":"151"
+    },
+    {
+      "name":"Futurama",
+      "value":"140"
+    },
+    {
+      "name":"Parks and Recreation",
+      "value":"126"
+    },
+    {
+      "name":"Batman (1966)",
+      "value":"120"
+    },
+    {
+      "name":"Die Sopranos",
+      "value":"86"
+    },
+    {
+      "name":"Game of Thrones",
+      "value":"73"
+    },
+    {
+      "name":"Columbo",
+      "value":"69"
+    },
+    {
+      "name":"Breaking Bad",
+      "value":"62"
+    },
+    {
+      "name":"Avatar - Der Herr der Elemente",
+      "value":"61"
+    },
+    {
+      "name":"The Wire",
+      "value":"60"
+    },
+    {
+      "name":"Monty Python’s Flying Circus ",
+      "value":"45"
+    },
+    {
+      "name":"Blackadder",
+      "value":"24"
+    },
+    {
+      "name":"Immer wenn er Pillen nahm",
+      "value":"17"
+    },
+    {
+      "name":"Sherlock",
+      "value":"13"
+    },
+    {
+      "name":"Cop Rock",
+      "value":"11"
+    }
+  ]
+}
