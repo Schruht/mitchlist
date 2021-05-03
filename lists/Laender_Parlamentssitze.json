@@ -1,0 +1,102 @@
+{
+  "short":"Laender_Parlamentssitze",
+  "name":"Parlamente nach Zahl der Sitze",
+  "subjects":["Politik"],
+  "description":"Sortieren Sie diese Parlamente nach der Zahl ihrer Sitze, beginnend mit dem größten Parlament.",
+  "standard":"Bundestag (Deutschland)",
+  "cut":true,
+  "things":[
+    {
+      "name":"Nationalkongress (Volksrepublik China)",
+      "value":"2980"
+    },
+    {
+      "name":"Reichstag (Drittes Reich)",
+      "value":"876"
+    },
+    {
+      "name":"Nationalkonvent (Revolutionäres Frankreich)",
+      "value":"850"
+    },
+    {
+      "name":"House of Lords (Großbritannien)",
+      "value":"794"
+    },
+    {
+      "name":"Bundestag (Deutschland)",
+      "value":"709"
+    },
+    {
+      "name":"EU-Parlament",
+      "value":"705"
+    },
+    {
+      "name":"House of Commons (Großbritannien)",
+      "value":"650"
+    },
+    {
+      "name":"Camera dei deputati (Italien)",
+      "value":"630"
+    },
+    {
+      "name":"Nationalversammlung (Frankreich)",
+      "value":"577"
+    },
+    {
+      "name":"Sejm (Polen)",
+      "value":"460"
+    },
+    {
+      "name":"Duma (Russland)",
+      "value":"450"
+    },
+    {
+      "name":"Repräsentantenhaus (Vereinigte Staaten)",
+      "value":"435"
+    },
+    {
+      "name":"Volkskammer (DDR)",
+      "value":"400"
+    },
+    {
+      "name":"Senato (Italien)",
+      "value":"321"
+    },
+    {
+      "name":"Landtag (Bayern)",
+      "value":"205"
+    },
+    {
+      "name":"Nationalrat (Schweitz)",
+      "value":"200"
+    },
+    {
+      "name":"Landtag (Nordrhein-Westfalen)",
+      "value":"199"
+    },
+    {
+      "name":"Nationalrat (Österreich)",
+      "value":"183"
+    },
+    {
+      "name":"Senat (Vereinigte Staaten)",
+      "value":"100"
+    },
+    {
+      "name":"Päpsliches Konklave (2013)",
+      "value":"115"
+    },
+    {
+      "name":"Bürgerschaft (Bremen)",
+      "value":"84"
+    },
+    {
+      "name":"Althing (Island)",
+      "value":"63"
+    },
+    {
+      "name":"Løgting (Faröer)",
+      "value":"33"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "short":"Staatsoberhaeupter_Amtsantritt",
+  "name":"Staatsoberhäupter nach Datum des Amtsantritts",
+  "subjects":["Politik"],
+  "description":"Sortieren Sie diese Staatsoberhäupter und Regierungschef danach, wie lange sie bereits im Amt sind, beginnend mit dem am längsten amtierenden Oberhaupt. Es wird die durchgehende Amtszeit gezählt, war also ein Oberhaupt bereits einmal im Amt, seine Zeit wurde jedoch unterbrochen, zählt hier der erneute Amtsantritt.",
+  "standard":"Angela Merkel (Deutschland)",
+  "cut":true,
+  "things":[
+    {
+      "name":"Elisabet II (u.a. Vereinigtes Königreich)",
+      "value":"Amtsantritt: 6. Februar 1952"
+    },
+    {
+      "name":"Margrethe II (Schweden)",
+      "value":"Amtsantritt: 14. Januar 1972"
+    },
+    {
+      "name":"Ali Khamenei (Iran)",
+      "value":"Amtsantritt: 13. Oktober 1981"
+    },
+    {
+      "name":"Vladimir Putin (Russland)",
+      "value":"Amtsantritt: 9. August 1999"
+    },
+    {
+      "name":"Bashar al-Assad (Syrien)",
+      "value":"Amtsantritt: 17. Juli 2000"
+    },
+    {
+      "name":"Recep Tayyip Erdoğan (Türkei)",
+      "value":"Amtsantritt: 14. März 2003"
+    },
+    {
+      "name":"Chalifa bin Zayid Al Nahyan (Vereinigte Arabische Emirate)",
+      "value":"Amtsantritt: 3. November 2004"
+    },
+    {
+      "name":"Albert II (Monaco)",
+      "value":"Amtsantritt: 31. März 2005"
+    },
+    {
+      "name":"Angela Merkel (Deutschland)",
+      "value":"Amtsantritt: 22. November 2005"
+    },
+    {
+      "name":"Benjamin Netanyahu (Israel)",
+      "value":"Amtsantritt: 31. März 2009"
+    },
+    {
+      "name":"Viktor Orbán (Ungarn)",
+      "value":"Amtsantritt: 09. May 2010"
+    },
+    {
+      "name":"Kim Jong-Un (Nordkorea)",
+      "value":"Amtsantritt: 17. Dezember 2011"
+    },
+    {
+      "name":"Xi Jinping (Volksrepublik China)",
+      "value":"Amtsantritt: 15. November 2012"
+    },
+    {
+      "name":"Papst Franziskus (Vatikan)",
+      "value":"Amtsantritt: 13. März 2013"
+    },
+    {
+      "name":"Narendra Modi (Indien)",
+      "value":"Amtsantritt: 26. Mai 2014"
+    },
+    {
+      "name":"Andrzej Duda (Polen)",
+      "value":"Amtsantritt: 6. August 2015"
+    },
+    {
+      "name":"Justin Trudeau (Kanada)",
+      "value":"Amtsantritt: 4. November 2015"
+    },
+    {
+      "name":"Frank-Walter Steinmeier (Deutschland)",
+      "value":"Amtsantritt: 19. März 2017"
+    },
+    {
+      "name":"Emmanuel Macron (Frankreich und Andorra)",
+      "value":"Amtsantritt: 14. Mai 2017"
+    },
+    {
+      "name":"Jacinda Ardern (Neuseeland)",
+      "value":"Amtsantritt: 26. Oktober 2017"
+    },
+    {
+      "name":"Andrés Manuel López Obrador (Mexico)",
+      "value":"Amtsantritt: 1. Dezember 2018"
+    },
+    {
+      "name":"Jair Bolsonaro (Brasilien)",
+      "value":"Amtsantritt: 1. Januar 2019"
+    },
+    {
+      "name":"Sanna Marin (Finland)",
+      "value":"Amtsantritt: 10. Dezember 2019"
+    },
+    {
+      "name":"Sebastian Kurz (Österreich)",
+      "value":"Amtsantritt: 7. Januar 2020"
+    },
+    {
+      "name":"Joe Biden (USA)",
+      "value":"Amtsantritt: 20. Januar 2021"
+    }
+  ]
+}

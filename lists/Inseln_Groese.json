@@ -1,0 +1,262 @@
+{
+  "short":"Inseln_Groese",
+  "name":"Inseln nach Größe",
+  "subjects":["Geographie"],
+  "description":"Sortieren Sie diese Inseln nach ihrer Fläche, beginnend mit der größten Insel.",
+  "standard":"Irland",
+  "cut":true,
+  "things":[
+    {
+      "name":"Grönland",
+      "value":"2.130.800 km²"
+    },
+    {
+      "name":"Neuguinea",
+      "value":"785.753 km²"
+    },
+    {
+      "name":"Borneo",
+      "value":"743.330 km²"
+    },
+    {
+      "name":"Madagaskar",
+      "value":"586.427 km²"
+    },
+    {
+      "name":"Baffin Island",
+      "value":"507.451 km²"
+    },
+    {
+      "name":"Sumatra",
+      "value":"443.066 km²"
+    },
+    {
+      "name":"Honshu",
+      "value":"227.962 km²"
+    },
+    {
+      "name":"Großbritannien",
+      "value":"216.777 km²"
+    },
+    {
+      "name":"Südinsel (Neuseeland)",
+      "value":"151.215 km²"
+    },
+    {
+      "name":"Java",
+      "value":"126.650 km²"
+    },
+    {
+      "name":"Nordinsel (Neuseeland)",
+      "value":"113.729 km²"
+    },
+    {
+      "name":"Neufundland",
+      "value":"108.860 km²"
+    },
+    {
+      "name":"Kuba",
+      "value":"104.556 km²"
+    },
+    {
+      "name":"Island",
+      "value":"102.819 km²"
+    },
+    {
+      "name":"Irland",
+      "value":"84.421 km²"
+    },
+    {
+      "name":"Hokkaidō",
+      "value":"77.981 km²"
+    },
+    {
+      "name":"Hispanola",
+      "value":"73.929 km²"
+    },
+    {
+      "name":"Sri Lanka",
+      "value":"65.268 km²"
+    },
+    {
+      "name":"Tasmanien",
+      "value":"64.519 km²"
+    },
+    {
+      "name":"Feuerland",
+      "value":"47.992 km²"
+    },
+    {
+      "name":"Southhampton",
+      "value":"37.673 km²"
+    },
+    {
+      "name":"Taiwan",
+      "value":"35.801 km²"
+    },
+    {
+      "name":"Sizilien",
+      "value":"25.426 km²"
+    },
+    {
+      "name":"Sardinien",
+      "value":"23.813 km²"
+    },
+    {
+      "name":"King William Island",
+      "value":"13.111 km²"
+    },
+    {
+      "name":"Jamaika",
+      "value":"10.991 km²"
+    },
+    {
+      "name":"Hawaii",
+      "value":"10.432 km²"
+    },
+    {
+      "name":"Zypern",
+      "value":"9.251 km²"
+    },
+    {
+      "name":"Puerto Rico",
+      "value":"8.882 km²"
+    },
+    {
+      "name":"Korsika",
+      "value":"8.681 km²"
+    },
+    {
+      "name":"Kreta",
+      "value":"8.261 km²"
+    },
+    {
+      "name":"Bali",
+      "value":"5.561 km²"
+    },
+    {
+      "name":"Trinidad",
+      "value":"4.827 km²"
+    },
+    {
+      "name":"Long Island",
+      "value":"3.628 km²"
+    },
+    {
+      "name":"Mallorca",
+      "value":"3.604 km²"
+    },
+    {
+      "name":"Teneriffa",
+      "value":"2.034 km²"
+    },
+    {
+      "name":"Mauritius",
+      "value":"1.873 km²"
+    },
+    {
+      "name":"Skye",
+      "value":"1.656 km²"
+    },
+    {
+      "name":"Gran Canaria",
+      "value":"1.560 km²"
+    },
+    {
+      "name":"O'ahu",
+      "value":"1.545 km²"
+    },
+    {
+      "name":"Rhodos",
+      "value":"1.400 km²"
+    },
+    {
+      "name":"Grand Bahama",
+      "value":"1.373 km²"
+    },
+    {
+      "name":"Tahiti",
+      "value":"1.043 km²"
+    },
+    {
+      "name":"Rügen",
+      "value":"926 km²"
+    },
+    {
+      "name":"Madeira",
+      "value":"741 km²"
+    },
+    {
+      "name":"Menorca",
+      "value":"694 km²"
+    },
+    {
+      "name":"Korfu",
+      "value":"592 km²"
+    },
+    {
+      "name":"Isle of Man",
+      "value":"572 km²"
+    },
+    {
+      "name":"Ibiza",
+      "value":"571 km²"
+    },
+    {
+      "name":"Samos",
+      "value":"476 km²"
+    },
+    {
+      "name":"Krk",
+      "value":"406 km²"
+    },
+    {
+      "name":"Komodo",
+      "value":"390 km²"
+    },
+    {
+      "name":"Isle of Wight",
+      "value":"381 km²"
+    },
+    {
+      "name":"Jan Mayen",
+      "value":"380 km²"
+    },
+    {
+      "name":"Malta",
+      "value":"246 km²"
+    },
+    {
+      "name":"Elba",
+      "value":"224 km²"
+    },
+    {
+      "name":"Osterinsel",
+      "value":"162 km²"
+    },
+    {
+      "name":"St. Helena",
+      "value":"123 km²"
+    },
+    {
+      "name":"Sylt",
+      "value":"99 km²"
+    },
+    {
+      "name":"Föhr",
+      "value":"82 km²"
+    },
+    {
+      "name":"Borkum",
+      "value":"31 km²"
+    },
+    {
+      "name":"Langeoog",
+      "value":"20 km²"
+    },
+    {
+      "name":"Herrenchiemsee",
+      "value":"2 km²"
+    }
+  ]
+}

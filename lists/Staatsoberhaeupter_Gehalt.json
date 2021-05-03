@@ -1,0 +1,110 @@
+{
+  "short":"Staatsoberhaeupter_Gehalt",
+  "name":"Staatsoberhäupter nach Gehalt",
+  "subjects":["Politik","Wirtschaft"],
+  "description":"Sortieren Sie diese Staatsoberhäupter und Regierungschefs nach ihrem Gehalt",
+  "standard":"Bundeskanzlerin Deutschlands (Angela Merkel)",
+  "cut":true,
+  "things":[
+    {
+      "name":"Präsident der Vereinigten Arabischen Emirate (Chalifa bin Zayid Al Nahyan)",
+      "value":"4,608,273,000$"
+    },
+    {
+      "name":"Königin von Großbritannien (Elisabeth II)",
+      "value":"122,442,508$"
+    },
+    {
+      "name":"Fürst von Monaco (Albert II)",
+      "value":"52,063,000$"
+    },
+    {
+      "name":"König von Schweden (Carl XVI Gustaf)",
+      "value":"15,752,000$"
+    },
+    {
+      "name":"Kaiser von Japan (Naruhito)",
+      "value":"3,075,316$"
+    },
+    {
+      "name":"Premierminister von Singapur (Lee Hsien Loong)",
+      "value":"1,610,000$"
+    },
+    {
+      "name":"Präsident der Schweiz (Guy Parmelin)",
+      "value":"507,000$"
+    },
+    {
+      "name":"Präsident der USA (Joe Biden)",
+      "value":"400,000$"
+    },
+    {
+      "name":"Bundeskanzlerin Deutschlands (Angela Merkel)",
+      "value":"369,727$"
+    },
+    {
+      "name":"Bundeskanzler von Österreich (Sebastian Kurz)",
+      "value":"328,600$"
+    },
+    {
+      "name":"Premierministerin Neuseelands (Jacinda Ardern)",
+      "value":"325,546$"
+    },
+    {
+      "name":"Ministerpräsident Bayerns (Markus Söder)",
+      "value":"278,879$"
+    },
+    {
+      "name":"Bundespräsident Deutschlands (Frank-Walter Steinmeier)",
+      "value":"268,448$"
+    },  
+    {
+      "name":"Präsident Südafrikas (Cyril Ramaphosa)",
+      "value":"223,500$"
+    },
+    {
+      "name":"Präsident der Türkei (Recep Tayip Erdogan)",
+      "value":"197,400$"
+    },
+    {
+      "name":"Premierminister des Vereinigten Königreichs (Boris Johnson)",
+      "value":"185,500$"
+    },
+    {
+      "name":"Premierminister Israels (Benjamin Netanyahu)",
+      "value":"168,210$"
+    },
+    {
+      "name":"Präsident Russlands (Vladimir Putin)",
+      "value":"136,000$"
+    },
+    {
+      "name":"Präsident Portugals (Marcelo Rebelo de Sousa)",
+      "value":"96,469 $"
+    },
+    {
+      "name":"Präsident Mexicos (Andrés Manuel López Obrador)",
+      "value":"67,903 $"
+    },
+    {
+      "name":"Premierminister Indiens (Narendra Modi)",
+      "value":"66,000 $"
+    },
+    {
+      "name":"Präsident der Seychellen (Wavel Ramkalawan)",
+      "value":"23,700 $"
+    },
+    {
+      "name":"Generalsekretär und Präsident der Volksrepublik China (Xi Jinping)",
+      "value":"22,000 $"
+    },
+    {
+      "name":"Präsident Kubas (Miguel Díaz-Canel)",
+      "value":"360 $"
+    },
+    {
+      "name":"Papst (Franziskus)",
+      "value":"0 $"
+    }
+  ]
+}

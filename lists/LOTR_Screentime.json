@@ -1,0 +1,98 @@
+{
+  "short":"LOTR_Screentime",
+  "name":"Herr der Ringe Charaktere nach Screen Time",
+  "subjects":["Film & Fernsehen"],
+  "description":"Sortieren Sie diese Herr der Ringe Charaktere nach ihrer Screentime in allen 3 Filmen (ohne den Hobbit)",
+  "standard":"Legolas",
+  "cut":false,
+  "things":[
+    {
+      "name":"Frodo Beutlin",
+      "value":"121 Minuten"
+    },
+    {
+      "name":"Sam",
+      "value":"78 Minuten"
+    },
+    {
+      "name":"Aragon",
+      "value":"74 Minuten"
+    },
+    {
+      "name":"Gandalf",
+      "value":"71 Minuten"
+    },
+    {
+      "name":"Pippin",
+      "value":"50 Minuten"
+    },
+    {
+      "name":"Merry",
+      "value":"41 Minuten"
+    },
+    {
+      "name":"Gollum",
+      "value":"34 Minuten"
+    },
+    {
+      "name":"Legolas & Gimli (Beide haben die gleiche Screentime)",
+      "value":"31 Minuten"
+    },
+    {
+      "name":"Théoden",
+      "value":"24 Minuten"
+    },
+    {
+      "name":"Boromir",
+      "value":"20 Minuten"
+    },
+    {
+      "name":"Éowyn",
+      "value":"18 Minuten"
+    },
+    {
+      "name":"Arwen",
+      "value":"15 Minuten"
+    },
+    {
+      "name":"Bilbo",
+      "value":"13 Minuten"
+    },
+    {
+      "name":"Elrond",
+      "value":"12 Minuten"
+    },
+    {
+      "name":"Baumbart",
+      "value":"10 Minuten"
+    },
+    {
+      "name":"Saruman",
+      "value":"9 Minuten"
+    },
+    {
+      "name":"Galadriel",
+      "value":"8 Minuten"
+    },
+    {
+      "name":"Der Hexenkönig von Angmar",
+      "value":"7 Minuten"
+    },
+    {
+      "name":"Denethor",
+      "value":"6 Minuten"
+    },
+    {
+      "name":"Grima Schlangenzunge",
+      "value":"5 Minuten"
+    },
+    {
+      "name":"Sauron",
+      "value":"4 Minuten"
+    },
+    {
+      "name":"Isildur",
+      "value":"1 Minuten"
+    }
+  ]
+}

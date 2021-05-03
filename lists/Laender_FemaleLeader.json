@@ -1,0 +1,82 @@
+{
+  "short":"Laender_FemaleLeader",
+  "name":"Länder nach ersten weiblichen Staatsoberhäuptern",
+  "subjects":["Politik","Geschichte"],
+  "description":"Sortieren Sie diese Länder nach Amtsantritt des ersten weiblichen Staatsoberhaupts oder Regierungschefs, beginnend mit dem frühesten.",
+  "standard":"Deutschland (Bundeskanzlerin)",
+  "cut":true,
+  "things":[
+    {
+      "name":"Indien (Premierministerin)",
+      "value":"24. Januar 1966 - Indira Gandhi"
+    },
+    {
+      "name":"Israel (Premierministerin)",
+      "value":"17. März 1969 - Golda Meir"
+    },
+    {
+      "name":"Vereinigtes Königreich (Premierministerin)",
+      "value":"4. Mai 1979 - Margaret Thatcher"
+    },
+    {
+      "name":"Island (Präsidentin)",
+      "value":"1. August 1980 - Vigdís Finnbogadóttir"
+    },
+    {
+      "name":"Philippinen (Präsidentin)",
+      "value":"25. Ferbruar 1986 - Corazon Aquino"
+    },
+    {
+      "name":"Pakistan (Premierministerin)",
+      "value":"2. Dezember 1988 - Benazir Bhutto"
+    },
+    {
+      "name":"Irland (Präsidentin)",
+      "value":"3. Dezember 1990 - Mary Robinson"
+    },
+    {
+      "name":"Neuseeland (Premierministerin)",
+      "value":"8. Dezember 1997 - Jenny Shipley"
+    },
+    {
+      "name":"Finland (Präsidentin)",
+      "value":"1. März 2000 - Tarja Halonen"
+    },
+    {
+      "name":"Ukraine (Premierministerin)",
+      "value":"24. Januar 2005 - Yulia Tymoshenko"
+    },
+    {
+      "name":"Deutschland (Bundeskanzlerin)",
+      "value":"22. November 2005 - Angela Merkel"
+    },
+    {
+      "name":"Trinidad and Tobago (Premierministerin)",
+      "value":"26. Mai 2010 - Kamla Persad-Bissessar"
+    },
+    {
+      "name":"Brasilien (Präsidentin)",
+      "value":"1. Januar 2011 - Dilma Rousseff"
+    },
+    {
+      "name":"Thailand (Premierministerin)",
+      "value":"3. Juli 2011 - Yingluck Shinawatra"
+    },
+    {
+      "name":"Südkorea (Präsidentin)",
+      "value":"25. Februar 2013 - Park Geun-hye"
+    },
+    {
+      "name":"Estland (Präsidentin)",
+      "value":"10. Oktober 2016 - Kersti Kaljulaid"
+    },
+    {
+      "name":"Tanzania (Präsidentin)",
+      "value":"19. März 2021 - Samia Suluhu Hassan"
+    },
+    {
+      "name":"USA (Präsidentin)",
+      "value":"Noch nie"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "short":"Programmiersprachen_Alter",
+  "name":"Programmiersprachen nach Alter",
+  "subjects":["Informatik","Chronologie"],
+  "description":"Sortieren Sie diese Programmiersprachen (und ähnliche Konstrukte) nach ihrer ersten Veröffentlichung",
+  "standard":"Java",
+  "cut":true,
+  "things":[
+    {
+      "name":"FORTRAN",
+      "value":"1956"
+    },
+    {
+      "name":"Basic",
+      "value":"1964"
+    },
+    {
+      "name":"B",
+      "value":"1969"
+    },
+    {
+      "name":"C",
+      "value":"1972"
+    },
+    {
+      "name":"SQL",
+      "value":"1974"
+    },
+    {
+      "name":"Ada",
+      "value":"1980"
+    },
+    {
+      "name":"C++",
+      "value":"1985"
+    },
+    {
+      "name":"Python",
+      "value":"1991"
+    },
+    {
+      "name":"R",
+      "value":"1993"
+    },
+    {
+      "name":"Java",
+      "value":"23. Mai 1995"
+    },
+    {
+      "name":"JavaScript",
+      "value":"4. Mai 1995"
+    },
+    {
+      "name":"PHP",
+      "value":"8. Juni 1995"
+    },
+    {
+      "name":"CSS",
+      "value":"17. Dezember 1996"
+    },
+    {
+      "name":"C#",
+      "value":"2000"
+    },
+    {
+      "name":"Shakespeare Programming Language",
+      "value":"2001"
+    },
+    {
+      "name":"Visual Basic .NET",
+      "value":"2002"
+    },
+    {
+      "name":"Go",
+      "value":"2007"
+    },
+    {
+      "name":"HTML5",
+      "value":"22. Januar 2008"
+    },
+    {
+      "name":"Swift",
+      "value":"2. Juni 2014"
+    },
+    {
+      "name":"Kotlin",
+      "value":"2016"
+    }
+  ]
+}

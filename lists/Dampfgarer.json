@@ -1,0 +1,70 @@
+{
+  "short":"Dampfgarer",
+  "name":"Gemüse nach Zeit im Mikrowellendampfgarer",
+  "subjects":[""],
+  "description":"Sortieren Sie diese Gemüsesorten nach der Zeit, die sie im Mikrowellendampfgarer benötigen, um Geniesbar zu sein.",
+  "standard":"Brokkoli",
+  "cut":true,
+  "things":[
+    {
+      "name":"Rote Beete",
+      "value":"30 Min."
+    },
+    {
+      "name":"Halbe Aubergine",
+      "value":"25 Min."
+    },
+    {
+      "name":"Sellerie",
+      "value":"23 Min."
+    },
+    {
+      "name":"Blumenkohl",
+      "value":"22 Min."
+    },
+    {
+      "name":"Möhren in Scheibchen",
+      "value":"20 Min."
+    },
+    {
+      "name":"Kohlrabi in Stiften",
+      "value":"19 Min."
+    },
+    {
+      "name":"Zucchini in Würfeln",
+      "value":"18 Min."
+    },
+    {
+      "name":"Brechbohnen",
+      "value":"16 Min."
+    },
+    {
+      "name":"Erbsen",
+      "value":"15 Min."
+    },
+    {
+      "name":"Paprika",
+      "value":"14 Min."
+    },
+    {
+      "name":"Brokkoli",
+      "value":"13 Min."
+    },
+    {
+      "name":"Champignons",
+      "value":"12 Min."
+    },
+    {
+      "name":"Chinakohl",
+      "value":"10 Min."
+    },
+    {
+      "name":"Spinatblätter",
+      "value":"8 Min."
+    },
+    {
+      "name":"Tomaten",
+      "value":"6 Min."
+    }
+  ]
+}
