@@ -1,0 +1,82 @@
+{
+  "short":"Staatenbuendnisse_Mitglieder",
+  "name":"Staatenbündnisse nach Mitgliedern",
+  "subjects":["Politik"],
+  "description":"Sortieren Sie diese Staatensbündnisse nach der Zahl ihrer Mitglieder, beginnend mit dem Größten.",
+  "standard":"Vereinten Nationen (UN)",
+  "cut":true,
+  "things":[
+    {
+      "name":"Weltgesundheitsorganisation (WHO)",
+      "value":"194"
+    },
+    {
+      "name":"Vereinten Nationen (UN)",
+      "value":"193"
+    },
+    {
+      "name":"Internationale Organisation für Normung (ISO)",
+      "value":"161"
+    },
+    {
+      "name":"Organisation für Sicherheit und Zusammenarbeit in Europa (OSZE)",
+      "value":"57"
+    },
+    {
+      "name":"Afrikanische Union (AU)",
+      "value":"55"
+    },
+    {
+      "name":"Commonwealth of Nations",
+      "value":"54"
+    },
+    {
+      "name":"Nordatlantikpakt (NATO)",
+      "value":"30"
+    },
+    {
+      "name":"Europäische Union (EU)",
+      "value":"27"
+    },
+    {
+      "name":"Europäische Organisation für Kernforschung (CERN)",
+      "value":"23"
+    },
+    {
+      "name":"Arabische Liga (LAS)",
+      "value":"22"
+    },
+    {
+      "name":"Entwicklungsgemeinschaft des südlichen Afrika (SADC)",
+      "value":"16"
+    },
+    {
+      "name":"Regional Comprehensive Economic Partnership (RCEP) - Asiatisches Freihandelsabkommen",
+      "value":"15"
+    },
+    {
+      "name":"Organisation erdölexportierender Länder (OPEC)",
+      "value":"13"
+    },
+    {
+      "name":"Union Südamerikanischer Nationen (UNASUR)",
+      "value":"12"
+    },
+    {
+      "name":"Verband Südostasiatischer Nationen (ASEAN)",
+      "value":"10"
+    },
+    {
+      "name":"Gemeinschaft Unabhängiger Staaten (GUS)",
+      "value":"9"
+    },
+    {
+      "name":"Organisation für Demokratie und Wirtschaftsentwicklung (GUAM)",
+      "value":"4"
+    },
+    {
+      "name":"Nordamerikanisches Freihandelsabkommen (NAFTA)",
+      "value":"3"
+    }
+  ]
+}

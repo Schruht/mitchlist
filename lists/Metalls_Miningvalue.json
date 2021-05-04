@@ -1,0 +1,74 @@
+{
+  "short":"Metalls_Miningvalue",
+  "name":"Metalle nach abgebautem Ertrag",
+  "subjects":["Chemie","Wirtschaft"],
+  "description":"Sortieren Sie diese chemischen Metalle nach dem jährlichen Profit, der durch Minenabbau erwirtschaftet wird",
+  "standard":"Silber",
+  "cut":true,
+  "things":[
+    {
+      "name":"Gold",
+      "value":"170 Milliarden $"
+    },
+    {
+      "name":"Eisen",
+      "value":"115 Milliarden $"
+    },
+    {
+      "name":"Kupfer",
+      "value":"91 Milliarden $"
+    },
+    {
+      "name":"Alluminium",
+      "value":"90 Milliarden $"
+    },
+    {
+      "name":"Zink",
+      "value":"34 Milliarden $"
+    },
+    {
+      "name":"Mangan",
+      "value":"30 Milliarden $"
+    },
+    {
+      "name":"Blei",
+      "value":"22 Milliarden $"
+    },
+    {
+      "name":"Nickel",
+      "value":"21 Milliarden $"
+    },
+    {
+      "name":"Silber",
+      "value":"20 Milliarden $"
+    },
+    {
+      "name":"Titan",
+      "value":"14 Milliarden $"
+    },
+    {
+      "name":"Platin",
+      "value":"8 Milliarden $"
+    },
+    {
+      "name":"Zinn",
+      "value":"7 Milliarden $"
+    },
+    {
+      "name":"Palladium",
+      "value":"6 Milliarden $"
+    },
+    {
+      "name":"Molybden",
+      "value":"5 Milliarden $"
+    },
+    {
+      "name":"Uran",
+      "value":"4 Milliarden $"
+    },
+    {
+      "name":"Litium",
+      "value":"3 Milliarden $"
+    }
+  ]
+}
