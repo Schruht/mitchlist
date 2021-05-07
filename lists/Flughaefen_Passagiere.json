@@ -1,0 +1,142 @@
+{
+  "short":"Flughaefen_Passagiere",
+  "name":"Flughäfen nach Passagierzahl",
+  "subjects":["Tourismus"],
+  "description":"Sortieren Sie diese internationalen Flughäfen nach der Zahl ihrer Passagiere im jahr 2019, beginnend mit dem größten Flughafen.",
+  "standard":"London Heathrow Airport",
+  "cut":true,
+  "things":[
+    {
+      "name":"Hartsfield-Jackson Atlanta International Airport",
+      "value":"110.531.300 Passagiere"
+    },
+    {
+      "name":"Beijing Capital International Airport",
+      "value":"100.011.438 Passagiere"
+    },
+    {
+      "name":"Los Angeles International Airport",
+      "value":"88.068.013 Passagiere"
+    },
+    {
+      "name":"Dubai International Airport",
+      "value":"86.396.757 Passagiere"
+    },
+    {
+      "name":"Tokyo Haneda International Airport",
+      "value":"85.505.054 Passagiere"
+    },
+    {
+      "name":"O'Hare International Airport [Chicago]",
+      "value":"84.372.618 Passagiere"
+    },
+    {
+      "name":"London Heathrow Airport",
+      "value":"80.888.305 Passagiere"
+    },
+    {
+      "name":"Shanghai Pudong International Airports",
+      "value":"76.153.455 Passagiere"
+    },
+    {
+      "name":"Aéroport Paris-Charles de Gaulle",
+      "value":"76.150.009 Passagiere"
+    },
+    {
+      "name":"Dallas/Fort Worth International Airport",
+      "value":"75.066.956 Passagiere"
+    },
+    {
+      "name":"Guangzhou Baiyun International Airport",
+      "value":"73.378.475 Passagiere"
+    },
+    {
+      "name":"Amsterdam Airport Schiphol",
+      "value":"71.706.999 Passagiere"
+    },
+    {
+      "name":"Hong Kong International Airport",
+      "value":"71.415.245 Passagiere"
+    },
+    {
+      "name":"Seoul Incheon International Airport",
+      "value":"71.204.153 Passagiere"
+    },
+    {
+      "name":"Flughafen Frankfurt am Main",
+      "value":"70.556.072 Passagiere"
+    },
+    {
+      "name":"Indira Gandhi International Airport [New Delhi]",
+      "value":"68.490.731 Passagiere"
+    },
+    {
+      "name":"Singapore Changi Airport",
+      "value":"68.283.000 Passagiere"
+    },
+    {
+      "name":"John F. Kennedy International Airport [New York]",
+      "value":"62.551.072 Passagiere"
+    },
+    {
+      "name":"Aeropuerto de Madrid Barajas",
+      "value":"61.707.469 Passagiere"
+    },
+    {
+      "name":"San Francisco International Airport",
+      "value":"57.418.574 Passagiere"
+    },
+    {
+      "name":"Aeroport de Barcelona - el Prat",
+      "value":"52.663.623 Passagiere"
+    },
+    {
+      "name":"Istanbul Airport",
+      "value":"52.192.629 Passagiere"
+    },
+    {
+      "name":"Gatwick Airport [London]",
+      "value":"46.086.089 Passagiere"
+    },
+    {
+      "name":"Flughafen Rom-Fiumicino",
+      "value":"43.532.573 Passagiere"
+    },
+    {
+      "name":"Kingsford Smith International Airport",
+      "value":"40.796.000 Passagiere"
+    },
+    {
+      "name":"Flughafen Palma de Mallorca",
+      "value":"29.721.142 Passagiere"
+    },
+    {
+      "name":"Flughafen Düsseldorf",
+      "value":"25.489.412 Passagiere"
+    },
+    {
+      "name":"Berlin Tegel",
+      "value":"24.227.570 Passagiere"
+    },
+    {
+      "name":"Aeropuerto Internacional Jorge Chávez [Lima]",
+      "value":"22.118.454 Passagiere"
+    },
+    {
+      "name":"Daniel K. Inouye International Airport [Honolulu]",
+      "value":"20.990.932 Passagiere"
+    },
+    {
+      "name":"Edinburgh Airport",
+      "value":"14.747.830 Passagiere"
+    },
+    {
+      "name":"Flughafen Köln/Bonn",
+      "value":"12.354.398 Passagiere"
+    },
+    {
+      "name":"Flughafen Teneriffa Süd",
+      "value":"11.168.707 Passagiere"
+    }
+  ]
+}

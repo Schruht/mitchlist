@@ -1,0 +1,106 @@
+{
+  "short":"Gebaeude_Hoehe",
+  "name":"Gebäude nach Höhe",
+  "subjects":["Architektur"],
+  "description":"Sortieren Sie diese Gebäude nach ihrer Höhe, beginnend mit dem höchstem Gebäude. Gemessen ohne Antennen.",
+  "standard":"Burj Khalifa",
+  "cut":true,
+  "things":[
+    {
+      "name":"Burj Khalifa - Dubai",
+      "value":"828 m"
+    },
+    {
+      "name":"Shanghai Tower - Shanghai",
+      "value":"632 m"
+    },
+    {
+      "name":"Abraj Al Bait Clock Towe - Mekka",
+      "value":"601 m"
+    },
+    {
+      "name":"One World Trade Center - New York",
+      "value":"541.3 m"
+    },
+    {
+      "name":"Taipei 101 - Taipei",
+      "value":"508 m"
+    },
+    {
+      "name":"Shanghai World Financial Center (informell auch 'Flaschenöffner') - Shanghai",
+      "value":"492 m"
+    },
+    {
+      "name":"Petronas Türme - Kuala Lumpur",
+      "value":"451.9 m"
+    },
+    {
+      "name":"Willis Tower (ehemals Sears Tower) - Chicago",
+      "value":"442.1 m"
+    },
+    {
+      "name":"Empire State Building - New York",
+      "value":"381 m"
+    },
+    {
+      "name":"John Hancock Center - Chicago",
+      "value":"344 m"
+    },
+    {
+      "name":"Eiffelturm - New York",
+      "value":"324 m"
+    },
+    {
+      "name":"Burj al Arab - Dubai",
+      "value":"321 m"
+    },
+    {
+      "name":"Trump Tower - New York",
+      "value":"202 m"
+    },
+    {
+      "name":"Ulmer Münster - Ulm",
+      "value":"161 m"
+    },
+    {
+      "name":"Kölner Dom - Köln",
+      "value":"157 m"
+    },
+    {
+      "name":"Cheopspyramide - Gizeh",
+      "value":"139 m"
+    },
+    {
+      "name":"Big Ben - London",
+      "value":"96 m"
+    },
+    {
+      "name":"Freiheitsstatue (inkulusive Sockel)- New York",
+      "value":"93 m"
+    },
+    {
+      "name":"Sydney Opernhaus",
+      "value":"65 m"
+    },
+    {
+      "name":"Minarete der Hagia Sofia - Istanbul",
+      "value":"60 m"
+    },
+    {
+      "name":"Titanic (Kiel-Schornstein) - Verschiedene Orte, aktuell Meeresgrund",
+      "value":"53 m"
+    },
+    {
+      "name":"Kolosseum - Rom",
+      "value":"48 m"
+    },
+    {
+      "name":"Basiliuskathedrale - Moskau",
+      "value":"47 m"
+    },
+    {
+      "name":"Brandenburger Tor - Berlin",
+      "value":"26 m"
+    }
+  ]
+}

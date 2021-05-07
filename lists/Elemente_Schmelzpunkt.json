@@ -1,0 +1,94 @@
+{
+  "short":"Elemente_Schmelzpunkt",
+  "name":"Elemente nach Schmelzpunkt",
+  "subjects":["Chemie"],
+  "description":"Sortieren Sie diese chemischen Elemente nach ihrem Schmelzpunkt, beginnend mit dem am kühlsten schmilzenden Element.",
+  "standard":"Wasser (H₂0)",
+  "cut":true,
+  "things":[
+    {
+      "name":"Wasserstoff",
+      "value":"-259,1 °C"
+    },
+    {
+      "name":"Sauerstoff",
+      "value":"−218,4 °C"
+    },
+    {
+      "name":"Chlor",
+      "value":"−101 °C"
+    },
+    {
+      "name":"Quecksilber",
+      "value":"−38,9 °C"
+    },
+    {
+      "name":"Wasser (H20)",
+      "value":"0 °C"
+    },
+    {
+      "name":"Phosphor",
+      "value":"44 °C"
+    },
+    {
+      "name":"Iod",
+      "value":"113,5 °C"
+    },
+    {
+      "name":"Lithium",
+      "value":"180,5 °C"
+    },
+    {
+      "name":"Zinn",
+      "value":"232 °C"
+    },
+    {
+      "name":"Blei",
+      "value":"327,5 °C"
+    },
+    {
+      "name":"Zink",
+      "value":"419,6 °C"
+    },
+    {
+      "name":"Magnesium",
+      "value":"648,8 °C"
+    },
+    {
+      "name":"Silber",
+      "value":"961,9 °C"
+    },
+    {
+      "name":"Gold",
+      "value":"1064,4 °C"
+    },
+    {
+      "name":"Kupfer",
+      "value":"1083,5 °C"
+    },
+    {
+      "name":"Uran",
+      "value":"1132,4 °C"
+    },
+    {
+      "name":"Nickel",
+      "value":"1453 °C"
+    },
+    {
+      "name":"Eisen",
+      "value":"1539 °C"
+    },
+    {
+      "name":"Titan",
+      "value":"1660 °C"
+    },
+    {
+      "name":"Bor",
+      "value":"2300 °C"
+    },
+    {
+      "name":"Wolfram",
+      "value":"3407 °C"
+    }
+  ]
+}

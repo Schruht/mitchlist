@@ -1,0 +1,138 @@
+{
+  "short":"Bibel_Reihenfolge",
+  "name":"Bibelbücher",
+  "subjects":["Theologie"],
+  "description":"Sortieren Sie diese ausgewählten Bücher der Bibel in ihrer korrekten Reihenfolge. Es gibt auch eine extreme Variante, in der alle Bücher sortiert werden müssen.",
+  "standard":"Das Evangelium nach Matthäus",
+  "cut":true,
+  "things":[
+    {
+      "name":"Genesis",
+      "value":""
+    },
+    {
+      "name":"Exodus",
+      "value":""
+    },
+    {
+      "name":"Levitikus",
+      "value":""
+    },
+    {
+      "name":"Numeri",
+      "value":""
+    },
+    {
+      "name":"Deuteronomium",
+      "value":""
+    },
+    {
+      "name":"Josua",
+      "value":""
+    },
+    {
+      "name":"Richter",
+      "value":""
+    },
+    {
+      "name":"Rut",
+      "value":""
+    },
+    {
+      "name":"1. und 2. Könige",
+      "value":""
+    },
+    {
+      "name":"Esra",
+      "value":""
+    },
+    {
+      "name":"1.-4. Makkabäer",
+      "value":""
+    },
+    {
+      "name":"Hiob/Job",
+      "value":""
+    },
+    {
+      "name":"Buch der Psalme",
+      "value":""
+    },
+    {
+      "name":"Buch der Sprüche",
+      "value":""
+    },
+    {
+      "name":"Psalmen Salomos",
+      "value":""
+    },
+    {
+      "name":"Jesaja",
+      "value":""
+    },
+    {
+      "name":"Jeremia",
+      "value":""
+    },
+    {
+      "name":"Ezechiel/Hesekiel",
+      "value":""
+    },
+    {
+      "name":"Daniel",
+      "value":""
+    },
+    {
+      "name":"Amos",
+      "value":""
+    },
+    {
+      "name":"Das Evangelium nach Matthäus",
+      "value":""
+    },
+    {
+      "name":"Das Evangelium nach Markus",
+      "value":""
+    },
+    {
+      "name":"Das Evangelium nach Lukas",
+      "value":""
+    },
+    {
+      "name":"Das Evangelium nach Johannes",
+      "value":""
+    },
+    {
+      "name":"Apostelgeschichte",
+      "value":""
+    },
+    {
+      "name":"Römerbrief",
+      "value":""
+    },
+    {
+      "name":"1. und 2. Korintherbrief",
+      "value":""
+    },
+    {
+      "name":"Galaterbrief",
+      "value":""
+    },
+    {
+      "name":"Jakobusbrief",
+      "value":""
+    },
+    {
+      "name":"1. und 2. Petrusbrief",
+      "value":""
+    },
+    {
+      "name":"Judasbrief",
+      "value":""
+    },
+    {
+      "name":"Johannesoffenbarung/Apokalypse",
+      "value":""
+    }
+  ]
+}

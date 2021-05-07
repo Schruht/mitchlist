@@ -1,0 +1,262 @@
+{
+  "short":"Staedte_BIP",
+  "name":"Staedte nach Bruttoinlandsprodukt",
+  "subjects":["Wirtschaft"],
+  "description":"Sortieren Sie diese Städte nach ihrem Bruttoinlandsprodukt, beginnend mit dem höchsten BIP. Das BIP ist Kaufkraftbereinigend und aus dem Jahr 2014.",
+  "standard":"New York City",
+  "cut":true,
+  "things":[
+    {
+      "name":"Tokyo",
+      "value":"1.616.792 Millionen $"
+    },
+    {
+      "name":"New York City",
+      "value":"1.403.463 Millionen $"
+    },
+    {
+      "name":"Los Angeles",
+      "value":"860.452 Millionen $"
+    },
+    {
+      "name":"Seoul",
+      "value":"845.906 Millionen $"
+    },
+    {
+      "name":"London",
+      "value":"835.658 Millionen $"
+    },
+    {
+      "name":"Paris",
+      "value":"715.080 Millionen $"
+    },
+    {
+      "name":"Shanghai",
+      "value":"594.005 Millionen $"
+    },
+    {
+      "name":"Chicago",
+      "value":"563.188 Millionen $"
+    },
+    {
+      "name":"Moskau",
+      "value":"553.318 Millionen $"
+    },
+    {
+      "name":"Beijing/Peking",
+      "value":"506.137 Millionen $"
+    },
+    {
+      "name":"Houston",
+      "value":"483.184 Millionen $"
+    },
+    {
+      "name":"Singapur",
+      "value":"462.702 Millionen $"
+    },
+    {
+      "name":"Washington D.C.",
+      "value":"442.212 Millionen $"
+    },
+    {
+      "name":"São Paulo",
+      "value":"430.510 Millionen $"
+    },
+    {
+      "name":"Hongkong",
+      "value":"416.047 Millionen $"
+    },
+    {
+      "name":"Mexiko-Stadt",
+      "value":"403.561 Millionen $"
+    },
+    {
+      "name":"Delhi",
+      "value":"378.449 Millionen $"
+    },
+    {
+      "name":"Riad",
+      "value":"370.790 Millionen $"
+    },
+    {
+      "name":"Shenzhen",
+      "value":"363.228 Millionen $"
+    },
+    {
+      "name":"Boston",
+      "value":"360.110 Millionen $"
+    },
+    {
+      "name":"Istanbul",
+      "value":"348.721 Millionen $"
+    },
+    {
+      "name":"Taipeh",
+      "value":"327.295 Millionen $"
+    },
+    {
+      "name":"Jakarta",
+      "value":"321.315 Millionen $"
+    },
+    {
+      "name":"Buenos Aires",
+      "value":"315.885 Millionen $"
+    },
+    {
+      "name":"Mailand",
+      "value":"312.108 Millionen $"
+    },
+    {
+      "name":"Bangkok",
+      "value":"306.765 Millionen $"
+    },
+    {
+      "name":"Toronto",
+      "value":"276.313 Millionen $"
+    },
+    {
+      "name":"Miami",
+      "value":"262.697 Millionen $"
+    },
+    {
+      "name":"Madrid",
+      "value":"262.335 Millionen $"
+    },
+    {
+      "name":"Brüssel",
+      "value":"254.327 Millionen $"
+    },
+    {
+      "name":"Sydney",
+      "value":"223.413 Millionen $"
+    },
+    {
+      "name":"München",
+      "value":"219.943 Millionen $"
+    },
+    {
+      "name":"Rio de Janeiro",
+      "value":"207.538 Millionen $"
+    },
+    {
+      "name":"Manila",
+      "value":"182.842 Millionen $"
+    },
+    {
+      "name":"Lima",
+      "value":"176.447 Millionen $"
+    },
+    {
+      "name":"Dubai",
+      "value":"174.919 Millionen $"
+    },
+    {
+      "name":"Rom",
+      "value":"163.243 Millionen $"
+    },
+    {
+      "name":"Bogota",
+      "value":"159.850 Millionen $"
+    },
+    {
+      "name":"Berlin",
+      "value":"157.706 Millionen $"
+    },
+    {
+      "name":"Tel Aviv",
+      "value":"153.297 Millionen $"
+    },
+    {
+      "name":"Brasilia",
+      "value":"141.916 Millionen $"
+    },
+    {
+      "name":"Warschau",
+      "value":"141.096 Millionen $"
+    },
+    {
+      "name":"Zürich",
+      "value":"135.596 Millionen $"
+    },
+    {
+      "name":"Athen",
+      "value":"129.623 Millionen $"
+    },
+    {
+      "name":"Xi'an",
+      "value":"124.186 Millionen $"
+    },
+    {
+      "name":"Sankt Petersburg",
+      "value":"119.613 Millionen $"
+    },
+    {
+      "name":"Ankara",
+      "value":"104.863 Millionen $"
+    },
+    {
+      "name":"Kairo",
+      "value":"102.165 Millionen $"
+    },
+    {
+      "name":"Budapest",
+      "value":"97.957 Millionen $"
+    },
+    {
+      "name":"Oslo",
+      "value":"97.516 Millionen $"
+    },
+    {
+      "name":"Las Vegas",
+      "value":"93.858 Millionen $"
+    },
+    {
+      "name":"Dublin",
+      "value":"90.137 Millionen $"
+    },
+    {
+      "name":"Prag",
+      "value":"89.181 Millionen $"
+    },
+    {
+      "name":"Ho-Chi-Minh-Stadt",
+      "value":"71.055 Millionen $"
+    },
+    {
+      "name":"Kalkutta",
+      "value":"60.447 Millionen $"
+    },
+    {
+      "name":"Hannover",
+      "value":"59.629 Millionen $"
+    },
+    {
+      "name":"Kapstadt",
+      "value":"58.863 Millionen $"
+    },
+    {
+      "name":"Macau",
+      "value":"53.888 Millionen $"
+    },
+    {
+      "name":"Nizza",
+      "value":"45.984 Millionen $"
+    },
+    {
+      "name":"Nizza",
+      "value":"45.984 Millionen $"
+    },
+    {
+      "name":"Linz",
+      "value":"44.551 Millionen $"
+    },
+    {
+      "name":"Casablanca",
+      "value":"37.888 Millionen $"
+    },
+    {
+      "name":"Alexandria",
+      "value":"32.400 Millionen $"
+    }
+  ]
+}

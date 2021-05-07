@@ -1,0 +1,82 @@
+{
+  "short":"Kaps_Breite",
+  "name":"Kaps nach Breite (Leichte Version)",
+  "subjects":["Geographie"],
+  "description":"Sortieren Sie diese Kaps nach dem Grad ihrer Breite, beginnend mit dem Nördlichsten. In der schwierigeren Version werden nur die Kaps, ohne eine kurze Beschreibung angezeigt.",
+  "standard":"Äquator",
+  "cut":false,
+  "things":[
+    {
+      "name":"Nordkap - Nördlichster Punkt Europas (Norwegen)",
+      "value":"71° 10′ Nördliche Breite"
+    },
+    {
+      "name":"Cape Farewell/Uummannarsuaq - Nördlichster Punkt Grönlands",
+      "value":"59° 46′ Nördliche Breite"
+    },
+    {
+      "name":"Cape Cornwall - Westlichster Punkt Britanniens",
+      "value":"50° 07′ Nördliche Breite"
+    },
+    {
+      "name":"Kap Sōya - Nördlichster Punkt der Hauptinseln Japans",
+      "value":"45° 31′ Nördliche Breite"
+    },
+    {
+      "name":"Cape Cod - Halbinsel in Massachusetts (USA)",
+      "value":"41° 41′ Nördliche Breite"
+    },
+    {
+      "name":"Cabo da Roca - Westlichster Punkt Europas (Portugal)",
+      "value":"38° 46′ Nördliche Breite"
+    },
+    {
+      "name":"Kap Bon - Nördlichster Punkt Afrikas (Tunesien)",
+      "value":"36° 45′ Nördliche Breite"
+    },
+    {
+      "name":"Kap Trafalgar - Südlichster Punkt Europas (Spanien)",
+      "value":"36° 11′ Nördliche Breite"
+    },
+    {
+      "name":"Cape Canaveral - Raumhafen in Florida (USA)",
+      "value":"28° 28′ Nördliche Breite"
+    },
+    {
+      "name":"Key West - Südlichster Punkt Floridas (USA)",
+      "value":"24° 34′ Nördliche Breite"
+    },
+    {
+      "name":"Kap Verde - Westlichster Punkt des Festlands von Afrika (Senegal)",
+      "value":"14° 45′ Nördliche Breite"
+    },
+    {
+      "name":"Kap Guardafui/Promontorium Aromata - Östlichster Punkt Afrikas (Somalia)",
+      "value":"11° 50′ Nördliche Breite"
+    },
+    {
+      "name":"Kap Komorin - Südlichster Punkt Indiens",
+      "value":"8° 4′ Nördliche Breite"
+    },
+    {
+      "name":"Äquator",
+      "value":"0° 0′"
+    },
+    {
+      "name":"Kap York - Nördlichster Punkt Australiens",
+      "value":"10° 41′ Südliche Breite"
+    },
+    {
+      "name":"Kap der Guten Hoffnung - Südlichster Punkt Afrikas (Südafrika)",
+      "value":"34° 21′ Südliche Breite"
+    },
+    {
+      "name":"Kap Hoorn - Südlichster Punkt Südamerikas (Chile)",
+      "value":"55° 58′ Südliche Breite"
+    },
+    {
+      "name":"Prime Head, Trinity Peninsula - Nördlichster Punkt der Antarktis",
+      "value":"63° 12′ Südliche Breite"
+    }
+  ]
+}

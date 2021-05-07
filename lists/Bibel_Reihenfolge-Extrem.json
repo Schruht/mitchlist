@@ -1,0 +1,278 @@
+{
+  "short":"Bibel_Reihenfolge-Extrem",
+  "name":"Bibelbücher (Extrem)",
+  "subjects":["Theologie"],
+  "description":"Sortieren Sie alle Bücher der Bibel in ihrer korrekten Reihenfolge. Es gibt auch eine leichtere Variante, in der nicht alle Bücher sortiert werden müssen.",
+  "standard":"Das Evangelium nach Matthäus",
+  "cut":true,
+  "things":[
+    {
+      "name":"Genesis",
+      "value":""
+    },
+    {
+      "name":"Exodus",
+      "value":""
+    },
+    {
+      "name":"Levitikus",
+      "value":""
+    },
+    {
+      "name":"Numeri",
+      "value":""
+    },
+    {
+      "name":"Deuteronomium",
+      "value":""
+    },
+    {
+      "name":"Josua",
+      "value":""
+    },
+    {
+      "name":"Richter",
+      "value":""
+    },
+    {
+      "name":"Rut",
+      "value":""
+    },
+    {
+      "name":"1. und 2. Samuel",
+      "value":""
+    },
+    {
+      "name":"1. und 2. Könige",
+      "value":""
+    },
+    {
+      "name":"1. und 2. Chronik",
+      "value":""
+    },
+    {
+      "name":"Esra",
+      "value":""
+    },
+    {
+      "name":"Nehemia",
+      "value":""
+    },
+    {
+      "name":"3. und 4. Esra",
+      "value":""
+    },
+    {
+      "name":"Tobit",
+      "value":""
+    },
+    {
+      "name":"Judit",
+      "value":""
+    },
+    {
+      "name":"Ester",
+      "value":""
+    },
+    {
+      "name":"1.-4. Makkabäer",
+      "value":""
+    },
+    {
+      "name":"Hiob/Job",
+      "value":""
+    },
+    {
+      "name":"Buch der Psalme",
+      "value":""
+    },
+    {
+      "name":"Buch der Sprüche",
+      "value":""
+    },
+    {
+      "name":"Kohelet/Prediger",
+      "value":""
+    },
+    {
+      "name":"Hohes Lied",
+      "value":""
+    },
+    {
+      "name":"Weisheit Salomos",
+      "value":""
+    },
+    {
+      "name":"Jesus Sirach",
+      "value":""
+    },
+    {
+      "name":"Gebet des Manasse",
+      "value":""
+    },
+    {
+      "name":"Psalmen Salomos",
+      "value":""
+    },
+    {
+      "name":"Jesaja",
+      "value":""
+    },
+    {
+      "name":"Jeremia",
+      "value":""
+    },
+    {
+      "name":"Klagelieder Jeremias",
+      "value":""
+    },
+    {
+      "name":"Baruch",
+      "value":""
+    },
+    {
+      "name":"Brief des Jeremia",
+      "value":""
+    },
+    {
+      "name":"Ezechiel/Hesekiel",
+      "value":""
+    },
+    {
+      "name":"Daniel",
+      "value":""
+    },
+    {
+      "name":"Hosea",
+      "value":""
+    },
+    {
+      "name":"Joel",
+      "value":""
+    },
+    {
+      "name":"Amos",
+      "value":""
+    },
+    {
+      "name":"Obadja",
+      "value":""
+    },
+    {
+      "name":"Jona",
+      "value":""
+    },
+    {
+      "name":"Micha",
+      "value":""
+    },
+    {
+      "name":"Nahum",
+      "value":""
+    },
+    {
+      "name":"Habakuk",
+      "value":""
+    },
+    {
+      "name":"Zefanja",
+      "value":""
+    },
+    {
+      "name":"Haggai",
+      "value":""
+    },
+    {
+      "name":"Sacharja",
+      "value":""
+    },
+    {
+      "name":"Maleachi",
+      "value":""
+    },
+    {
+      "name":"Das Evangelium nach Matthäus",
+      "value":""
+    },
+    {
+      "name":"Das Evangelium nach Markus",
+      "value":""
+    },
+    {
+      "name":"Das Evangelium nach Lukas",
+      "value":""
+    },
+    {
+      "name":"Das Evangelium nach Johannes",
+      "value":""
+    },
+    {
+      "name":"Apostelgeschichte",
+      "value":""
+    },
+    {
+      "name":"Römerbrief",
+      "value":""
+    },
+    {
+      "name":"1. und 2. Korintherbrief",
+      "value":""
+    },
+    {
+      "name":"Galaterbrief",
+      "value":""
+    },
+    {
+      "name":"Epheserbrief",
+      "value":""
+    },
+    {
+      "name":"Philipperbrief",
+      "value":""
+    },
+    {
+      "name":"Kolosserbrief",
+      "value":""
+    },
+    {
+      "name":"1. und 2. Thessalonicherbrief",
+      "value":""
+    },
+    {
+      "name":"1. und 2. Timotheusbrief",
+      "value":""
+    },
+    {
+      "name":"Titusbrief",
+      "value":""
+    },
+    {
+      "name":"Philemonbrief",
+      "value":""
+    },
+    {
+      "name":"Hebräerbrief",
+      "value":""
+    },
+    {
+      "name":"Jakobusbrief",
+      "value":""
+    },
+    {
+      "name":"1. und 2. Petrusbrief",
+      "value":""
+    },
+    {
+      "name":"1. - 3. Johannesbrief",
+      "value":""
+    },
+    {
+      "name":"Judasbrief",
+      "value":""
+    },
+    {
+      "name":"Johannesoffenbarung/Apokalypse",
+      "value":""
+    }
+  ]
+}

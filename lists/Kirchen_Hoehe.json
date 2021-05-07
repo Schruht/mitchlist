@@ -1,0 +1,114 @@
+{
+  "short":"Kirchen_Hoehe",
+  "name":"Kirchen nach Höhe",
+  "subjects":["Theologie","Architektur"],
+  "description":"Sortieren Sie diese Kirchen nach ihrer Höhe",
+  "standard":"Petersdom - Vatikanstadt",
+  "cut":true,
+  "things":[
+    {
+      "name":"Ulmer Münster - Ulm",
+      "value":"161.5 m"
+    },
+    {
+      "name":"Our Lady of Peace Basilica - Yamoussoukro",
+      "value":"158 m"
+    },
+    {
+      "name":"Kölner Dom - Köln",
+      "value":"157 m"
+    },
+    {
+      "name":"Kathedrale von Rouen - Rouen",
+      "value":"151 m"
+    },
+    {
+      "name":"St. Nikolai - Hamburg",
+      "value":"147 m"
+    },
+    {
+      "name":"Straßburger Münster - Straßburg",
+      "value":"142 m"
+    },
+    {
+      "name":"Basilika der Muttergottes - Licheń",
+      "value":"141 m"
+    },
+    {
+      "name":"Petersdom - Vatikanstadt",
+      "value":"136.6 m"
+    },
+    {
+      "name":"Stephansdom - Wien",
+      "value":"136.4 m"
+    },
+    {
+      "name":"Kathedrale von Salisbury - Salisbury",
+      "value":"123.1 m"
+    },
+    {
+      "name":"Kathedrale Santa Maria del Fiore - Florenz",
+      "value":"114.5 m"
+    },
+    {
+      "name":"St. Pauls Cathedral - London",
+      "value":"111 m"
+    },
+    {
+      "name":"Mailänder Dom - Mailand",
+      "value":"108.5 m"
+    },
+    {
+      "name":"Invalidendom - Paris",
+      "value":"103 m"
+    },
+    {
+      "name":"Markusturm - Venedig",
+      "value":"100.1 m"
+    },
+    {
+      "name":"St.-Stephans-Basilika - Budapest",
+      "value":"96 m"
+    },
+    {
+      "name":"Frauenkirche - Dresden",
+      "value":"91.2 m"
+    },
+    {
+      "name":"Notre Dame (vor dem Brand von 2019) - Paris",
+      "value":"90 m"
+    },
+    {
+      "name":"Sacré-Cœur - Paris",
+      "value":"83 m"
+    },
+    {
+      "name":"Hallgrímskirkja - Reykjavík",
+      "value":"74 m"
+    },
+    {
+      "name":"Westminster Abbey - London",
+      "value":"69 m"
+    },
+    {
+      "name":"Pantheon - Rom",
+      "value":"58 m"
+    },
+    {
+      "name":"Alexander-Newski-Kathedrale - Sofia",
+      "value":"53 m"
+    },
+    {
+      "name":"Basiliuskathedrale - Moskau",
+      "value":"47 m"
+    },
+    {
+      "name":"St. Georgs Kirche - Lalibela",
+      "value":"30 m"
+    },
+    {
+      "name":"Santa Maria della Spina / Dornenkirche - Pisa",
+      "value":"ca. 6 m"
+    }
+  ]
+}

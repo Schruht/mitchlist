@@ -1,0 +1,114 @@
+{
+  "short":"Sehenswuerdigkeiten_Breite",
+  "name":"Sehenswürdigkeiten nach Breitengrad",
+  "subjects":["Tourismus","Geographie"],
+  "description":"Sortieren Sie diese berühmten Sehenswürdigkeiten nach ihrem Breitengrad, beginnend mit der nördlichsten Sehenswürdigkeit",
+  "standard":"Äquator",
+  "cut":true,
+  "things":[
+    {
+      "name":"Basiliuskathedrale",
+      "value":"55° 45′ Nördliche Breite"
+    },
+    {
+      "name":"Brandenburger Tor",
+      "value":"52° 30′ Nördliche Breite"
+    },
+    {
+      "name":"Tower Bridge",
+      "value":"51° 30′ Nördliche Breite"
+    },
+    {
+      "name":"Eiffelturm",
+      "value":"48° 51′ Nördliche Breite"
+    },
+    {
+      "name":"Schloss Neuschwanstein",
+      "value":"47° 33′ Nördliche Breite"
+    },
+    {
+      "name":"Mount Rushmore",
+      "value":"43° 52′ Nördliche Breite"
+    },
+    {
+      "name":"Flavisches Amphitheater/Kolosseum",
+      "value":"41° 53′ Nördliche Breite"
+    },
+    {
+      "name":"Freiheitsstaue",
+      "value":"40° 41′ Nördliche Breite"
+    },
+    {
+      "name":"Four Seasons Total Landscaping",
+      "value":"40° 01′ Nördliche Breite"
+    },
+    {
+      "name":"Verbotene Stadt",
+      "value":"39° 54′ Nördliche Breite"
+    },
+    {
+      "name":"Golden Gate Bridhe",
+      "value":"37° 49′ Nördliche Breite"
+    },
+    {
+      "name":"Burg Himeji",
+      "value":"34° 50′ Nördliche Breite"
+    },
+    {
+      "name":"Pyramiden von Gizeh",
+      "value":"29° 58′ Nördliche Breite"
+    },
+    {
+      "name":"Taj Mahal",
+      "value":"27° 10′ Nördliche Breite"
+    },
+    {
+      "name":"Burj Khalifa",
+      "value":"25° 11 Nördliche Breite"
+    },
+    {
+      "name":"Chichén Itzá",
+      "value":"20° 04′ Nördliche Breite"
+    },
+    {
+      "name":"Angkor Wat",
+      "value":"13° 24′ Nördliche Breite"
+    },
+    {
+      "name":"Panamakanal",
+      "value":"09° 05′ Nördliche Breite"
+    },
+    {
+      "name":"Marina Bay Sands",
+      "value":"01° 17′ Nördliche Breite"
+    },
+    {
+      "name":"Äquator",
+      "value":"0° 0′"
+    },
+    {
+      "name":"Kilimandscharo",
+      "value":"03° 04′ Südliche Breite"
+    },
+    {
+      "name":"Machu Picchu",
+      "value":"13° 09′ Südliche Breite"
+    },
+    {
+      "name":"Cristo Redentor",
+      "value":"18° 17′ Südliche Breite"
+    },
+    {
+      "name":"Cristo Redentor",
+      "value":"22° 57′ Südliche Breite"
+    },
+    {
+      "name":"Kolossalstatuen auf den Osterinseln",
+      "value":"27° 06′ Südliche Breite"
+    },
+    {
+      "name":"Opernhaus von Sydney",
+      "value":"33° 51′ Südliche Breite"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "short":"Bond_Reihenfolge",
+  "name":"James Bond Filme nach Erscheinungsjahr",
+  "subjects":["Film und Fernsehen", "Chronologie"],
+  "description":"Sortieren Sie die Filme der James Bond Reihe in der Reihenfolge ihre erscheinens, beginnend mit dem ältesten Film.",
+  "standard":"James Bond jagt Dr. No",
+  "cut":false,
+  "things":[
+    {
+      "name":"James Bond jagt Dr. No",
+      "value":"1962"
+    },
+    {
+      "name":"Liebesgrüße aus Moskau",
+      "value":"1963"
+    },
+    {
+      "name":"Goldfinger",
+      "value":"1964"
+    },
+    {
+      "name":"Feuerball",
+      "value":"1965"
+    },
+    {
+      "name":"Man lebt nur zweimal",
+      "value":"1967"
+    },
+    {
+      "name":"Im Geheimdienst Ihrer Majestät",
+      "value":"1969"
+    },
+    {
+      "name":"Diamantenfieber",
+      "value":"1971"
+    },
+    {
+      "name":"Leben und sterben lassen",
+      "value":"1973"
+    },
+    {
+      "name":"Der Mann mit dem goldenen Colt",
+      "value":"1974"
+    },
+    {
+      "name":"Der Spion, der mich liebte",
+      "value":"1977"
+    },
+    {
+      "name":"Moonraker – Streng geheim",
+      "value":"1979"
+    },
+    {
+      "name":"In tödlicher Mission",
+      "value":"1981"
+    },
+    {
+      "name":"Octopussy",
+      "value":"1983"
+    },
+    {
+      "name":"Im Angesicht des Todes",
+      "value":"1985"
+    },
+    {
+      "name":"Der Hauch des Todes",
+      "value":"1987"
+    },
+    {
+      "name":"Lizenz zum Töten",
+      "value":"1989"
+    },
+    {
+      "name":"GoldenEye",
+      "value":"1995"
+    },
+    {
+      "name":"Der Morgen stirbt nie",
+      "value":"1997"
+    },
+    {
+      "name":"Die Welt ist nicht genug",
+      "value":"1999"
+    },
+    {
+      "name":"Stirb an einem anderen Tag",
+      "value":"2002"
+    },
+    {
+      "name":"Casino Royale",
+      "value":"2006"
+    },
+    {
+      "name":"Ein Quantum Trost",
+      "value":"2008"
+    },
+    {
+      "name":"Skyfall",
+      "value":"2012"
+    },
+    {
+      "name":"Spectre",
+      "value":"2015"
+    },
+    {
+      "name":"Keine Zeit zu sterben",
+      "value":"2021 (Vorraussichtlich)"
+    }
+  ]
+}

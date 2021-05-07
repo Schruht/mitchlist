@@ -1,0 +1,78 @@
+{
+  "short":"Revolutionen",
+  "name":"Revolutionen in chronologischer Reihenfolge",
+  "subjects":["Geschichte","Chronologie","Politik"],
+  "description":"Sortieren Sie diese Revolutionen nach ihrer chronologischen Reihenfolge, beginnend mit der ersten Revolution",
+  "standard":"Die Französische Revolution",
+  "cut":true,
+  "things":[
+    {
+      "name":"Neolithische Revolution",
+      "value":"ca. 10000 vor der Zeitenwende"
+    },
+    {
+      "name":"Emder Revolution - Emden",
+      "value":"1595"
+    },
+    {
+      "name":"Glorious Revolution - England",
+      "value":"1688/1689"
+    },
+    {
+      "name":"Amerikanischer Unabhängigkeitskrieg",
+      "value":"1777–1783"
+    },
+    {
+      "name":"Die Französische Revolution",
+      "value":"1789-1799"
+    },
+    {
+      "name":"Julirevolution - Frankreich",
+      "value":"1830"
+    },
+    {
+      "name":"Februarrevolution - Frankreich",
+      "value":"1848"
+    },
+    {
+      "name":"Pariser Kommune - Frankreich",
+      "value":"1871"
+    },
+    {
+      "name":"Erste russische Revolution",
+      "value":"1905"
+    },
+    {
+      "name":"Februarrevolution - Russland",
+      "value":"1917 (Februar)"
+    },
+    {
+      "name":"Oktoberrevolution - Russland",
+      "value":"1917 (November)"
+    },
+    {
+      "name":"Novemberrevolution - Deutschland",
+      "value":"1918/1919"
+    },
+    {
+      "name":"Kubanische Revolution",
+      "value":"1953–1959"
+    },
+    {
+      "name":"Weiße Revolution - Iran",
+      "value":"1963"
+    },
+    {
+      "name":"Nelkenrevolution - Portugal",
+      "value":"1973"
+    },
+    {
+      "name":"Islamische Revolution - Iran",
+      "value":"1979"
+    },
+    {
+      "name":"Arabischer Frühling",
+      "value":"2010-2012"
+    }
+  ]
+}

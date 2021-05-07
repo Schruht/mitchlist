@@ -1,0 +1,90 @@
+{
+  "short":"Elemente_Entdeckung",
+  "name":"Elemente nach Entdeckung",
+  "subjects":["Chemie","Chronologie"],
+  "description":"Sortieren Sie diese Elemente nach dem Jahr ihrer Entdeckung, beginnend mit dem ältesten",
+  "standard":"Argon",
+  "cut":true,
+  "things":[
+    {
+      "name":"Bismut",
+      "value":"1540 - Agricola"
+    },
+    {
+      "name":"Platin",
+      "value":"1557 - Scalinger"
+    },
+    {
+      "name":"Phosphor",
+      "value":"1669 - Brand"
+    },
+    {
+      "name":"Cobalt",
+      "value":"1735 - Brandt"
+    },
+    {
+      "name":"Nickel",
+      "value":"1751 - Cronstedt"
+    },
+    {
+      "name":"Wasserstoff",
+      "value":"1766 - Cavendish"
+    },
+    {
+      "name":"Sauerstoff",
+      "value":"1774 - Priestley"
+    },
+    {
+      "name":"Wolfram",
+      "value":"1783 - de Elhuyar"
+    },
+    {
+      "name":"Uran",
+      "value":"1789 - Klaproth"
+    },
+    {
+      "name":"Natrium",
+      "value":"1807 - Davy"
+    },
+    {
+      "name":"Lithium",
+      "value":"1817 - Arfwedson"
+    },
+    {
+      "name":"Aluminium",
+      "value":"1825 - Ørsted"
+    },
+    {
+      "name":"Ytterbium",
+      "value":"1878 - de Marignac"
+    },
+    {
+      "name":"Argon",
+      "value":"1894 - Ramsay & Strutt"
+    },
+    {
+      "name":"Helium",
+      "value":"1895 - Ramsay & Crookes"
+    },
+    {
+      "name":"Polonium",
+      "value":"1898 - Curie"
+    },
+    {
+      "name":"Plutonium",
+      "value":"1940 - Seaborg"
+    },
+    {
+      "name":"Einsteinium",
+      "value":"1952 - Seaborg"
+    },
+    {
+      "name":"Seaborgium",
+      "value":"1974 - Oganesjan"
+    },
+    {
+      "name":"Tenness",
+      "value":"2010 - JINR"
+    }
+  ]
+}

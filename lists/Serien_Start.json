@@ -1,0 +1,118 @@
+{
+  "short":"Serien_Start",
+  "name":"Fernsehserien nach Alter",
+  "subjects":["Film und Fernsehen", "Chronologie"],
+  "description":"Sortieren Sie diese Fernsehserien nach dem Jahr, in dem ihre erste Staffel veröffentlicht wurde, beginnend mit der Ältesten",
+  "standard":"The Office",
+  "cut":true,
+  "things":[
+    {
+      "name":"Lassie",
+      "value":"1954"
+    },
+    {
+      "name":"Doctor Who (klassisch)",
+      "value":"1963"
+    },
+    {
+      "name":"Star Trek",
+      "value":"1966"
+    },
+    {
+      "name":"Columbo",
+      "value":"1968"
+    },
+    {
+      "name":"Die Waltons",
+      "value":"1972"
+    },
+    {
+      "name":"Saturday Night Live",
+      "value":"1975"
+    },
+    {
+      "name":"Ein Duke kommt selten allein [Dukes of Hazzard]",
+      "value":"1979"
+    },
+    {
+      "name":"Magnum",
+      "value":"1980"
+    },
+    {
+      "name":"Die Bill Cosby Show",
+      "value":"1984"
+    },
+    {
+      "name":"Golden Girls",
+      "value":"1985"
+    },
+    {
+      "name":"Die Simpsons",
+      "value":"1989"
+    },
+    {
+      "name":"Hör mal wer da Hämmert [Home Improvement]",
+      "value":"1991"
+    },
+    {
+      "name":"Akte X",
+      "value":"1993"
+    },
+    {
+      "name":"Die wilden 70er [That 70s Show]",
+      "value":"1998"
+    },
+    {
+      "name":"Family Guy",
+      "value":"1999"
+    },
+    {
+      "name":"Scrubs",
+      "value":"2001"
+    },
+    {
+      "name":"Navy CIS",
+      "value":"2003"
+    },
+    {
+      "name":"Dr. House",
+      "value":"2004"
+    },
+    {
+      "name":"The Office",
+      "value":"2005"
+    },
+    {
+      "name":"The Big Bang Theory",
+      "value":"2007"
+    },
+    {
+      "name":"Breaking Bad",
+      "value":"2008"
+    },
+    {
+      "name":"Black Mirror",
+      "value":"2011"
+    },
+    {
+      "name":"Arrow",
+      "value":"2012"
+    },
+    {
+      "name":"Rick und Morty",
+      "value":"2013"
+    },
+    {
+      "name":"Stranger Things",
+      "value":"2016"
+    },
+    {
+      "name":"Haus des Geldes [La casa de papel]",
+      "value":"2017"
+    },
+    {
+      "name":"Star Wars: The Mandalorian",
+      "value":"2019"
+    }
+  ]
+}

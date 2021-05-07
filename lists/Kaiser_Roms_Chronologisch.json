@@ -1,0 +1,106 @@
+{
+  "short":"Kaiser_Roms_Chronologisch",
+  "name":"Römische Kaiser in chronologischer Reihenfolge",
+  "subjects":["Geschichte","Chronologie","Antike"],
+  "description":"Sortieren Sie die römischen Kaiser bis zur Zeit der Soldatenkaiser in Chronologischer Reihenfolge",
+  "standard":"Augustus",
+  "cut":false,
+  "things":[
+    {
+      "name":"Augustus",
+      "value":"27 v.d.Z. - 14 n.d.Z."
+    },
+    {
+      "name":"Tiberius",
+      "value":"14 - 37"
+    },
+    {
+      "name":"Caligula",
+      "value":"37 - 41"
+    },
+    {
+      "name":"Claudius",
+      "value":"41 - 54"
+    },
+    {
+      "name":"Nero",
+      "value":"54 - 68"
+    },
+    {
+      "name":"Galba",
+      "value":"68 - 69"
+    },
+    {
+      "name":"Otho",
+      "value":"69"
+    },
+    {
+      "name":"Vitellius",
+      "value":"69"
+    },
+    {
+      "name":"Vespasian",
+      "value":"69-79"
+    },
+    {
+      "name":"Titus",
+      "value":"79-81"
+    },
+    {
+      "name":"Domitian",
+      "value":"81-96"
+    },
+    {
+      "name":"Nerva",
+      "value":"96-98"
+    },
+    {
+      "name":"Trajan",
+      "value":"98-117"
+    },
+    {
+      "name":"Hadrian",
+      "value":"117-138"
+    },
+    {
+      "name":"Antoninus Pius",
+      "value":"138-161"
+    },
+    {
+      "name":"Mark Aurel",
+      "value":"161-180"
+    },
+    {
+      "name":"Commodus",
+      "value":"180-192"
+    },
+    {
+      "name":"Pertinax",
+      "value":"193"
+    },
+    {
+      "name":"Didius Julianus",
+      "value":"193"
+    },
+    {
+      "name":"Septimius Severus",
+      "value":"193-211"
+    },
+    {
+      "name":"Caracalla",
+      "value":"211-217"
+    },
+    {
+      "name":"Macrinus",
+      "value":"217-218"
+    },
+    {
+      "name":"Elagabal",
+      "value":"218-222"
+    },
+    {
+      "name":"Severus Alexander",
+      "value":"222-235"
+    }
+  ]
+}
