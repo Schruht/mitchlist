@@ -1,0 +1,78 @@
+{
+  "short":"Lieder_Woerter2",
+  "name":"Lieder nach Zahl der Wörter #2",
+  "subjects":["Musik"],
+  "description":"Sortieren Sie diese Lieder nach der Zahl der unterschiedlichen Wörter in ihrem Liedtext. Onomatopeotische Ausdrücke (beispielsweise 'Ooga-chaka ooga-ooga') werden nicht gezählt.",
+  "standard":"a-ha - Take On Me (4:04)",
+  "cut":true,
+  "things":[
+    {
+      "name":"Bonney M. - Rasputin (4:30)",
+      "value":"168"
+    },
+    {
+      "name":"Monty Python - Always Look on the Bright Side of Life (3:11)",
+      "value":"124"
+    },
+    {
+      "name":"Toto - Africa (4:32)",
+      "value":"113"
+    },
+    {
+      "name":"The Rolling Stones - Paint It, Black (3:46)",
+      "value":"106"
+    },
+    {
+      "name":"Dick van Dyke - Chim Chim Cher-ee (2:47)",
+      "value":"97"
+    },
+    {
+      "name":"Survirvor - Eye of the Tiger (4:05)",
+      "value":"91"
+    },
+    {
+      "name":"Sammy Daviy Jr. - Candyman (03:05)",
+      "value":"83"
+    },
+    {
+      "name":"MIKA - Relax, take it easy (3:55)",
+      "value":"80"
+    },
+    {
+      "name":"Britney Spears - Toxic (3:32)",
+      "value":"77"
+    },
+    {
+      "name":"The Animals - House of the Rising sun (4:09)",
+      "value":"76"
+    },
+    {
+      "name":"Blue Swede - Hooked On A Feeling (2:47)",
+      "value":"75"
+    },
+    {
+      "name":"a-ha - Take On Me (4:04)",
+      "value":"67"
+    },
+    {
+      "name":"Judy Garland - Somewhere over the Rainbow (2:43)",
+      "value":"64"
+    },
+    {
+      "name":"Ray Charles - Hit the Road Jack (2:18)",
+      "value":"62"
+    },
+    {
+      "name":"Doris Day - Que Sera, Sera (2:06)",
+      "value":"56"
+    },
+    {
+      "name":"Depeche Mode - Personal Jesus (3:46)",
+      "value":"51"
+    },
+    {
+      "name":"Duck Sauce - Barbra Streisand (3:17)",
+      "value":"2"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "short":"Herrscher_Aegyptens",
+  "name":"Herrscher Ägyptens",
+  "subjects":["Geschichte"],
+  "description":"Sortieren Sie diese Personen in chronologischer Reihenfolge, die im Laufe der Geschichte über das Land geherrscht haben, dass wir als Ägypten kennen. Beginnend mit dem frühesten Herrscher.",
+  "standard":"Ramses II.",
+  "cut":true,
+  "things":[
+    {
+      "name":"Narmer",
+      "value":"Um 3100 v.d.Z."
+    },
+    {
+      "name":"Djoser",
+      "value":"Um 2650 v.d.Z."
+    },
+    {
+      "name":"Cheops",
+      "value":"2589–2566 v.d.Z."
+    },
+    {
+      "name":"Chephren",
+      "value":"2558–2532 v.d.Z."
+    },
+    {
+      "name":"Senusret I",
+      "value":"1971–1926 v.d.Z."
+    },
+    {
+      "name":"Hatshepsut",
+      "value":"1479–1458 v.d.Z."
+    },
+    {
+      "name":"Echnaton/Akhenaten",
+      "value":"1352–1336 v.d.Z."
+    },
+    {
+      "name":"Tutankhamun",
+      "value":"1332–1324 v.d.Z."
+    },
+    {
+      "name":"Ramses II.",
+      "value":"1279–1213 v.d.Z."
+    },
+    {
+      "name":"Xerxes",
+      "value":"486-465 v.d.Z."
+    },
+    {
+      "name":"Alexander III. der Große",
+      "value":"332-323  v.d.Z."
+    },
+    {
+      "name":"Ptolemäus I Soter",
+      "value":"305-282  v.d.Z."
+    },
+    {
+      "name":"Cleopatra VII",
+      "value":"52 v.d.Z. - 30 n.d.Z."
+    },
+    {
+      "name":"Trajan",
+      "value":"98-117 n.d.Z."
+    },
+    {
+      "name":"Konstantin der Große",
+      "value":"306-337 n.d.Z."
+    },
+    {
+      "name":"Justinian I.",
+      "value":"527-565 n.d.Z."
+    },
+    {
+      "name":"Chosrau II.",
+      "value":"619-628 n.d.Z."
+    },
+    {
+      "name":"Saladin",
+      "value":"1171-1193 n.d.Z."
+    },
+    {
+      "name":"Suleiman I",
+      "value":"1520-1566 n.d.Z."
+    },
+    {
+      "name":"Farouk I",
+      "value":"1936-1952 n.d.Z."
+    },
+    {
+      "name":"Gamal Abdel Nasser",
+      "value":"1956-1970 n.d.Z."
+    },
+    {
+      "name":"Anwar Sadat",
+      "value":"1970-1981 n.d.Z."
+    },
+    {
+      "name":"Hosni Mubarak",
+      "value":"1981-2011 n.d.Z."
+    },
+    {
+      "name":"Abdel Fattah el-Sisi",
+      "value":"2014-heute"
+    }
+  ]
+}
