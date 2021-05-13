@@ -2,7 +2,7 @@
   "short":"Filme_Bewertung",
   "name":"Filme nach IMDb Bewertung",
   "subjects":["Film & Fernsehen"],
-  "description":"Sortieren Sie diese ",
+  "description":"Sortieren Sie diese nach ihrer Bewertung in der IMDb, beginnend mit dem best bewertetsten Film.",
   "standard":"Mission Impossible",
   "cut":true,
   "things":[

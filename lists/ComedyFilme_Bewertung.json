@@ -1,0 +1,78 @@
+{
+  "short":"ComedyFilme_Bewertung.json",
+  "name":"Comedy-Filme nach IMDb Bewertung",
+  "subjects":["Film & Fernsehen"],
+  "description":"Sortieren Sie diese Comedy-Filme nach ihrer Bewertung in der IMDb, beginnend mit dem best bewertetsten Film.",
+  "standard":"Hot Shots! - Die Mutter aller Filme (1991)",
+  "cut":true,
+  "things":[
+    {
+      "name":"Der große Diktator (1940)",
+      "value":"8,4"
+    },
+    {
+      "name":"Die Ritter der Kokosnuß [OT: Monty Python and the Holy Grail] (1975)",
+      "value":"8,2"
+    },
+    {
+      "name":"Das Leben des Brian (1979)",
+      "value":"8,1"
+    },
+    {
+      "name":"Hangover (2009)",
+      "value":"7,7"
+    },
+    {
+      "name":"Die nackte Kanone (1988)",
+      "value":"7,6"
+    },
+    {
+      "name":"Borat: Kulturelle Lernung von Amerika um Benefiz für glorreiche Nation von Kasachstan zu machen (2006)",
+      "value":"7,3"
+    },
+    {
+      "name":"Hasch mich - ich bin der Mörder [OT: Jo] (1971)",
+      "value":"7,2"
+    },
+    {
+      "name":"Der rosarote Panther (1963)",
+      "value":"7,1"
+    },
+    {
+      "name":"Ace Ventura (1994)",
+      "value":"6,9"
+    },
+    {
+      "name":"Hot Shots! - Die Mutter aller Filme (1991)",
+      "value":"6,8"
+    },
+    {
+      "name":"Zoolander (2001)",
+      "value":"6,6"
+    },
+    {
+      "name":"Mr. Bean macht Ferien (2007)",
+      "value":"6,4"
+    },
+    {
+      "name":"Johnny English - Der Spion, der es versiebte (2003)",
+      "value":"6,2"
+    },
+    {
+      "name":"Kindsköpfe (2010)",
+      "value":"5,9"
+    },
+    {
+      "name":"Leg dich nicht mit Zohan an (2008)",
+      "value":"5,5"
+    },
+    {
+      "name":"(T)Raumschiff Surprise - Periode 1 (2004)",
+      "value":"5,4"
+    },
+    {
+      "name":"Zoolander 2 (2016)",
+      "value":"4,7"
+    }
+  ]
+}

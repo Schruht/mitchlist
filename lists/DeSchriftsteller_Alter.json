@@ -1,0 +1,102 @@
+{
+  "short":"DeSchriftsteller_Alter",
+  "name":"Deutsche Schriftsteller nach Alter",
+  "subjects":["Literatur"],
+  "description":"Sortieren Sie diese deutschsprachigen Schriftsteller nach ihrem Geburtsjahr, beginnend mit dem ältesten Schriftsteller.",
+  "standard":"Johann Wolfgang von Goethe",
+  "cut":true,
+  "things":[
+    {
+      "name":"Gotthold Ephraim Lessing",
+      "value":"1170"
+    },
+    {
+      "name":"Martin Opitz",
+      "value":"1597"
+    },
+    {
+      "name":"Andreas Gryphius",
+      "value":"1616"
+    },
+    {
+      "name":"Christian Fürchtegott Gellert",
+      "value":"1715"
+    },
+    {
+      "name":"Gotthold Ephraim Lessing",
+      "value":"1729"
+    },
+    {
+      "name":"Christoph Martin Wieland",
+      "value":"1733"
+    },
+    {
+      "name":"Johann Gottfried Herder",
+      "value":"1744"
+    },
+    {
+      "name":"Johann Wolfgang von Goethe",
+      "value":"1749"
+    },
+    {
+      "name":"Friedrich Schiller",
+      "value":"1759"
+    },
+    {
+      "name":"Friedrich Hölderlin",
+      "value":"1770"
+    },
+    {
+      "name":"Novalis",
+      "value":"1772"
+    },
+    {
+      "name":"E.T.A. Hoffmann",
+      "value":"1776"
+    },
+    {
+      "name":"Heinrich von Kleist",
+      "value":"1777"
+    },
+    {
+      "name":"Heinrich Heine",
+      "value":"1797"
+    },
+    {
+      "name":"Georg Büchner",
+      "value":"1813"
+    },
+    {
+      "name":"Wilhelm Busch",
+      "value":"1832"
+    },
+    {
+      "name":"Karl May",
+      "value":"1842"
+    },
+    {
+      "name":"Hermann Hesse",
+      "value":"1877"
+    },
+    {
+      "name":"Franz Kafka",
+      "value":"1883"
+    },
+    {
+      "name":"Erich Maria Remarque",
+      "value":"1898"
+    },
+    {
+      "name":"Heinrich Böll",
+      "value":"1917"
+    },
+    {
+      "name":"Günter Grass",
+      "value":"1927"
+    },
+    {
+      "name":"Sebastian Fitzek",
+      "value":"1971"
+    }
+  ]
+}
