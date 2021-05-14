@@ -1,0 +1,110 @@
+{
+  "short":"US-Staaten_Groesse.json",
+  "name":"US-Bundesstaaten nach Fläche",
+  "subjects":["Geographie"],
+  "description":"ortieren Sie diese Bundesstaaten und Territorien der Vereinigten Staaten nach ihrer Fläche, beginnend mit dem größten.",
+  "standard":"Colorado",
+  "cut":true,
+  "things":[
+    {
+      "name":"Alaska",
+      "value":"1,477,953 km²"
+    },
+    {
+      "name":"Texas",
+      "value":"676,587 km²"
+    },
+    {
+      "name":"California",
+      "value":"403,466 km²"
+    },
+    {
+      "name":"Montana",
+      "value":"376,962 km²"
+    },
+    {
+      "name":"New Mexico",
+      "value":"314,161 km²"
+    },
+    {
+      "name":"Nevada",
+      "value":"284,332 km²"
+    },
+    {
+      "name":"Colorado",
+      "value":"268,431 km²"
+    },
+    {
+      "name":"Wyoming",
+      "value":"251,470 km²"
+    },
+    {
+      "name":"Utah",
+      "value":"212,818 km²"
+    },
+    {
+      "name":"Nebraska",
+      "value":"198,974 km²"
+    },
+    {
+      "name":"Washington",
+      "value":"172,119 km²"
+    },
+    {
+      "name":"Michigan",
+      "value":"146,435 km²"
+    },
+    {
+      "name":"Florida",
+      "value":"138,887 km²"
+    },
+    {
+      "name":"Mississippi",
+      "value":"121,531 km²"
+    },
+    {
+      "name":"Pennsylvania",
+      "value":"115,883 km²"
+    },
+    {
+      "name":"Kentucky",
+      "value":"102,269 km²"
+    },
+    {
+      "name":"Maine",
+      "value":"79,883 km²"
+    },
+    {
+      "name":"Vermont",
+      "value":"23,871 km²"
+    },
+    {
+      "name":"New Jersey",
+      "value":"19,047 km²"
+    },
+    {
+      "name":"Hawaii",
+      "value":"16,635 km²"
+    },
+    {
+      "name":"Puerto Rico",
+      "value":"8,868 km²"
+    },
+    {
+      "name":"Delaware",
+      "value":"5,047 km²"
+    },
+    {
+      "name":"Rhode Island",
+      "value":"2,678 km²"
+    },
+    {
+      "name":"Guam",
+      "value":"543 km²"
+    },
+    {
+      "name":"District of Columbia",
+      "value":"158 km²"
+    }
+  ]
+}

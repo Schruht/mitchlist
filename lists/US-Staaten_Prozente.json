@@ -1,0 +1,98 @@
+{
+  "short":"US-Staaten_Prozente",
+  "name":"US-Bundesstaaten nach Parteien",
+  "subjects":["Politik"],
+  "description":"Sortieren Sie diese Bundesstaaten und Territorien der Vereinigten Staaten nach dem Anteil der Demokratischen Stimmen bei der Präsidentschaftswahl 2020. Beginnend mit dem höchsten Prozentsatz demokratischer Stimmen.",
+  "standard":"Vereinigte Staaten insgesammt",
+  "cut":true,
+  "things":[
+    {
+      "name":"District of Columbia",
+      "value":"92.15%"
+    },
+    {
+      "name":"Vermont",
+      "value":"66.09%"
+    },
+    {
+      "name":"Maryland",
+      "value":"65.36%"
+    },
+    {
+      "name":"Hawaii",
+      "value":"63.73%"
+    },
+    {
+      "name":"California",
+      "value":"63.48%"
+    },
+    {
+      "name":"New York",
+      "value":"60.86%"
+    },
+    {
+      "name":"Delaware",
+      "value":"58.74%"
+    },
+    {
+      "name":"New Jersey",
+      "value":"57.33%"
+    },
+    {
+      "name":"Colorado",
+      "value":"55.40%"
+    },
+    {
+      "name":"Vereinigte Staaten insgesammt",
+      "value":"51.3%"
+    },
+    {
+      "name":"Michigan",
+      "value":"50.62%"
+    },
+    {
+      "name":"Arizona",
+      "value":"49.36%"
+    },
+    {
+      "name":"Florida",
+      "value":"47.86%"
+    },
+    {
+      "name":"Texas",
+      "value":"46.48%"
+    },
+    {
+      "name":"Alaska",
+      "value":"42.77%"
+    },
+    {
+      "name":"Kansas",
+      "value":"41.56%"
+    },
+    {
+      "name":"Mississippi",
+      "value":"41.06%"
+    },
+    {
+      "name":"Montana",
+      "value":"40.55%"
+    },
+    {
+      "name":"Tennessee",
+      "value":"37.45%"
+    },
+    {
+      "name":"Alabama",
+      "value":"36.57%"
+    },
+    {
+      "name":"North Dakota",
+      "value":"31.76%"
+    },
+    {
+      "name":"Wyoming",
+      "value":"26.55%"
+    }
+  ]
+}

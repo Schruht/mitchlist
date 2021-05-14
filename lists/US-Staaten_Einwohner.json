@@ -1,0 +1,98 @@
+{
+  "short":"US-Staaten_Einwohner",
+  "name":"US-Bundesstaaten nach Einwohner",
+  "subjects":["Demographie"],
+  "description":"Sortieren Sie diese Bundesstaaten und Territorien der Vereinigten Staaten nach ihrer Einwohnerzahl, beginnend mit dem meistbevölkerten. Es gilt der Zensus von 2020.",
+  "standard":"New York",
+  "cut":true,
+  "things":[
+    {
+      "name":"California",
+      "value":"39,538,223"
+    },
+    {
+      "name":"Texas",
+      "value":"29,145,505"
+    },
+    {
+      "name":"Florida",
+      "value":"21,538,187"
+    },
+    {
+      "name":"New York",
+      "value":"20,201,249"
+    },
+    {
+      "name":"Pennsylvania",
+      "value":"13,002,700"
+    },
+    {
+      "name":"Illinois",
+      "value":"12,812,508"
+    },
+    {
+      "name":"Georgia",
+      "value":"10,711,908"
+    },
+    {
+      "name":"Michigan",
+      "value":"10,077,331"
+    },
+    {
+      "name":"New Jersey",
+      "value":"9,288,994"
+    },
+    {
+      "name":"Virginia",
+      "value":"8,631,393"
+    },
+    {
+      "name":"Missouri",
+      "value":"6,154,913"
+    },
+    {
+      "name":"Alabama",
+      "value":"5,024,279"
+    },
+    {
+      "name":"Puerto Rico",
+      "value":"3,193,694"
+    },
+    {
+      "name":"Nevada",
+      "value":"3,104,614"
+    },
+    {
+      "name":"Mississippi",
+      "value":"2,961,279"
+    },
+    {
+      "name":"New Mexico",
+      "value":"2,117,522"
+    },
+    {
+      "name":"Hawaii",
+      "value":"1,455,271"
+    },
+    {
+      "name":"Rhode Island",
+      "value":"1,097,379"
+    },
+    {
+      "name":"Alaska",
+      "value":"733,391"
+    },
+    {
+      "name":"District of Columbia",
+      "value":"689,545"
+    },
+    {
+      "name":"Wyoming",
+      "value":"576,851"
+    },
+    {
+      "name":"U.S. Virgin Islands",
+      "value":"103,700"
+    }
+  ]
+}
