@@ -1,0 +1,74 @@
+{
+  "short":"Saurier_Groesse.json",
+  "name":"Saurier nach Größe",
+  "subjects":["Paläontologie"],
+  "description":"Sortieren Sie diese Saurier nach ihrer Größe, beginnend mit dem größten Saurier.",
+  "standard":"Tyrannosaurus",
+  "cut":true,
+  "things":[
+    {
+      "name":"Archeopteryx",
+      "value":"35 cm"
+    },
+    {
+      "name":"Microraptor",
+      "value":"40 cm"
+    },
+    {
+      "name":"Henodos",
+      "value":"1 m"
+    },
+    {
+      "name":"Compsognathus",
+      "value":"1,4 m"
+    },
+    {
+      "name":"Velociraptor",
+      "value":"2 m"
+    },
+    {
+      "name":"Quetzalcoatlus",
+      "value":"3 m"
+    },
+    {
+      "name":"Ornithomimus",
+      "value":"3,5 m"
+    },
+    {
+      "name":"Pachycephalosaurus",
+      "value":"8 m"
+    },
+    {
+      "name":"Stegosaurus",
+      "value":"9 m"
+    },
+    {
+      "name":"Parasaurolophus",
+      "value":"10 m"
+    },
+    {
+      "name":"Tyrannosaurus",
+      "value":"13 m"
+    },
+    {
+      "name":"Elasmosaurus",
+      "value":"14 m"
+    },
+    {
+      "name":"Spinosaurus",
+      "value":"15 m"
+    },
+    {
+      "name":"Apatosaurus/Brontosaurus",
+      "value":"21 m"
+    },
+    {
+      "name":"Brachiosaurus",
+      "value":"25 m"
+    },
+    {
+      "name":"Diplodocus",
+      "value":"30 m"
+    }
+  ]
+}

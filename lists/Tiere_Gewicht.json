@@ -1,0 +1,302 @@
+{
+  "short":"Tiere_Gewicht.json",
+  "name":"Tiere nach Gewicht",
+  "subjects":["Zoologie"],
+  "description":"Sortieren Sie diese Tiere nach ihrem durchschnittlichen Gewicht",
+  "standard":"Mensch (Homo sapiens)",
+  "cut":true,
+  "things":[
+    {
+      "name":"Libelle (Libellula)",
+      "value":"0,02 g"
+    },
+    {
+      "name":"Biene (Apis mellifera)",
+      "value":"1 g"
+    },
+    {
+      "name":"Gottesanbeterin (Mantis religiosa)",
+      "value":"5 g"
+    },
+    {
+      "name":"Kolibri (Colibri coruscanus)",
+      "value":"6 g"
+    },
+    {
+      "name":"Nacktschnecke (Limax maximus)",
+      "value":"10 g"
+    },
+    {
+      "name":"Teichfrosch (Pelophylax esculentus)",
+      "value":"20 g"
+    },
+    {
+      "name":"Eisvogel (Alcedo Atthis)",
+      "value":"40 g"
+    },
+    {
+      "name":"Vogelspinne (Brachypelma smithi)",
+      "value":"90 g"
+    },
+    {
+      "name":"Taube (Columba livia)",
+      "value":"270 g"
+    },
+    {
+      "name":"Eichhörnchen (Sciurus vulgarus)",
+      "value":"300 g"
+    },
+    {
+      "name":"Ratte (Rattus norvegicus)",
+      "value":"400 g"
+    },
+    {
+      "name":"Waldkauz (Strix aluca)",
+      "value":"500 g"
+    },
+    {
+      "name":"Wanderfalke (Falco Peregrinus)",
+      "value":"600 g"
+    },
+    {
+      "name":"Erdmännchen (Suricata suricatta)",
+      "value":"800 g"
+    },
+    {
+      "name":"Stockente (Anas platyrhynchos)",
+      "value":"1,1 kg"
+    },
+    {
+      "name":"Kolkrabe (Corvus corax)",
+      "value":"1,2 kg"
+    },
+    {
+      "name":"Uhu (Bubo bubo)",
+      "value":"2,2 kg"
+    },
+    {
+      "name":"Kiwi (Apteryx australis)",
+      "value":"2,6 kg"
+    },
+    {
+      "name":"Katta (Lemur catta)/Ringelschwanzlemur (Alikto movit movit)",
+      "value":"3,2 kg"
+    },
+    {
+      "name":"Rosaflamingo (Phoenicopterus roseus)",
+      "value":"3,5 kg"
+    },
+    {
+      "name":"Europäischer Hummer (Homarus gammarus)",
+      "value":"4 kg"
+    },
+    {
+      "name":"Atlantischer Lachs (Salmo salar)",
+      "value":"4,5 kg"
+    },
+    {
+      "name":"Rotfuchs (Vulpes vulpes)",
+      "value":"6 kg"
+    },
+    {
+      "name":"Waschbär (Procyon lotor)",
+      "value":"6,5 kg"
+    },
+    {
+      "name":"Krauskopfpelikan (Pelecanus crispus)",
+      "value":"10 kg"
+    },
+    {
+      "name":"Otter (Lutra lutra)",
+      "value":"10 kg"
+    },
+    {
+      "name":"Luchs (Lynx pardinus)",
+      "value":"11 kg"
+    },
+    {
+      "name":"Andenkondor (Vultur gryphus)",
+      "value":"12 kg"
+    },
+    {
+      "name":"Königsboa (Boa constrictor)",
+      "value":"15 kg"
+    },
+    {
+      "name":"Biber (Castor canadensis)",
+      "value":"25 kg"
+    },
+    {
+      "name":"Kaiserpinguin (Aptenodytes forsteri)",
+      "value":"30 kg"
+    },
+    {
+      "name":"Wolf (Canis lupus)",
+      "value":"38 kg"
+    },
+    {
+      "name":"Schimpanse (Pan troglodytus)",
+      "value":"45 kg"
+    },
+    {
+      "name":"Gepard (Acinonyx jubatus)",
+      "value":"48 kg"
+    },
+    {
+      "name":"Ziege (Capra hircus)",
+      "value":"55 kg"
+    },
+    {
+      "name":"Tüpfelhyäne (Crocuta crocuta)",
+      "value":"58 kg"
+    },
+    {
+      "name":"Orang-Utan (Pong pygmaeus)",
+      "value":"60 kg"
+    },
+    {
+      "name":"Puma (Puma concolar)",
+      "value":"63 kg"
+    },
+    {
+      "name":"Känguru (Macropus rufus)",
+      "value":"66 kg"
+    },
+    {
+      "name":"Mensch (Homo sapiens)",
+      "value":"70 kg"
+    },
+    {
+      "name":"Schaf (Ovis aries)",
+      "value":"90 kg"
+    },
+    {
+      "name":"Gemeiner Delfin (Delphinus delphis)",
+      "value":"95 kg"
+    },
+    {
+      "name":"Großer Panda (Ailuropoda melanoleuca)",
+      "value":"100 kg"
+    },
+    {
+      "name":"Komodowaran (Varanus komodoensis)",
+      "value":"120 kg"
+    },
+    {
+      "name":"Strauß (Struthio camelus)",
+      "value":"135 kg"
+    },
+    {
+      "name":"Wildschwein (Sus scrofa)",
+      "value":"150 kg"
+    },
+    {
+      "name":"Kalifornischer Seelöwe (Zalophus californianus)",
+      "value":"165 kg"
+    },
+    {
+      "name":"Rothirsch (Cervus elaphus)",
+      "value":"175 kg"
+    },
+    {
+      "name":"Löwe (Panthera leo)",
+      "value":"180 kg"
+    },
+    {
+      "name":"Gorilla (Gorilla gorilla)",
+      "value":"200 kg"
+    },
+    {
+      "name":"Königstiger (Panthera tigris tigris)",
+      "value":"215 kg"
+    },
+    {
+      "name":"Zebra (Equus quagga)",
+      "value":"290 kg"
+    },
+    {
+      "name":"Roter Thunfisch (Thunnus thynnus)",
+      "value":"300 kg"
+    },
+    {
+      "name":"Esel (Equus asinus)",
+      "value":"350 kg"
+    },
+    {
+      "name":"Braunbär (Ursus arctos)",
+      "value":"450 kg"
+    },
+    {
+      "name":"Eisbär (Ursus maritimus)",
+      "value":"500 kg"
+    },
+    {
+      "name":"Dugong (Dugong dugon)",
+      "value":"600 kg"
+    },
+    {
+      "name":"Hausrind (Bos taurus taurus)",
+      "value":"700 kg"
+    },
+    {
+      "name":"Hauspferd (Equuus caballus)",
+      "value":"750 kg"
+    },
+    {
+      "name":"Kamel (Camelus bactrianus)",
+      "value":"800 kg"
+    },
+    {
+      "name":"Nilkrokodil (Crocodylus nilotieus)",
+      "value":"850 kg"
+    },
+    {
+      "name":"Bison (Bison bison)",
+      "value":"880 kg"
+    },
+    {
+      "name":"Yak (Bos grunniens)",
+      "value":"900 kg"
+    },
+    {
+      "name":"Giraffe (Giraffa camelopardalis)",
+      "value":"1 t"
+    },
+    {
+      "name":"Walros (Odobenus rosmarus)",
+      "value":"1,3 t"
+    },
+    {
+      "name":"Riesenmanta (Manta birostris)",
+      "value":"1,5 t"
+    },
+    {
+      "name":"Weißer Hai (Carcharodon carcharias)",
+      "value":"1,6 t"
+    },
+    {
+      "name":"Flusspferd (Hippopotamus amphibius)",
+      "value":"2,2 t"
+    },
+    {
+      "name":"Breitmaulnashorn (Ceratotherium simum)",
+      "value":"2,5 t"
+    },
+    {
+      "name":"Asiatischer Elefant (Elephas maximus)",
+      "value":"5 t"
+    },
+    {
+      "name":"Afrikanischer Elefant (Loxodonta africana)",
+      "value":"6 t"
+    },
+    {
+      "name":"Pottwal (Physeter macrocephalus)",
+      "value":"40 t"
+    },
+    {
+      "name":"Blauwal (Balaenoptera musculus)",
+      "value":"170 t"
+    }
+  ]
+}

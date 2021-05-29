@@ -1,0 +1,106 @@
+{
+  "short":"Jakobsweg.json",
+  "name":"Jakobswege",
+  "subjects":["Geographie","Religion"],
+  "description":"Sortieren Sie diese Städte nach ihrer Distanz zur spanischen Pilgerstadt Santiago de Compostella. Gezählt wird die Distanz über den Jakobsweg, nicht die Luftlinie.",
+  "standard":"Köln",
+  "cut":true,
+  "things":[
+    {
+      "name":"Leon",
+      "value":"304 km"
+    },
+    {
+      "name":"Sevilla",
+      "value":"1006 km"
+    },
+    {
+      "name":"Bordeaux",
+      "value":"1042 km"
+    },
+    {
+      "name":"Toulouse",
+      "value":"1153 km"
+    },
+    {
+      "name":"Tours",
+      "value":"1524 km"
+    },
+    {
+      "name":"Paris",
+      "value":"1817 km"
+    },
+    {
+      "name":"Genf",
+      "value":"1851 km"
+    },
+    {
+      "name":"Basel",
+      "value":"2074 km"
+    },
+    {
+      "name":"Turin",
+      "value":"2143 km"
+    },
+    {
+      "name":"Genua",
+      "value":"2155 km"
+    },
+    {
+      "name":"Brüssel",
+      "value":"2257 km"
+    },
+    {
+      "name":"Köln",
+      "value":"2381 km"
+    },
+    {
+      "name":"Würzburg",
+      "value":"2543 km"
+    },
+    {
+      "name":"Verona",
+      "value":"2653 km"
+    },
+    {
+      "name":"Salzburg",
+      "value":"2661 km"
+    },
+    {
+      "name":"Hamburg",
+      "value":"2807 km"
+    },
+    {
+      "name":"Prag",
+      "value":"2964 km"
+    },
+    {
+      "name":"Berlin",
+      "value":"2995 km"
+    },
+    {
+      "name":"Wien",
+      "value":"3050 km"
+    },
+    {
+      "name":"Triest",
+      "value":"3158 km"
+    },
+    {
+      "name":"Budapest",
+      "value":"3374 km"
+    },
+    {
+      "name":"Zagreb",
+      "value":"3456 km"
+    },
+    {
+      "name":"Krakau",
+      "value":"3573 km"
+    },
+    {
+      "name":"Danzig",
+      "value":"3827 km"
+    }
+  ]
+}
