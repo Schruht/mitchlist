@@ -1,0 +1,118 @@
+{
+  "short":"Laender_Bier.json",
+  "name":"Länder nach Bierkonsum pro Einwohner",
+  "subjects":["Wirtschaft","Alkoholismus","Essen & Trinken"],
+  "description":"Sortieren Sie diese Länder nach dem durchschnittlichen Bierkonsum pro Person. Beginnend mit dem höchsten Konsum.",
+  "standard":"Deutschland",
+  "cut":true,
+  "things":[
+    {
+      "name":"Czechien",
+      "value":"188.6 Liter pro Person und Jahr"
+    },
+    {
+      "name":"Österreich",
+      "value":"107.8 Liter pro Person und Jahr"
+    },
+    {
+      "name":"Rumänien",
+      "value":"100.3 Liter pro Person und Jahr"
+    },
+    {
+      "name":"Deutschland",
+      "value":"99 Liter pro Person und Jahr"
+    },
+    {
+      "name":"Poland",
+      "value":"97.7 Liter pro Person und Jahr"
+    },
+    {
+      "name":"Namibia",
+      "value":"95.5 Liter pro Person und Jahr"
+    },
+    {
+      "name":"Irland",
+      "value":"92.9 Liter pro Person und Jahr"
+    },
+    {
+      "name":"Spanien",
+      "value":"88.8 Liter pro Person und Jahr"
+    },
+    {
+      "name":"Kroatien",
+      "value":"85.5 Liter pro Person und Jahr"
+    },
+    {
+      "name":"Estland",
+      "value":"80.5 Liter pro Person und Jahr"
+    },
+    {
+      "name":"Slovenien",
+      "value":"80.0 Liter pro Person und Jahr"
+    },
+    {
+      "name":"Niederlande",
+      "value":"79.3 Liter pro Person und Jahr"
+    },
+    {
+      "name":"Bulgarien",
+      "value":"78.7 Liter pro Person und Jahr"
+    },
+    {
+      "name":"Australien",
+      "value":"75.1 Liter pro Person und Jahr"
+    },
+    {
+      "name":"Ungarn",
+      "value":"73.7 Liter pro Person und Jahr"
+    },
+    {
+      "name":"USA",
+      "value":"72.7 Liter pro Person und Jahr"
+    },
+    {
+      "name":"Finland",
+      "value":"72.0 Liter pro Person und Jahr"
+    },
+    {
+      "name":"Vereinigtes Königreich",
+      "value":"70.3 Liter pro Person und Jahr"
+    },
+    {
+      "name":"Belgien",
+      "value":"65.9 Liter pro Person und Jahr"
+    },
+    {
+      "name":"Russland",
+      "value":"57.7 Liter pro Person und Jahr"
+    },
+    {
+      "name":"Schweiz",
+      "value":"55.1 Liter pro Person und Jahr"
+    },
+    {
+      "name":"Vietnam",
+      "value":"45.1 Liter pro Person und Jahr"
+    },
+    {
+      "name":"Frankreich",
+      "value":"33 Liter pro Person und Jahr"
+    },
+    {
+      "name":"Italien",
+      "value":"31 Liter pro Person und Jahr"
+    },
+    {
+      "name":"Israel",
+      "value":"17.4 Liter pro Person und Jahr"
+    },
+    {
+      "name":"Türkei",
+      "value":"10.9 Liter pro Person und Jahr"
+    },
+    {
+      "name":"Indien",
+      "value":"2 Liter pro Person und Jahr"
+    }
+  ]
+}

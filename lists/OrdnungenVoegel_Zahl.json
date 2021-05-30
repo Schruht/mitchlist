@@ -1,0 +1,114 @@
+{
+  "short":"OrdnungenVoegel_Zahl.json",
+  "name":"Ordnungen der Vögel nach Zahl der Arten",
+  "subjects":["Biologie","Zoologie"],
+  "description":"Sortieren Sie diese Ordnungen der Vögel nach der Zahl ihrer Arten.",
+  "standard":"Columbiformes (Taube)",
+  "cut":false,
+  "things":[
+    {
+      "name":"Passeriformes (Spatz, Meise, Krähe)",
+      "value":"ca. 5700 Arten"
+    },
+    {
+      "name":"Apodiformes (Kolibri, Mauersegler)",
+      "value":"ca. 425 Arten"
+    },
+    {
+      "name":"Piciformes (Spechte)",
+      "value":"ca. 400 Arten"
+    },
+    {
+      "name":"Charadriiformes (Möwe, Regenpfeifer, Papageitaucher)",
+      "value":"ca. 370 Arten"
+    },
+    {
+      "name":"Psittaciformes (Ara, Wellensittich)",
+      "value":"ca. 368 Arten"
+    },
+    {
+      "name":"Falconiformes (Adler, Falke, Geier)",
+      "value":"ca. 309 Arten"
+    },
+    {
+      "name":"Columbiformes (Taube)",
+      "value":"ca. 300 Arten"
+    },
+    {
+      "name":"Galliformes (Huhn, Fasan)",
+      "value":"ca. 290 Arten"
+    },
+    {
+      "name":"Coraciiformes (Eisvogel, Bienenfresser)",
+      "value":"ca. 211 Arten"
+    },
+    {
+      "name":"Gruiformes (Kranich)",
+      "value":"ca. 210 Arten"
+    },
+    {
+      "name":"Strigiformes (Waldkauz, Uhu)",
+      "value":"ca. 180 Arten"
+    },
+    {
+      "name":"Anseriformes (Gänse, Schwäne, Enten)",
+      "value":"ca. 150 Arten"
+    },
+    {
+      "name":"Cuculiformes (Kuckuck)",
+      "value":"141 Arten"
+    },
+    {
+      "name":"Caprimulgiformes (Nachtschwalbe)",
+      "value":"121 Arten"
+    },
+    {
+      "name":"Ciconiiformes (Storch, Graureiher, Ibis)",
+      "value":"120 Arten"
+    },
+    {
+      "name":"Procellariiformes (Albatross, Sturmvogel)",
+      "value":"117 Arten"
+    },
+    {
+      "name":"Pelecaniformes (Pelikan)",
+      "value":"66 Arten"
+    },
+    {
+      "name":"Tinamiformes (Steißhuhn)",
+      "value":"47 Arten"
+    },
+    {
+      "name":"Trogoniformes (Trogon)",
+      "value":"37 Arten"
+    },
+    {
+      "name":"Podicipediformes (Haubentaucher)",
+      "value":"22 Arten"
+    },
+    {
+      "name":"Musophagiformes (Turako)",
+      "value":"18 Arten"
+    },
+    {
+      "name":"Sphenisciformes (Brillenpinguin, Kaiserpinguin)",
+      "value":"17 Arten"
+    },
+    {
+      "name":"Pteroclidiformes (Steppenhuhn)",
+      "value":"16 Arten"
+    },
+    {
+      "name":"Pteroclidiformes (Strauß, Kiwi)",
+      "value":"10 Arten"
+    },
+    {
+      "name":"Coliiformes (Mausvogel)",
+      "value":"6 Arten"
+    },
+    {
+      "name":"Gaviiformes (Sterntaucher, Prachttaucher)",
+      "value":"5 Arten"
+    }
+  ]
+}

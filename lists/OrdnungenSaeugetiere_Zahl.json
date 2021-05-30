@@ -1,0 +1,110 @@
+{
+  "short":"OrdnungenSaeugetiere_Zahl.json",
+  "name":"Ordnungen der Säugetiere nach Zahl der Arten",
+  "subjects":["Biologie","Zoologie"],
+  "description":"Sortieren Sie diese Ordnungen der Säugetiere nach der Zahl ihrer Arten. [Es fehlen die Ordnungen Sirenia (Seekuh), Microbiotheria (ChiloéBeutelratte) und Scandentia (Spitzhörnchen), da diese ebenso viele Arten beinhalten wie eine andere Ordnung.]",
+  "standard":"Soricomorpha (Spitzmaus, Maulwurf)",
+  "cut":false,
+  "things":[
+    {
+      "name":"Rodentia (Maus, Biber)",
+      "value":"ca. 2300 Arten"
+    },
+    {
+      "name":"Chiroptera (Fledermaus)",
+      "value":"ca. 1100 Arten"
+    },
+    {
+      "name":"Soricomorphaz(Spitzmaus, Maulwurf)",
+      "value":"ca. 430 Arten"
+    },
+    {
+      "name":"Primates (Gorilla, Lemur)",
+      "value":"ca. 375 Arten"
+    },
+    {
+      "name":"Carnivora (Tiger, Braunbär, Walross)",
+      "value":"ca. 290 Arten"
+    },
+    {
+      "name":"Artiodactyla (Giraffe, Hirsch, Schaf)",
+      "value":"ca. 240 Arten"
+    },
+    {
+      "name":"Diprotodontia (Känguru, Koala)",
+      "value":"ca. 140 Arten"
+    },
+    {
+      "name":"Lagomorpha (Feldhase)",
+      "value":"ca. 92 Arten"
+    },
+    {
+      "name":"Didelphimorphia (Opossum)",
+      "value":"ca. 90 Arten"
+    },
+    {
+      "name":"Cetacea (Blauwal, Delfin)",
+      "value":"ca. 80 Arten"
+    },
+    {
+      "name":"Dasyuromorphia (Tasmanischer Teufel)",
+      "value":"ca. 70 Arten"
+    },
+    {
+      "name":"Afrosoricida (Tenrek, Goldmull)",
+      "value":"ca. 50 Arten"
+    },
+    {
+      "name":"Erinaceomorpha (Igel)",
+      "value":"24 Arten"
+    },
+    {
+      "name":"Peramelemorphia (Nasenbeutler)",
+      "value":"21 Arten"
+    },
+    {
+      "name":"Cingulata (Gürteltier)",
+      "value":"20 Arten"
+    },
+    {
+      "name":"Perissodactyla (Pferd, Nashorn, Tapir)",
+      "value":"17 Arten"
+    },
+    {
+      "name":"Macroscelidea (Rüsselspringer)",
+      "value":"15 Arten"
+    },
+    {
+      "name":"Pilosa (Ameisenbär, Faultier)",
+      "value":"10 Arten"
+    },
+    {
+      "name":"Pholidota (Schuppentier)",
+      "value":"8 Arten"
+    },
+    {
+      "name":"Paucituberculata (Mausopossum)",
+      "value":"6 Arten"
+    },
+    {
+      "name":"Monotremata (Schnabeltier, Echidna)",
+      "value":"5 Arten"
+    },
+    {
+      "name":"Hyracoidea (Klippschliefer)",
+      "value":"4 Arten"
+    },
+    {
+      "name":"Proboscidea (Elefant)",
+      "value":"3 Arten"
+    },
+    {
+      "name":"Notoryctemorphia (Beutelmull)",
+      "value":"2 Arten"
+    },
+    {
+      "name":"Tubulidentata (Erdferkel)",
+      "value":"1 Arten"
+    }
+  ]
+}

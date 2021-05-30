@@ -1,0 +1,231 @@
+{
+  "short":"OrdnungenSaeugetiere_Zahl.json",
+  "name":"Ordnungen der Säugetiere nach Zahl der Arten",
+  "subjects":["Biologie","Zoologie"],
+  "description":"Sortieren Sie diese Ordnungen der Tiere nach der Zahl ihrer Arten.",
+  "note":"[Es fehlen die Ordnungen Sirenia (Seekuh), Microbiotheria (ChiloéBeutelratte), Galliformes (Huhn, Fasan), Sphenisciformes (Brillenpinguin, Kaiserpinguin), Pteroclidiformes (Strauß, Kiwi), Coliiformes (Mausvogel), Gaviiformes (Sterntaucher, Prachttaucher), Sphenodontia (Brückenechse) und Scandentia (Spitzhörnchen), da diese ebenso viele Arten beinhalten wie eine andere Ordnung. Und viele Fische]",
+  "standard":"Gruiformes (Kranich)",
+  "cut":false,
+  "things":[
+    {
+      "name":"Squamata (Leguan, Chamäleon, Anakonda)",
+      "value":"ca. 11000 Arten"
+    },
+    {
+      "name":"Anura (Pfeilgiftfrosch, Erdkröte)",
+      "value":"ca. 7100 Arten"
+    },
+    {
+      "name":"Passeriformes (Spatz, Meise, Krähe)",
+      "value":"ca. 5700 Arten"
+    },
+    {
+      "name":"Rodentia (Maus, Biber)",
+      "value":"ca. 2300 Arten"
+    },
+    {
+      "name":"Chiroptera (Fledermaus)",
+      "value":"ca. 1100 Arten"
+    },
+    {
+      "name":"Anguilliformes (Aal)",
+      "value":"ca. 790 Arten"
+    },
+    {
+      "name":"Caudata (Feuersalamander, Axolotl, Molch)",
+      "value":"ca. 740 Arten"
+    },
+    {
+      "name":"Batoidei (Stachelrochen, Sägefisch)",
+      "value":"ca. 500 Arten"
+    },
+    {
+      "name":"Soricomorphaz (Spitzmaus, Maulwurf)",
+      "value":"ca. 430 Arten"
+    },
+    {
+      "name":"Apodiformes (Kolibri, Mauersegler)",
+      "value":"ca. 425 Arten"
+    },
+    {
+      "name":"Selachii (Weißer Hai, Walhai)",
+      "value":"ca. 405 Arten"
+    },
+    {
+      "name":"Piciformes (Spechte)",
+      "value":"ca. 400 Arten"
+    },
+    {
+      "name":"Primates (Gorilla, Lemur)",
+      "value":"ca. 375 Arten"
+    },
+    {
+      "name":"Charadriiformes (Möwe, Regenpfeifer, Papageitaucher)",
+      "value":"ca. 370 Arten"
+    },
+    {
+      "name":"Psittaciformes (Ara, Wellensittich)",
+      "value":"ca. 368 Arten"
+    },
+    {
+      "name":"Testudines (Riesenschildkröte, Lederschildkröte)",
+      "value":"ca. 341 Arten"
+    },
+    {
+      "name":"Falconiformes (Adler, Falke, Geier)",
+      "value":"ca. 309 Arten"
+    },
+    {
+      "name":"Columbiformes (Taube)",
+      "value":"ca. 300 Arten"
+    },
+    {
+      "name":"Carnivora (Tiger, Braunbär, Walross)",
+      "value":"ca. 290 Arten"
+    },
+    {
+      "name":"Artiodactyla (Giraffe, Hirsch, Schaf)",
+      "value":"ca. 240 Arten"
+    },
+    {
+      "name":"Gymnophiona (Hautwühle)",
+      "value":"ca. 213 Arten"
+    },
+    {
+      "name":"Coraciiformes (Eisvogel, Bienenfresser)",
+      "value":"ca. 211 Arten"
+    },
+    {
+      "name":"Gruiformes (Kranich)",
+      "value":"ca. 210 Arten"
+    },
+    {
+      "name":"Strigiformes (Waldkauz, Uhu)",
+      "value":"ca. 180 Arten"
+    },
+    {
+      "name":"Anseriformes (Gänse, Schwäne, Enten)",
+      "value":"ca. 150 Arten"
+    },
+    {
+      "name":"Cuculiformes (Kuckuck)",
+      "value":"141 Arten"
+    },
+    {
+      "name":"Diprotodontia (Känguru, Koala)",
+      "value":"ca. 140 Arten"
+    },
+    {
+      "name":"Caprimulgiformes (Nachtschwalbe)",
+      "value":"121 Arten"
+    },
+    {
+      "name":"Ciconiiformes (Storch, Graureiher, Ibis)",
+      "value":"120 Arten"
+    },
+    {
+      "name":"Procellariiformes (Albatross, Sturmvogel)",
+      "value":"117 Arten"
+    },
+    {
+      "name":"Lagomorpha (Feldhase)",
+      "value":"ca. 92 Arten"
+    },
+    {
+      "name":"Didelphimorphia (Opossum)",
+      "value":"ca. 90 Arten"
+    },
+    {
+      "name":"Cetacea (Blauwal, Delfin)",
+      "value":"ca. 80 Arten"
+    },
+    {
+      "name":"Dasyuromorphia (Tasmanischer Teufel)",
+      "value":"ca. 70 Arten"
+    },
+    {
+      "name":"Pelecaniformes (Pelikan)",
+      "value":"66 Arten"
+    },
+    {
+      "name":"Afrosoricida (Tenrek, Goldmull)",
+      "value":"ca. 50 Arten"
+    },
+    {
+      "name":"Tinamiformes (Steißhuhn)",
+      "value":"47 Arten"
+    },
+    {
+      "name":"Trogoniformes (Trogon)",
+      "value":"37 Arten"
+    },
+    {
+      "name":"Erinaceomorpha (Igel)",
+      "value":"24 Arten"
+    },
+    {
+      "name":"Crocodilia (Nilkrokodil, Gavial)",
+      "value":"23 Arten"
+    },
+    {
+      "name":"Podicipediformes (Haubentaucher)",
+      "value":"22 Arten"
+    },
+    {
+      "name":"Peramelemorphia (Nasenbeutler)",
+      "value":"21 Arten"
+    },
+    {
+      "name":"Cingulata (Gürteltier)",
+      "value":"20 Arten"
+    },
+    {
+      "name":"Musophagiformes (Turako)",
+      "value":"18 Arten"
+    },
+    {
+      "name":"Perissodactyla (Pferd, Nashorn, Tapir)",
+      "value":"17 Arten"
+    },
+    {
+      "name":"Pteroclidiformes (Steppenhuhn)",
+      "value":"16 Arten"
+    },
+    {
+      "name":"Macroscelidea (Rüsselspringer)",
+      "value":"15 Arten"
+    },
+    {
+      "name":"Pilosa (Ameisenbär, Faultier)",
+      "value":"10 Arten"
+    },
+    {
+      "name":"Pholidota (Schuppentier)",
+      "value":"8 Arten"
+    },
+    {
+      "name":"Paucituberculata (Mausopossum)",
+      "value":"6 Arten"
+    },
+    {
+      "name":"Monotremata (Schnabeltier, Echidna)",
+      "value":"5 Arten"
+    },
+    {
+      "name":"Hyracoidea (Klippschliefer)",
+      "value":"4 Arten"
+    },
+    {
+      "name":"Proboscidea (Elefant)",
+      "value":"3 Arten"
+    },
+    {
+      "name":"Notoryctemorphia (Beutelmull)",
+      "value":"2 Arten"
+    },
+    {
+      "name":"Tubulidentata (Erdferkel)",
+      "value":"1 Arten"
+    }
+  ]
+}
