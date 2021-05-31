@@ -1,0 +1,98 @@
+{
+  "short":"MarvelHelden_Debut.json",
+  "name":"Marvel Charaktere nach Debut",
+  "subjects":["Comics"],
+  "description":"Sortieren Sie diese Marvel Charaktere nach ihrer ersten Veröffentlichung.",
+  "standard":"Hulk",
+  "cut":true,
+  "things":[
+    {
+      "name":"Captain America",
+      "value":"Mai 1941 - Captain America Comics #1"
+    },
+    {
+      "name":"Fantastic Four",
+      "value":"November 1961 - The Fantastic Four #1"
+    },
+    {
+      "name":"Ant-Man",
+      "value":"Januar 1962 - Tales to Astonish #27"
+    },
+    {
+      "name":"Hulk",
+      "value":"Mai 1962 - The Incredible Hulk #1"
+    },
+    {
+      "name":"Spider-Man",
+      "value":"August 1962 - Amazing Fantasy #15"
+    },
+    {
+      "name":"Iron Man",
+      "value":"März 1963 - Tales of Suspense #39"
+    },
+    {
+      "name":"Doctor Strange",
+      "value":"Juli 1963 - Strange Tales #110"
+    },
+    {
+      "name":"X-Men",
+      "value":"September 1963 - X-Men #1"
+    },
+    {
+      "name":"Black Widow",
+      "value":"April 1964 - Tales of Suspense #52"
+    },
+    {
+      "name":"Hawkeye",
+      "value":"Juli 1964 - Tales of Suspense #57"
+    },
+    {
+      "name":"Silver Surfer",
+      "value":"März 1966 - Fantastic Four #48"
+    },
+    {
+      "name":"Black Panther",
+      "value":"Juli 1966 - Fantastic Four #52"
+    },
+    {
+      "name":"Falcon",
+      "value":"September 1969 - Captain America #117"
+    },
+    {
+      "name":"Ghost Rider",
+      "value":"August 1972 - Marvel Spotlight #5"
+    },
+    {
+      "name":"Shang-Chi",
+      "value":"Dezember 1973 - Special Marvel Edition #15"
+    },
+    {
+      "name":"Wolverine",
+      "value":"Oktober 1974 - Incredible Hulk #180"
+    },
+    {
+      "name":"Star-Lord",
+      "value":"Januar 1976 - Marvel Preview #4"
+    },
+    {
+      "name":"She-Hulk",
+      "value":"Februar 1980 - Savage She-Hulk #1"
+    },
+    {
+      "name":"Rocket Raccoon",
+      "value":"Mai 1982 - Incredible Hulk #271"
+    },
+    {
+      "name":"Deadpool",
+      "value":"Februar 1991 - The New Mutants #98"
+    },
+    {
+      "name":"War Machine",
+      "value":"Juni 1992 - Iron Man #281"
+    },
+    {
+      "name":"Kamala Khan/Ms. Marvel)",
+      "value":"2014 - Captain Marvel #14"
+    }
+  ]
+}

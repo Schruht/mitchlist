@@ -1,0 +1,70 @@
+{
+  "short":"DCHelden_Debut.json",
+  "name":"DC Charaktere nach Debut",
+  "subjects":["Comics"],
+  "description":"Sortieren Sie diese DC Charaktere nach ihrer ersten Veröffentlichung.",
+  "standard":"Batman",
+  "cut":true,
+  "things":[
+    {
+      "name":"Superman",
+      "value":"Juni 1938 - Action Comics #1"
+    },
+    {
+      "name":"Batman",
+      "value":"Mai 1939 - Detective Comics #27"
+    },
+    {
+      "name":"Blue Beetle",
+      "value":"August 1939 - Mystery Men Comics #1"
+    },
+    {
+      "name":"Flash",
+      "value":"Januar 1940 - Flash Comics #1"
+    },
+    {
+      "name":"Robin",
+      "value":"April 1940 - Detective Comics #38"
+    },
+    {
+      "name":"Doctor Fate",
+      "value":"Mai 1940 - More Fun Comics #55"
+    },
+    {
+      "name":"Green Lantern",
+      "value":"Juli 1940 - All-American Comics #16"
+    },
+    {
+      "name":"Aquaman",
+      "value":"November 1941 - More Fun Comics #73"
+    },
+    {
+      "name":"Wonder Woman",
+      "value":"Dezember 1941 - All Star Comics #8"
+    },
+    {
+      "name":"Martian Manhunter",
+      "value":"November 1955 - Detective Comics #225"
+    },
+    {
+      "name":"Batwoman",
+      "value":"Juli 1956 - Detective Comics #233"
+    },
+    {
+      "name":"Doom Patrol",
+      "value":"Juni 1963 - My Greatest Adventure #80"
+    },
+    {
+      "name":"Wonder Girl",
+      "value":"Juli 1965 - The Brave and the Bold #60"
+    },
+    {
+      "name":"Swamp Thing",
+      "value":"Juli 1971 - House of Secrets #92"
+    },
+    {
+      "name":"Cyborg",
+      "value":"Oktober 1980 - DC Comics Presents #26"
+    }
+  ]
+}

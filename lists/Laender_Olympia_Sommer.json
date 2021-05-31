@@ -1,0 +1,162 @@
+{
+  "short":"Laender_Olympia_Sommer.json",
+  "name":"Länder nach olympischen Medaillen bei den Sommerspielen",
+  "subjects":["Sport","Länder"],
+  "description":"Sortieren Sie diese Länder nach der Zahl der gewonnen Medaillen bai olympischen Sommerspielen, beginnend mit dem gewinner der meisten Medaillen",
+  "standard":"Frankreich",
+  "cut":true,
+  "things":[
+    {
+      "name":"USA",
+      "value":"2520 Medaillen"
+    },
+    {
+      "name":"Deutschland (inklusive DDR)",
+      "value":"1349 Medaillen"
+    },
+    {
+      "name":"Sowjetunion",
+      "value":"1122 Medaillen"
+    },
+    {
+      "name":"Großbritannien",
+      "value":"851 Medaillen"
+    },
+    {
+      "name":"Frankreich",
+      "value":"716 Medaillen"
+    },
+    {
+      "name":"Italien",
+      "value":"577 Medaillen"
+    },
+    {
+      "name":"China",
+      "value":"546 Medaillen"
+    },
+    {
+      "name":"Australien",
+      "value":"509 Medaillen"
+    },
+    {
+      "name":"Schweden",
+      "value":"494 Medaillen"
+    },
+    {
+      "name":"Ungarn",
+      "value":"491 Medaillen"
+    },
+    {
+      "name":"Japan",
+      "value":"439 Medaillen"
+    },
+    {
+      "name":"Russland",
+      "value":"433 Medaillen"
+    },
+    {
+      "name":"DDR",
+      "value":"409 Medaillen"
+    },
+    {
+      "name":"Rumänien",
+      "value":"306 Medaillen"
+    },
+    {
+      "name":"Kanada",
+      "value":"301 Medaillen"
+    },
+    {
+      "name":"Niederlande",
+      "value":"285 Medaillen"
+    },
+    {
+      "name":"Südkorea",
+      "value":"267 Medaillen"
+    },
+    {
+      "name":"Kuba",
+      "value":"226 Medaillen"
+    },
+    {
+      "name":"Dänemark",
+      "value":"194 Medaillen"
+    },
+    {
+      "name":"Schweiz",
+      "value":"192 Medaillen"
+    },
+    {
+      "name":"Norwegen",
+      "value":"153 Medaillen"
+    },
+    {
+      "name":"Belgien",
+      "value":"148 Medaillen"
+    },
+    {
+      "name":"Brasilien",
+      "value":"129 Medaillen"
+    },
+    {
+      "name":"Griechenland",
+      "value":"116 Medaillen"
+    },
+    {
+      "name":"Kenia",
+      "value":"103 Medaillen"
+    },
+    {
+      "name":"Türkei",
+      "value":"91 Medaillen"
+    },
+    {
+      "name":"Österreich",
+      "value":"87 Medaillen"
+    },
+    {
+      "name":"Jamaika",
+      "value":"78 Medaillen"
+    },
+    {
+      "name":"Iran",
+      "value":"69 Medaillen"
+    },
+    {
+      "name":"Georgien",
+      "value":"33 Medaillen"
+    },
+    {
+      "name":"Indien",
+      "value":"28 Medaillen"
+    },
+    {
+      "name":"Marokko",
+      "value":"23 Medaillen"
+    },
+    {
+      "name":"Serbien",
+      "value":"17 Medaillen"
+    },
+    {
+      "name":"Malaysia",
+      "value":"11 Medaillen"
+    },
+    {
+      "name":"Moldawien",
+      "value":"5 Medaillen"
+    },
+    {
+      "name":"Island",
+      "value":"4 Medaillen"
+    },
+    {
+      "name":"Panama",
+      "value":"3 Medaillen"
+    },
+    {
+      "name":"Irak",
+      "value":"1 Medaillen"
+    }
+  ]
+}

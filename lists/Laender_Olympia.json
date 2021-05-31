@@ -1,0 +1,210 @@
+{
+  "short":"Laender_Olympia.json",
+  "name":"Länder nach olympischen Medaillen",
+  "subjects":["Sport","Länder"],
+  "description":"Sortieren Sie diese Länder nach der Zahl der gewonnen Medaillen bai olympischen Sommer- und Winterspielen, beginnend mit dem gewinner der meisten Medaillen",
+  "standard":"Österreich",
+  "cut":true,
+  "things":[
+    {
+      "name":"USA",
+      "value":"2825 Medaillen"
+    },
+    {
+      "name":"Deutschland (inklusive DDR)",
+      "value":"1757 Medaillen"
+    },
+    {
+      "name":"Sowjetunion",
+      "value":"1339 Medaillen"
+    },
+    {
+      "name":"Großbritannien",
+      "value":"883 Medaillen"
+    },
+    {
+      "name":"Frankreich",
+      "value":"840 Medaillen"
+    },
+    {
+      "name":"Italien",
+      "value":"701 Medaillen"
+    },
+    {
+      "name":"Schweden",
+      "value":"652 Medaillen"
+    },
+    {
+      "name":"China",
+      "value":"608 Medaillen"
+    },
+    {
+      "name":"Russland",
+      "value":"571 Medaillen"
+    },
+    {
+      "name":"Australien",
+      "value":"524 Medaillen"
+    },
+    {
+      "name":"DDR",
+      "value":"519 Medaillen"
+    },
+    {
+      "name":"Kanada",
+      "value":"500 Medaillen"
+    },
+    {
+      "name":"Ungarn",
+      "value":"498 Medaillen"
+    },
+    {
+      "name":"Japan",
+      "value":"497 Medaillen"
+    },
+    {
+      "name":"Niederlande",
+      "value":"415 Medaillen"
+    },
+    {
+      "name":"Schweiz",
+      "value":"345 Medaillen"
+    },
+    {
+      "name":"Südkorea",
+      "value":"337 Medaillen"
+    },
+    {
+      "name":"Österreich",
+      "value":"319 Medaillen"
+    },
+    {
+      "name":"Rumänien",
+      "value":"307 Medaillen"
+    },
+    {
+      "name":"Polen",
+      "value":"306 Medaillen"
+    },
+    {
+      "name":"Kuba",
+      "value":"226 Medaillen"
+    },
+    {
+      "name":"Dänemark",
+      "value":"195 Medaillen"
+    },
+    {
+      "name":"Spanien",
+      "value":"154 Medaillen"
+    },
+    {
+      "name":"Brasilien",
+      "value":"129 Medaillen"
+    },
+    {
+      "name":"Neuseeland",
+      "value":"120 Medaillen"
+    },
+    {
+      "name":"Griechenland",
+      "value":"116 Medaillen"
+    },
+    {
+      "name":"Kenia",
+      "value":"103 Medaillen"
+    },
+    {
+      "name":"Jugoslawien",
+      "value":"97 Medaillen"
+    },
+    {
+      "name":"Türkei",
+      "value":"91 Medaillen"
+    },
+    {
+      "name":"Südafrika",
+      "value":"86 Medaillen"
+    },
+    {
+      "name":"Jamaika",
+      "value":"78 Medaillen"
+    },
+    {
+      "name":"Argentinien",
+      "value":"74 Medaillen"
+    },
+    {
+      "name":"Kasachstan",
+      "value":"71 Medaillen"
+    },
+    {
+      "name":"Iran",
+      "value":"69 Medaillen"
+    },
+    {
+      "name":"Nordkorea",
+      "value":"59 Medaillen"
+    },
+    {
+      "name":"Äthiopien",
+      "value":"54 Medaillen"
+    },
+    {
+      "name":"Kroatien",
+      "value":"44 Medaillen"
+    },
+    {
+      "name":"Estland",
+      "value":"41 Medaillen"
+    },
+    {
+      "name":"Thailand",
+      "value":"33 Medaillen"
+    },
+    {
+      "name":"Irland",
+      "value":"31 Medaillen"
+    },
+    {
+      "name":"Indien",
+      "value":"28 Medaillen"
+    },
+    {
+      "name":"Mongolei",
+      "value":"26 Medaillen"
+    },
+    {
+      "name":"Nigeria",
+      "value":"25 Medaillen"
+    },
+    {
+      "name":"Portugal",
+      "value":"24 Medaillen"
+    },
+    {
+      "name":"Trinidad und Tobago",
+      "value":"19 Medaillen"
+    },
+    {
+      "name":"Chile",
+      "value":"13 Medaillen"
+    },
+    {
+      "name":"Pakistan",
+      "value":"10 Medaillen"
+    },
+    {
+      "name":"Israel",
+      "value":"9 Medaillen"
+    },
+    {
+      "name":"Singapur",
+      "value":"5 Medaillen"
+    },
+    {
+      "name":"Mauritius",
+      "value":"1 Medaille (Boxen)"
+    }
+  ]
+}

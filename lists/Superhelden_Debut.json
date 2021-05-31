@@ -1,0 +1,158 @@
+{
+  "short":"Superhelden_Debut.json",
+  "name":"Superhelden nach Debut",
+  "subjects":["Comics"],
+  "description":"Sortieren Sie diese Superhelden nach ihrer ersten Veröffentlichung.",
+  "standard":"Batman",
+  "cut":true,
+  "things":[
+    {
+      "name":"Superman",
+      "value":"Juni 1938 - Action Comics #1"
+    },
+    {
+      "name":"Batman",
+      "value":"Mai 1939 - Detective Comics #27"
+    },
+    {
+      "name":"Blue Beetle",
+      "value":"August 1939 - Mystery Men Comics #1"
+    },
+    {
+      "name":"Flash",
+      "value":"Januar 1940 - Flash Comics #1"
+    },
+    {
+      "name":"Robin",
+      "value":"April 1940 - Detective Comics #38"
+    },
+    {
+      "name":"Doctor Fate",
+      "value":"Mai 1940 - More Fun Comics #55"
+    },
+    {
+      "name":"Green Lantern",
+      "value":"Juli 1940 - All-American Comics #16"
+    },
+    {
+      "name":"Captain America",
+      "value":"Mai 1941 - Captain America Comics #1"
+    },
+    {
+      "name":"Aquaman",
+      "value":"November 1941 - More Fun Comics #73"
+    },
+    {
+      "name":"Wonder Woman",
+      "value":"Dezember 1941 - All Star Comics #8"
+    },
+    {
+      "name":"Batwoman",
+      "value":"Juli 1956 - Detective Comics #233"
+    },
+    {
+      "name":"Fantastic Four",
+      "value":"November 1961 - The Fantastic Four #1"
+    },
+    {
+      "name":"Ant-Man",
+      "value":"Januar 1962 - Tales to Astonish #27"
+    },
+    {
+      "name":"Hulk",
+      "value":"Mai 1962 - The Incredible Hulk #1"
+    },
+    {
+      "name":"Spider-Man",
+      "value":"August 1962 - Amazing Fantasy #15"
+    },
+    {
+      "name":"Iron Man",
+      "value":"März 1963 - Tales of Suspense #39"
+    },
+    {
+      "name":"Doom Patrol",
+      "value":"Juni 1963 - My Greatest Adventure #80"
+    },
+    {
+      "name":"Doctor Strange",
+      "value":"Juli 1963 - Strange Tales #110"
+    },
+    {
+      "name":"X-Men",
+      "value":"September 1963 - X-Men #1"
+    },
+    {
+      "name":"Black Widow",
+      "value":"April 1964 - Tales of Suspense #52"
+    },
+    {
+      "name":"Hawkeye",
+      "value":"Juli 1964 - Tales of Suspense #57"
+    },
+    {
+      "name":"Wonder Girl",
+      "value":"Juli 1965 - The Brave and the Bold #60"
+    },
+    {
+      "name":"Silver Surfer",
+      "value":"März 1966 - Fantastic Four #48"
+    },
+    {
+      "name":"Black Panther",
+      "value":"Juli 1966 - Fantastic Four #52"
+    },
+    {
+      "name":"Falcon",
+      "value":"September 1969 - Captain America #117"
+    },
+    {
+      "name":"Swamp Thing",
+      "value":"Juli 1971 - House of Secrets #92"
+    },
+    {
+      "name":"Ghost Rider",
+      "value":"August 1972 - Marvel Spotlight #5"
+    },
+    {
+      "name":"Shang-Chi",
+      "value":"Dezember 1973 - Special Marvel Edition #15"
+    },
+    {
+      "name":"Wolverine",
+      "value":"Oktober 1974 - Incredible Hulk #180"
+    },
+    {
+      "name":"Star-Lord",
+      "value":"Januar 1976 - Marvel Preview #4"
+    },
+    {
+      "name":"She-Hulk",
+      "value":"Februar 1980 - Savage She-Hulk #1"
+    },
+    {
+      "name":"Cyborg",
+      "value":"Oktober 1980 - DC Comics Presents #26"
+    },
+    {
+      "name":"Rocket Raccoon",
+      "value":"Mai 1982 - Incredible Hulk #271"
+    },
+    {
+      "name":"Teenage Mutant Ninja Turtles",
+      "value":"Mai 1984 - Teenage Mutant Ninja Turtles #1"
+    },
+    {
+      "name":"Deadpool",
+      "value":"Februar 1991 - The New Mutants #98"
+    },
+    {
+      "name":"Hellboy",
+      "value":"August 1993 - San Diego Comic Con Comics #2"
+    },
+    {
+      "name":"Kamala Khan/Ms. Marvel)",
+      "value":"2014 - Captain Marvel #14"
+    }
+  ]
+}

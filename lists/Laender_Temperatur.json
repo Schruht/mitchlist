@@ -1,0 +1,206 @@
+{
+  "short":"Laender_Temperatur.json",
+  "name":"Länder nach durchschnittlicher Temperatur",
+  "subjects":["Länder","Geographie"],
+  "description":"Sortieren Sie diese Länder nach ihrer durchschnittlichen Temperatur. Gemessen wurden die Werte zwischen 1961 bis 1990.",
+  "standard":"Deutschland",
+  "cut":true,
+  "things":[
+    {
+      "name":"Kanada",
+      "value":"−5,35 °C"
+    },
+    {
+      "name":"Russland",
+      "value":"−5,1 °C"
+    },
+    {
+      "name":"Mongolei",
+      "value":"-0,7 °C"
+    },
+    {
+      "name":"Norwegen",
+      "value":"1,5 °C"
+    },
+    {
+      "name":"Finland",
+      "value":"1,7 °C"
+    },
+    {
+      "name":"Island",
+      "value":"1,75 °C"
+    },
+    {
+      "name":"Schweden",
+      "value":"2,1 °C"
+    },
+    {
+      "name":"Estland",
+      "value":"5,1 °C"
+    },
+    {
+      "name":"Nordkorea",
+      "value":"5,7 °C"
+    },
+    {
+      "name":"Österreich",
+      "value":"6,35 °C"
+    },
+    {
+      "name":"Volksrepublik China",
+      "value":"6,95 °C"
+    },
+    {
+      "name":"Bhutan",
+      "value":"7,4 °C"
+    },
+    {
+      "name":"Nepal",
+      "value":"8,1 °C"
+    },
+    {
+      "name":"Ukraine",
+      "value":"8,3 °C"
+    },
+    {
+      "name":"Großbritannien",
+      "value":"8,45 °C"
+    },
+    {
+      "name":"Deutschland",
+      "value":"8,5 °C"
+    },
+    {
+      "name":"USA",
+      "value":"8,55 °C"
+    },
+    {
+      "name":"Niederlande",
+      "value":"9,25 °C"
+    },
+    {
+      "name":"Bulgarien",
+      "value":"10,55 °C"
+    },
+    {
+      "name":"Frankreich",
+      "value":"10,7 °C"
+    },
+    {
+      "name":"Türkei",
+      "value":"11,1 °C"
+    },
+    {
+      "name":"Afghanistan",
+      "value":"12,6 °C"
+    },
+    {
+      "name":"Spanien",
+      "value":"13,3 °C"
+    },
+    {
+      "name":"Italien",
+      "value":"13,45 °C"
+    },
+    {
+      "name":"Argentinien",
+      "value":"14,8 °C"
+    },
+    {
+      "name":"Griechenland",
+      "value":"15,4 °C"
+    },
+    {
+      "name":"Marokko",
+      "value":"17,1 °C"
+    },
+    {
+      "name":"Südafrika",
+      "value":"17,75 °C"
+    },
+    {
+      "name":"Jordanien",
+      "value":"18,3 °C"
+    },
+    {
+      "name":"Israel",
+      "value":"19,2 °C"
+    },
+    {
+      "name":"Tunesien",
+      "value":"19,6 °C"
+    },
+    {
+      "name":"Pakistan",
+      "value":"20,2 °C"
+    },
+    {
+      "name":"Mexiko",
+      "value":"21 °C"
+    },
+    {
+      "name":"Australien",
+      "value":"21,65 °C"
+    },
+    {
+      "name":"Ägypten",
+      "value":"22,1 °C"
+    },
+    {
+      "name":"Uganda",
+      "value":"22,8 °C"
+    },
+    {
+      "name":"Indien",
+      "value":"23,65 °C"
+    },
+    {
+      "name":"DR Kongo",
+      "value":"24 °C"
+    },
+    {
+      "name":"Vietnam",
+      "value":"24,45 °C"
+    },
+    {
+      "name":"Saudi Arabien",
+      "value":"24,65 °C"
+    },
+    {
+      "name":"Kuba",
+      "value":"25,2 °C"
+    },
+    {
+      "name":"Venezuela",
+      "value":"25,35 °C"
+    },
+    {
+      "name":"Barbados",
+      "value":"26 °C"
+    },
+    {
+      "name":"Indonesien",
+      "value":"26,45 °C"
+    },
+    {
+      "name":"Nigeria",
+      "value":"26,8 °C"
+    },
+    {
+      "name":"Seychellen",
+      "value":"27,15 °C"
+    },
+    {
+      "name":"Malediven",
+      "value":"27,65 °C"
+    },
+    {
+      "name":"Tuvalu",
+      "value":"28 °C"
+    },
+    {
+      "name":"Mali",
+      "value":"28,25 °C"
+    }
+  ]
+}

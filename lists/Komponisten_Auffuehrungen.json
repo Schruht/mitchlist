@@ -1,0 +1,94 @@
+{
+  "short":"Komponisten_Auffuehrungen.json",
+  "name":"Komponisten nach Zahl der Vorstellungen",
+  "subjects":["Musik"],
+  "description":"Sortieren Sie diese Komponisten nach der Zahl ihrer Vorstellungen (2017), beginnend mit den meisten Vorstellungen.",
+  "standard":"Pjotr Tschaikowsky",
+  "cut":true,
+  "things":[
+    {
+      "name":"Wolfgang Amadeus Mozart",
+      "value":"ca. 3320"
+    },
+    {
+      "name":"Ludwig van Beethoven",
+      "value":"ca. 3110"
+    },
+    {
+      "name":"Johann Sebastian Bach",
+      "value":"ca. 2830"
+    },
+    {
+      "name":"Johannes Brahms",
+      "value":"ca. 1750"
+    },
+    {
+      "name":"Franz Schubert",
+      "value":"ca. 1710"
+    },
+    {
+      "name":"Pjotr Tschaikowsky",
+      "value":"ca. 1420"
+    },
+    {
+      "name":"Joseph Haydn",
+      "value":"ca. 1120"
+    },
+    {
+      "name":"Robert Schuhmann",
+      "value":"ca. 1100"
+    },
+    {
+      "name":"Maurice Ravel",
+      "value":"966"
+    },
+    {
+      "name":"Georg Friedrich Händel",
+      "value":"965"
+    },
+    {
+      "name":"Felix Mendelssohn Bartholdy",
+      "value":"959"
+    },
+    {
+      "name":"Claude Debussy",
+      "value":"950"
+    },
+    {
+      "name":"Sergei Rachmaninow",
+      "value":"941"
+    },
+    {
+      "name":"Frederic Chopin",
+      "value":"881"
+    },
+    {
+      "name":"Antonin Dvorak",
+      "value":"863"
+    },
+    {
+      "name":"Dimitri Schostakowitsch",
+      "value":"863"
+    },
+    {
+      "name":"Johann Strauß (Sohn)",
+      "value":"814"
+    },
+    {
+      "name":"Antonio Vivaldi",
+      "value":"757"
+    },
+    {
+      "name":"Gustav Mahler",
+      "value":"748"
+    },
+    {
+      "name":"Richard Strauß",
+      "value":"732"
+    },
+    {
+      "name":"Igor Strawinsky",
+      "value":"701"
+    }
+  ]
+}

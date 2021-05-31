@@ -1,0 +1,138 @@
+{
+  "short":"Physiker_Todesdatum.json",
+  "name":"Physiker nach Todesdatum",
+  "subjects":["Physik","Chronologie"],
+  "description":"Sortieren Sie diese Physiker nach dem Datum ihres Todes, beginnend mit dem zuletzt verstorbenen.",
+  "standard":"Marie Curie",
+  "cut":true,
+  "things":[
+    {
+      "name":"Stephen Hawking",
+      "value":"14. März 2018"
+    },
+    {
+      "name":"Richard Feynman",
+      "value":"15. Februar 1988"
+    },
+    {
+      "name":"Paul Dirac",
+      "value":"20. Oktober 1984"
+    },
+    {
+      "name":"Werner Heisenberg",
+      "value":"1. Februar 1976"
+    },
+    {
+      "name":"Robert Oppenheimer",
+      "value":"18. Februar 1967"
+    },
+    {
+      "name":"Niels Bohr",
+      "value":"18. November 1962"
+    },
+    {
+      "name":"Erwin Schrödiger",
+      "value":"4. Januar 1961"
+    },
+    {
+      "name":"Albert Einstein",
+      "value":"18. April 1955"
+    },
+    {
+      "name":"Enrico Fermi",
+      "value":"20. November 1954"
+    },
+    {
+      "name":"Max Planck",
+      "value":"4. Oktober 1947"
+    },
+    {
+      "name":"Nikola Tesla",
+      "value":"7. Januar 1943"
+    },
+    {
+      "name":"Ernest Rutherford",
+      "value":"19. Oktober 1937"
+    },
+    {
+      "name":"Marie Curie",
+      "value":"4. Juli 1934"
+    },
+    {
+      "name":"Wilhelm Conrad Röntgen",
+      "value":"10. Februar 1923"
+    },
+    {
+      "name":"William Thomson, 1. Baron Kelvin",
+      "value":"17. Dezmeber 1907"
+    },
+    {
+      "name":"Pierre Curie",
+      "value":"19. April 1906"
+    },
+    {
+      "name":"Heinrich Hertz",
+      "value":"1. Januar 1894"
+    },
+    {
+      "name":"James Prescott Joule",
+      "value":"11. Oktober 1889"
+    },
+    {
+      "name":"James Clerk Maxwell",
+      "value":"5. November 1879"
+    },
+    {
+      "name":"Michael Faraday",
+      "value":"25. August 1867"
+    },
+    {
+      "name":"André-Marie Ampère",
+      "value":"10. Juni 1836"
+    },
+    {
+      "name":"Alessandro Volta",
+      "value":"5. März 1827"
+    },
+    {
+      "name":"Leonhard Euler",
+      "value":"18. September 1783"
+    },
+    {
+      "name":"Edmond Halley",
+      "value":"25. Januar 1742"
+    },
+    {
+      "name":"Isaac Newton",
+      "value":"31. März 1727"
+    },
+    {
+      "name":"Blaise Pascal",
+      "value":"19. August 1662"
+    },
+    {
+      "name":"Galileo Galilei",
+      "value":"8. Januar 1642"
+    },
+    {
+      "name":"Johannes Kepler",
+      "value":"15. November 1630"
+    },
+    {
+      "name":"Tycho Brahe",
+      "value":"24. Oktober 1601"
+    },
+    {
+      "name":"Nikolaus Kopernikus",
+      "value":"24. Mai 1543"
+    },
+    {
+      "name":"Archimedes",
+      "value":"212 v.d.Z."
+    },
+    {
+      "name":"Aristoteles",
+      "value":"322 v.d.Z."
+    }
+  ]
+}

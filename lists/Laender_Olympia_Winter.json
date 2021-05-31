@@ -1,0 +1,126 @@
+{
+  "short":"Laender_Olympia_Winter.json",
+  "name":"Länder nach olympischen Medaillen bei den Winterspielen",
+  "subjects":["Sport","Länder"],
+  "description":"Sortieren Sie diese Länder nach der Zahl der gewonnen Medaillen bai olympischen Winterspielen, beginnend mit dem gewinner der meisten Medaillen",
+  "standard":"Deutschland (inklusive DDR)",
+  "cut":true,
+  "things":[
+    {
+      "name":"Deutschland (inklusive DDR)",
+      "value":"408 Medaillen"
+    },
+    {
+      "name":"Norwegen",
+      "value":"368 Medaillen"
+    },
+    {
+      "name":"USA",
+      "value":"305 Medaillen"
+    },
+    {
+      "name":"Österreich",
+      "value":"232 Medaillen"
+    },
+    {
+      "name":"Sowjetunion",
+      "value":"217 Medaillen"
+    },
+    {
+      "name":"Kanada",
+      "value":"199 Medaillen"
+    },
+    {
+      "name":"Finland",
+      "value":"167 Medaillen"
+    },
+    {
+      "name":"Schweden",
+      "value":"158 Medaillen"
+    },
+    {
+      "name":"Schweiz",
+      "value":"152 Medaillen"
+    },
+    {
+      "name":"Russland",
+      "value":"138 Medaillen"
+    },
+    {
+      "name":"Niederlande",
+      "value":"130 Medaillen"
+    },
+    {
+      "name":"Italien",
+      "value":"124 Medaillen"
+    },
+    {
+      "name":"DDR",
+      "value":"110 Medaillen"
+    },
+    {
+      "name":"Südkorea",
+      "value":"70 Medaillen"
+    },
+    {
+      "name":"Volksrepublik China",
+      "value":"62 Medaillen"
+    },
+    {
+      "name":"Japan",
+      "value":"58 Medaillen"
+    },
+    {
+      "name":"Großbritannien",
+      "value":"32 Medaillen"
+    },
+    {
+      "name":"Polen",
+      "value":"22 Medaillen"
+    },
+    {
+      "name":"Weißrussland",
+      "value":"18 Medaillen"
+    },
+    {
+      "name":"Australien",
+      "value":"15 Medaillen"
+    },
+    {
+      "name":"Kroatien",
+      "value":"11 Medaillen"
+    },
+    {
+      "name":"Liechtenstein",
+      "value":"10 Medaillen"
+    },
+    {
+      "name":"Lettland",
+      "value":"9 Medaillen"
+    },
+    {
+      "name":"Kasachstan",
+      "value":"8 Medaillen"
+    },
+    {
+      "name":"Belgien",
+      "value":"6 Medaillen"
+    },
+    {
+      "name":"Spanien",
+      "value":"4 Medaillen"
+    },
+    {
+      "name":"Luxemburg",
+      "value":"2 Medaillen"
+    },
+    {
+      "name":"Dänemark",
+      "value":"1 Medaille"
+    },
+    {
+      "name":"Island",
+      "value":"Keine Medaillen"
+    }
+  ]
+}
