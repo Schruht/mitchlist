@@ -1,7 +1,7 @@
 {
   "short":"Tiere_Gewicht.json",
   "name":"Tiere nach Gewicht",
-  "subjects":["Zoologie"],
+  "subjects":["Zoologie","Natur"],
   "description":"Sortieren Sie diese Tiere nach ihrem durchschnittlichen Gewicht",
   "standard":"Mensch (Homo sapiens)",
   "cut":true,

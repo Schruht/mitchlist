@@ -1,0 +1,94 @@
+{
+  "short":"NationalparksUS_Groesse.json",
+  "name":"Nationalparks nach Größe",
+  "subjects":["Geographie","Natur"],
+  "description":"Sortieren Sie diese US-amerikanischen Nationalparks nach ihrer Fläche, beginnend mit dem größten Park.",
+  "standard":"Yosemite",
+  "cut":true,
+  "things":[
+    {
+      "name":"Wrangell–St. Elias",
+      "value":"53.320 km² [AK]"
+    },
+    {
+      "name":"Gates of the Arctic",
+      "value":"30.448,13 km² [AK]"
+    },
+    {
+      "name":"Denali",
+      "value":"19.185,79 km² [AK]"
+    },
+    {
+      "name":"Death Valley",
+      "value":"13.649,97 km² [CA]"
+    },
+    {
+      "name":"Yellowstone",
+      "value":"8.983,17 km² [WY, MT, ID]"
+    },
+    {
+      "name":"Everglades",
+      "value":"5.667,78 km² [FL]"
+    },
+    {
+      "name":"Grand Canyon",
+      "value":"4.862,89 km² [AZ]"
+    },
+    {
+      "name":"Glacier",
+      "value":"4.099,98 km² [MT]"
+    },
+    {
+      "name":"Olympic",
+      "value":"3.733,83 km² [WA]"
+    },
+    {
+      "name":"Joshua Tree",
+      "value":"3.199,59 km² [CA]"
+    },
+    {
+      "name":"Yosemite",
+      "value":"3.082,68 km² [CA]"
+    },
+    {
+      "name":"Great Smoky Mountains",
+      "value":"2.114,19 km² [TN, NC]"
+    },
+    {
+      "name":"Sequoia",
+      "value":"1.635,18 km² [CA]"
+    },
+    {
+      "name":"Hawai'i Volcanoes",
+      "value":"1.317,68 km² [HI]"
+    },
+    {
+      "name":"Rocky Mountain",
+      "value":"1.075,68 km² [CO]"
+    },
+    {
+      "name":"Capitol Reef",
+      "value":"978,95 km² [UT]"
+    },
+    {
+      "name":"Crater Lake",
+      "value":"741,48 km² [OR]"
+    },
+    {
+      "name":"Zion",
+      "value":"595,87 km² [UT]"
+    },
+    {
+      "name":"Arches",
+      "value":"310,31 km² [UT]"
+    },
+    {
+      "name":"Acadia",
+      "value":"198,60 km² [ME]"
+    },
+    {
+      "name":"Hot Springs",
+      "value":"22,47 km² [AR]"
+    }
+  ]
+}

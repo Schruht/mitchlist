@@ -1,7 +1,7 @@
 {
   "short":"Saurier_Groesse.json",
   "name":"Saurier nach Größe",
-  "subjects":["Paläontologie"],
+  "subjects":["Paläontologie","Natur"],
   "description":"Sortieren Sie diese Saurier nach ihrer Größe, beginnend mit dem größten Saurier.",
   "standard":"Tyrannosaurus",
   "cut":true,

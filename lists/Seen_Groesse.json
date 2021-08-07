@@ -1,7 +1,7 @@
 {
   "short":"Seen_Groesse",
   "name":"Seen nach Größe",
-  "subjects":["Geographie"],
+  "subjects":["Geographie","Natur"],
   "description":"Sortieren Sie diese Seen nach ihrer Größe, beginnend mit dem größten See",
   "standard":"Bodensee",
   "cut":true,

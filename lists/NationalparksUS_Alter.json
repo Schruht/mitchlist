@@ -1,0 +1,98 @@
+{
+  "short":"NationalparksUS_Alter.json",
+  "name":"Nationalparks nach Alter",
+  "subjects":["Geographie","Natur","Chronologie"],
+  "description":"Sortieren Sie diese US-amerikanischen Nationalparks nach dem Datum ihrer Gründung, beginnend mit dem ältesten.",
+  "standard":"Grand Canyon",
+  "cut":true,
+  "things":[
+    {
+      "name":"Yellowstone",
+      "value":"1. März 1872"
+    },
+    {
+      "name":"Sequoia",
+      "value":"25. September 1890"
+    },
+    {
+      "name":"Yosemite",
+      "value":"1. Oktober 1890"
+    },
+    {
+      "name":"Mount Rainer",
+      "value":"2. März 1899"
+    },
+    {
+      "name":"Crater Lake",
+      "value":"22. Mai 1902"
+    },
+    {
+      "name":"Mesa Verda",
+      "value":"29. Juni 1906"
+    },
+    {
+      "name":"Glacier",
+      "value":"11. Mai 1910"
+    },
+    {
+      "name":"Rocky Mountain",
+      "value":"26. Januar 1915"
+    },
+    {
+      "name":"Hawaii-Nationalpark (seit 13. September 1960 aufgeteilt in Hawai'i Volcanoes & Haleakalā)",
+      "value":"1. August 1916"
+    },
+    {
+      "name":"Grand Canyon",
+      "value":"26. Februar 1919"
+    },
+    {
+      "name":"Zion",
+      "value":"19. November 1919"
+    },
+    {
+      "name":"Everglades",
+      "value":"30. Mai 1934"
+    },
+    {
+      "name":"Olympic",
+      "value":"29. Juni 1938"
+    },
+    {
+      "name":"Big Bend",
+      "value":"12. Juni 1944"
+    },
+    {
+      "name":"Redwood",
+      "value":"2. Oktober 1968"
+    },
+    {
+      "name":"Arches",
+      "value":"12. November 1971"
+    },
+    {
+      "name":"Theodore Roosevelt National Park",
+      "value":"10. November 1978"
+    },
+    {
+      "name":"7 Nationalparks Alaskas (Gates of the Arctic, Glacier Bay, Katmai, Kenai Fjords, Kobuk Valley, Lake Clark, Wrangell–St. Elias)",
+      "value":"2. Dezember 1980"
+    },
+    {
+      "name":"Death Valley & Joshua Tree",
+      "value":"31. Oktober 1994"
+    },
+    {
+      "name":"Cuyahoga Valley",
+      "value":"11. Oktober 2000"
+    },
+    {
+      "name":"Pinnacles",
+      "value":"10. Januar 2013"
+    },
+    {
+      "name":"Indiana Dunes",
+      "value":"15. Februar 2019"
+    }
+  ]
+}

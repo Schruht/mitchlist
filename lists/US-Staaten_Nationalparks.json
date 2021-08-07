@@ -1,0 +1,46 @@
+{
+  "short":"US-Staaten_Nationalparks.json",
+  "name":"US-Bundesstaaten nach Zahl der Nationalparks",
+  "subjects":["Geographie","Tourismus", "Natur"],
+  "description":"Sortieren Sie diese Bundesstaaten und Territorien der Vereinigten Staaten nach der Zahl der darin gelegenen Nationalparks, beginnend mit den meisten Parks.",
+  "standard":"Durchschnitt",
+  "cut":true,
+  "things":[
+    {
+      "name":"Kalifornien",
+      "value":"9 (Channel Islands, Death Valley, Joshua Tree, Kings Canyon, Lassen Volcanic, Pinnacles, Redwood, Sequoia, Yosemite)"
+    },
+    {
+      "name":"Alaska",
+      "value":"8 (Denali, Gates of the Arctic, Glacier Bay, Katmai, Kenai Fjords, Kobuk Valley, Lake Clark, Wrangell–St. Elias)"
+    },
+    {
+      "name":"Utah",
+      "value":"5 (Arches, Bryce Canyon, Canyonlands, Capitol Reef, Zion)"
+    },
+    {
+      "name":"Colorado",
+      "value":"4 (Black Canyon of the Gunnison, Great Sand Dunes, Mesa Verde, Rocky Mountain)"
+    },
+    {
+      "name":"Florida",
+      "value":"3 (Biscayne, Dry Tortugas, Everglades)"
+    },
+    {
+      "name":"Hawaii",
+      "value":"2 (Haleakalā, Hawai'i Volcanoes)"
+    },
+    {
+      "name":"Durchschnitt",
+      "value":"1,22 (61 Parks auf 50 Staaten)"
+    },
+    {
+      "name":"Oregon",
+      "value":"1 (Crater Lake)"
+    },
+    {
+      "name":"New York",
+      "value":"0"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "short":"Waehrungen_Wert.json",
+  "name":"Währungen nach Wert",
+  "subjects":["Wirtschaft"],
+  "description":"Sortieren Sie diese Währungen nach ihrem Wert. Angegeben ist die Zahl der Währungen die man für einen Euro bekommt. (Stand: 2020)",
+  "standard":"Euro (EUR)",
+  "cut":true,
+  "things":[
+    {
+      "name":"Kuwait-Dinar (KWD)",
+      "value":"0,35"
+    },
+    {
+      "name":"Britisches Pfund (GBP)",
+      "value":"0,88"
+    },
+    {
+      "name":"Euro (EUR)",
+      "value":"1"
+    },
+    {
+      "name":"Schweizer Franken (CHF)",
+      "value":"1,07"
+    },
+    {
+      "name":"US-Dollar (USD)",
+      "value":"1,14"
+    },
+    {
+      "name":"Kanadischer Dollar (CAD)",
+      "value":"1,53"
+    },
+    {
+      "name":"Singapur-Dollar (SGD)",
+      "value":"1,57"
+    },
+    {
+      "name":"Australischer Dollar (AUD)",
+      "value":"1,66"
+    },
+    {
+      "name":"Neuseeland-Dollar (NZD)",
+      "value":"1,76"
+    },
+    {
+      "name":"Bulgarischer Lew (BGN)",
+      "value":"1,96"
+    },
+    {
+      "name":"Israelischer Schekel (ILS)",
+      "value":"3,92"
+    },
+    {
+      "name":"Polnischer Zloty (PLN)",
+      "value":"4,45"
+    },
+    {
+      "name":"Dänische Krone (DKK)",
+      "value":"7,46"
+    },
+    {
+      "name":"Chinesischer Yuan (CNY)",
+      "value":"7,87"
+    },
+    {
+      "name":"Türkische Lira (TRY)",
+      "value":"8,05"
+    },
+    {
+      "name":"Schwedische Krone (SEK)",
+      "value":"10,49"
+    },
+    {
+      "name":"Südafrikanischer Rand (ZAR)",
+      "value":"18,79"
+    },
+    {
+      "name":"Mexikanischer Peso (MXN)",
+      "value":"24,51"
+    },
+    {
+      "name":"Thailändischer Baht (THB)",
+      "value":"35,70"
+    },
+    {
+      "name":"Russischer Rubel (RUB)",
+      "value":"82,73"
+    },
+    {
+      "name":"Indische Rupie (INR)",
+      "value":"84,58"
+    },
+    {
+      "name":"Ungarischer Forint (HUF)",
+      "value":"351,34"
+    },
+    {
+      "name":"Südkoreanischer Won (KRW)",
+      "value":"1.345,43"
+    },
+    {
+      "name":"Vietnamesischer Đồng (VND)",
+      "value":"26.534,86"
+    },
+    {
+      "name":"Iranischer Rial (IRR)",
+      "value":"48.026,80"
+    },
+    {
+      "name":"Venezolanischer Bolívar (VEF)",
+      "value":"3,73 Billionen"
+    }
+  ]
+}

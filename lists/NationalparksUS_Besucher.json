@@ -1,0 +1,114 @@
+{
+  "short":"NationalparksUS_Besucher.json",
+  "name":"Nationalparks nach jährlichen Besuchern",
+  "subjects":["Geographie","Natur","Tourismus"],
+  "description":"Sortieren Sie diese US-amerikanischen Nationalparks nach ihren jährlichen Besuchern, beginnend mit den meisten Besuchern (Stand: 2018)",
+  "standard":"Hot Springs",
+  "cut":true,
+  "things":[
+    {
+      "name":"Great Smoky Mountains",
+      "value":"11.421.200 [TN, NC]"
+    },
+    {
+      "name":"Grand Canyon",
+      "value":"6.380.495 [AZ]"
+    },
+    {
+      "name":"Rocky Mountains",
+      "value":"4.590.493 [CO]"
+    },
+    {
+      "name":"Zion",
+      "value":"4.320.033 [UT]"
+    },
+    {
+      "name":"Yellowstone",
+      "value":"4.115.000 [WY, MT, ID]"
+    },
+    {
+      "name":"Yosemite",
+      "value":"4.009.436 [CA]"
+    },
+    {
+      "name":"Acadia",
+      "value":"3.537.575 [MA]"
+    },
+    {
+      "name":"Wyoming",
+      "value":"3.491.151 [WY]"
+    },
+    {
+      "name":"Olympic",
+      "value":"3.104.455 [WA]"
+    },
+    {
+      "name":"Glacier",
+      "value":"2.965.309 [MT]"
+    },
+    {
+      "name":"Joshua Tree",
+      "value":"2.942.382 [CA]"
+    },
+    {
+      "name":"Bryce Canyon",
+      "value":"2.679.478 [UT]"
+    },
+    {
+      "name":"Cuyahoga Valley",
+      "value":"2.096.053 [OH]"
+    },
+    {
+      "name":"Death Valley",
+      "value":"1.678.660 [CA]"
+    },
+    {
+      "name":"Arches",
+      "value":"1.663.557 [UT]"
+    },
+    {
+      "name":"Mount Rainier",
+      "value":"1.518.491 [WA]"
+    },
+    {
+      "name":"Hot Springs",
+      "value":"1.506.887 [AR]"
+    },
+    {
+      "name":"Hawai'i Volcanoes",
+      "value":"1.116.891 [HI]"
+    },
+    {
+      "name":"Hawai'i Volcanoes",
+      "value":"1.116.891 [HI]"
+    },
+    {
+      "name":"Crater Lake",
+      "value":"720.659 [OR]"
+    },
+    {
+      "name":"White Sands",
+      "value":"603.008 [NM]"
+    },
+    {
+      "name":"Everglades",
+      "value":"597.124 [FL]"
+    },
+    {
+      "name":"Kenai Fjords",
+      "value":"321.596 [AL]"
+    },
+    {
+      "name":"Pinnacles",
+      "value":"222.152 [CA]"
+    },
+    {
+      "name":"Wrangell–St. Elias",
+      "value":"79.450 [AL]"
+    },
+    {
+      "name":"Gates of the Arctic",
+      "value":"9.591 [AL]"
+    }
+  ]
+}
