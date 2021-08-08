@@ -1,0 +1,58 @@
+{
+  "short":"Tierkreiszeichen.json",
+  "name":"Tierkreiszeichen in kalendarischer Reihenfolge",
+  "subjects":["Astrologie"],
+  "description":"Sortieren Sie diese Tierkreizeichen nach ihrer Kalendarischen Reihenfolge, beginnend mit dem Widder. ",
+  "standard":"Widder (Aries)",
+  "cut":true,
+  "things":[
+    {
+      "name":"Widder (Aries)",
+      "value":"21. März – 20. April"
+    },
+    {
+      "name":"Stier (Taurus)",
+      "value":"21. April – 21. Mai"
+    },
+    {
+      "name":"Zwillinge (Gemini)",
+      "value":"22. Mai – 21. Juni"
+    },
+    {
+      "name":"Krebs (Cancer)",
+      "value":"22. Juni – 22. Juli"
+    },
+    {
+      "name":"Löwe (Leo)",
+      "value":"23. Juli – 22. August"
+    },
+    {
+      "name":"Jungfrau (Virgo)",
+      "value":"23. August – 22. September"
+    },
+    {
+      "name":"Waage (Libra)",
+      "value":"23. September – 22. Oktober"
+    },
+    {
+      "name":"Skorpion (Scorpio)",
+      "value":"23. Oktober – 22. November"
+    },
+    {
+      "name":"Schütze (Sagittarius)",
+      "value":"23. November – 20. Dezember"
+    },
+    {
+      "name":"Steinbock (Capricornus)",
+      "value":"21. Dezember – 19. Januar"
+    },
+    {
+      "name":"Wassermann (Aquarius)",
+      "value":"20. Januar – 18. Februar"
+    },
+    {
+      "name":"Fische (Pisces)",
+      "value":"19. Februar – 20. März"
+    }
+  ]
+}

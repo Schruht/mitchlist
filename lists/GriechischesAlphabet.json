@@ -1,0 +1,106 @@
+{
+  "short":"GriechischesAlphabet.json",
+  "name":"Das Griechische Alphabet",
+  "subjects":["Linguistik"],
+  "description":"Sortieren Sie die Buchstaben des griechischen Alphabets.",
+  "standard":"Α, α",
+  "cut":false,
+  "things":[
+    {
+      "name":"Α, α",
+      "value":"Alpha"
+    },
+    {
+      "name":"Β, β",
+      "value":"Beta"
+    },
+    {
+      "name":"Γ, γ",
+      "value":"Gamma"
+    },
+    {
+      "name":"Δ, δ",
+      "value":"Delta"
+    },
+    {
+      "name":"Ε, ε",
+      "value":"Epsilon"
+    },
+    {
+      "name":"Ζ, ζ",
+      "value":"Zeta"
+    },
+    {
+      "name":"Η, η",
+      "value":"Eta"
+    },
+    {
+      "name":"Θ, θ",
+      "value":"Theta"
+    },
+    {
+      "name":"Ι, ι",
+      "value":"Iota"
+    },
+    {
+      "name":"Κ, κ",
+      "value":"Kappa"
+    },
+    {
+      "name":"Λ, λ",
+      "value":"Lambda"
+    },
+    {
+      "name":"Μ, μ",
+      "value":"My"
+    },
+    {
+      "name":"Ν, ν",
+      "value":"Ny"
+    },
+    {
+      "name":"Ξ, ξ",
+      "value":"Xi"
+    },
+    {
+      "name":"Ο, ο",
+      "value":"Omikron"
+    },
+    {
+      "name":"Π, π",
+      "value":"Pi"
+    },
+    {
+      "name":"Ρ, ρ",
+      "value":"Rho"
+    },
+    {
+      "name":"Σ, σ",
+      "value":"Sigma"
+    },
+    {
+      "name":"Τ, τ",
+      "value":"Tau"
+    },
+    {
+      "name":"Υ, υ",
+      "value":"Ypsilon"
+    },
+    {
+      "name":"Φ, φ",
+      "value":"Phi"
+    },
+    {
+      "name":"Χ, χ",
+      "value":"Chi"
+    },
+    {
+      "name":"Ψ, ψ",
+      "value":"Psi"
+    },
+    {
+      "name":"Ω, ω",
+      "value":"Omega"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "short":"Sehenswuerdigkeiten_Alter.json",
+  "name":"Sehenswürdigkeiten nach Alter",
+  "subjects":["Tourismus","Chronologie"],
+  "description":"Sortieren Sie diese Sehenswürdigkeiten nach ihrem Alter, beginennt mit der ältesten Sehenswürdigkeit.",
+  "standard":"Empire State Building",
+  "cut":true,
+  "things":[
+    {
+      "name":"Pyramiden von Gizeh",
+      "value":"2620 bis 2500 v.d.Z."
+    },
+    {
+      "name":"Parthenon",
+      "value":"447 v.d.Z."
+    },
+    {
+      "name":"Kolosseum",
+      "value":"70"
+    },
+    {
+      "name":"Hagia Sophia",
+      "value":"537"
+    },
+    {
+      "name":"Al Aqsa Moschee",
+      "value":"1035"
+    },
+    {
+      "name":"Alhambra",
+      "value":"1333"
+    },
+    {
+      "name":"Verbotene Stadt",
+      "value":"1420"
+    },
+    {
+      "name":"Petersdom",
+      "value":"1615"
+    },
+    {
+      "name":"Himeji Castle",
+      "value":"1622"
+    },
+    {
+      "name":"Taj Mahal",
+      "value":"1648"
+    },
+    {
+      "name":"Brandburger Tor",
+      "value":"1791"
+    },
+    {
+      "name":"Das Weiße Haus",
+      "value":"1800"
+    },
+    {
+      "name":"Big Ben",
+      "value":"1859"
+    },
+    {
+      "name":"Schloss Neuschwanstein",
+      "value":"1884"
+    },
+    {
+      "name":"Freiheitsstatue",
+      "value":"1886"
+    },
+    {
+      "name":"Eiffelturm",
+      "value":"1889"
+    },
+    {
+      "name":"Panamakanal",
+      "value":"1914"
+    },
+    {
+      "name":"Empire State Building",
+      "value":"1931"
+    },
+    {
+      "name":"Golden Gate Bridge",
+      "value":"1937"
+    },
+    {
+      "name":"Mount Rushmore",
+      "value":"1941"
+    },
+    {
+      "name":"Atomium",
+      "value":"1958"
+    },
+    {
+      "name":"Opernhaus von Sydney",
+      "value":"1973"
+    },
+    {
+      "name":"Petronas-Türme",
+      "value":"1996"
+    },
+    {
+      "name":"Burj Khalifa",
+      "value":"2010"
+    }
+  ]
+}
