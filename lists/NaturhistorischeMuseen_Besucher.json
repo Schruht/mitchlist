@@ -1,0 +1,70 @@
+{
+  "short":"NaturhistorischeMuseen_Besucher.json",
+  "name":"Naturhistorische Museeen nach jährlichen Besuchern",
+  "subjects":["Paläontologie","Tourismus"],
+  "description":"Sortieren Sie diese Naturhistorischen Museen nach der Zahl ihrer Besucher, beginnend mit dem meistbesuchten Museum. Stand: 2019",
+  "standard":"The Field Museum, Chicago",
+  "cut":true,
+  "things":[
+    {
+      "name":"Natural History Museum, London",
+      "value":"5,424,000"
+    },
+    {
+      "name":"American Museum of Natural History, New York",
+      "value":"ca. 5,000,000"
+    },
+    {
+      "name":"National Museum of Natural History, Washington D.C.",
+      "value":"4,200,000"
+    },
+    {
+      "name":"Tianjin Natural History Museum",
+      "value":"3,150,000"
+    },
+    {
+      "name":"Shanghai Natural History Museum",
+      "value":"2,549,000"
+    },
+    {
+      "name":"National Museum of Nature and Science, Tokyo",
+      "value":"2,460,000"
+    },
+    {
+      "name":"National Museum of Scotland, Edinburgh",
+      "value":"2,210,024"
+    },
+    {
+      "name":"Muséum national d’histoire naturelle, Paris",
+      "value":"1,900,000"
+    },
+    {
+      "name":"The Field Museum, Chicago",
+      "value":"1,650,000"
+    },
+    {
+      "name":"Naturhistorisches Museum Wien",
+      "value":"757,173"
+    },
+    {
+      "name":"Museum für Naturkunde, Berlin",
+      "value":"700,000"
+    },
+    {
+      "name":"Royal Tyrrell Museum, Alberta",
+      "value":"470,000"
+    },
+    {
+      "name":"Museum für Naturwissenschaften, Brüssel",
+      "value":"ca. 300,000"
+    },
+    {
+      "name":"National Dinosaur Museum, Canberra",
+      "value":"ca. 100,000"
+    },
+    {
+      "name":"Kroatisches Naturhistorisches Museum, Zagreb",
+      "value":"12,370"
+    }
+  ]
+}

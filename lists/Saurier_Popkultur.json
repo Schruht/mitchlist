@@ -1,0 +1,106 @@
+{
+  "short":"Saurier_Popkultur.json",
+  "name":"Dinosuarier in der Popkultur",
+  "subjects":["Paläontologie","Literatur","Film und Fernsehen","Chronologie"],
+  "description":"Sortieren Sie diese Filme, Bücher und Fernsehserien in denen Dinosaurier eine zentrale Rolle spielen in chronologischer Reihenfolge, beginnend mit dem Ältesten.",
+  "standard":"Jurrassic Park (Film von Steven Spielberg)",
+  "cut":false,
+  "things":[
+    {
+      "name":"Die vergessene Welt (OT: The Lost World; Roman von Arthur Conan Doyle)",
+      "value":"1912"
+    },
+    {
+      "name":"Gertie the Dinosaur (animierter Kurzfilm)",
+      "value":"Februar 1914"
+    },
+    {
+      "name":"At the Earth's Core (Roman von Edgar Rice Burroughs)",
+      "value":"April 1914"
+    },
+    {
+      "name":"Die verlorene Welt (OT: The Lost World; Film mit Wallace Beery)",
+      "value":"1925"
+    },
+    {
+      "name":"Godzilla (erster Film; von Ishiro Honda)",
+      "value":"1954"
+    },
+    {
+      "name":"Familie Feuerstein (OT: The Flintstones; animierte Sitcom)",
+      "value":"ab 1960"
+    },
+    {
+      "name":"In einem Land vor unserer Zeit (OT: The Land Before Time; Zeichentrickfilm)",
+      "value":"1988"
+    },
+    {
+      "name":"Jurrassic Park (Roman von Michael Crichton)",
+      "value":"1990"
+    },
+    {
+      "name":"Die Dinos (OT: Dinosaurs; Sitcom mit Ganzkörperpuppen)",
+      "value":"ab 1991"
+    },
+    {
+      "name":"Barney und seine Freunde (OT: Barney & Friends; Kinderserie mit Rosafarbenem Dinosaurier)",
+      "value":"ab 1992"
+    },
+    {
+      "name":"Jurrassic Park (Film von Steven Spielberg)",
+      "value":"1993"
+    },
+    {
+      "name":"Vergessene Welt (OT: The Lost World; Roman von Michael Crichton)",
+      "value":"1995"
+    },
+    {
+      "name":"Vergessene Welt: Jurassic Park (OT: The Lost World: Jurassic Park; Film von Steven Spielberg)",
+      "value":"1997"
+    },
+    {
+      "name":"Dinosaurier – Im Reich der Giganten (OT: Walking with Dinosaurs; Animierte Dokumentation)",
+      "value":"1999"
+    },
+    {
+      "name":"Jurrassic Park III (Film von Joe Johnston)",
+      "value":"2001"
+    },
+    {
+      "name":"Nachts im Museum (OT: Night at the Museum; Film von Shawn Levy mit Ben Stiller)",
+      "value":"2006"
+    },
+    {
+      "name":"Die Reise zum Mittelpunkt der Erde (OT: Journey to the Center of the Earth; Film von Eric Brevig mit Brendan Fraser)",
+      "value":"2008"
+    },
+    {
+      "name":"Ice Age 3 – Die Dinosaurier sind los (OT: Ice Age: Dawn of the Dinosaurs; Animationsfilm)",
+      "value":"2009"
+    },
+    {
+      "name":"Transformers: Ära des Untergangs (OT: Transformers: Age of Extinction; Film von Michael Bay)",
+      "value":"2014"
+    },
+    {
+      "name":"Jurrassic World (Film von Colin Trevorrow)",
+      "value":"2015"
+    },
+    {
+      "name":"ARK: Survival Evolved (Videospiel von Studio Wildcard)",
+      "value":"2017"
+    },
+    {
+      "name":"Jurassic World: Das gefallene Königreich (OT: Jurassic World: Fallen Kingdom; Film von J. A. Bayona)",
+      "value":"2018"
+    },
+    {
+      "name":"Iron Sky: The Coming Race (Film von Timo Vuorensola)",
+      "value":"2019"
+    },
+    {
+      "name":"Prehistoric Kingdom (Videospiel von Blue Meridian)",
+      "value":"2021"
+    }
+  ]
+}

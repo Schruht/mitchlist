@@ -1,0 +1,114 @@
+{
+  "short":"Saurier_Entdeckung.json",
+  "name":"Dinosaurier nach Entdeckung",
+  "subjects":["Paläontologie","Natur","Chronologie"],
+  "description":"Sortieren Sie diese Dinosaurier, Pterosaurier und Ichtyosaurier nach dem Datum ihrer ersten Beschreibung in der modernen Forschung, beginennd mit dem Saurier der am längsten bekannt ist.",
+  "standard":"Stegosaurus",
+  "cut":true,
+  "things":[
+    {
+      "name":"Pterodactylus",
+      "value":"1809 - Georges Cuvier"
+    },
+    {
+      "name":"Mosasaurus",
+      "value":"1822 - William Conybeare"
+    },
+    {
+      "name":"Iguanodon",
+      "value":"1825 - Gideon Mantell"
+    },
+    {
+      "name":"Hylaeosaurus",
+      "value":"1833 - Gideon Mantell"
+    },
+    {
+      "name":"Megalodon",
+      "value":"1843 - Louis Agassiz"
+    },
+    {
+      "name":"Hadrosaurus",
+      "value":"1858 - Joseph Leidy"
+    },
+    {
+      "name":"Archaeopteryx",
+      "value":"1861 - Hermann von Meyer"
+    },
+    {
+      "name":"Elasmosaurus",
+      "value":"1869 - Edward Drinker Cope"
+    },
+    {
+      "name":"Stegosaurus",
+      "value":"1877 - Othniel Charles Marsh (Ebenfalls 1877: Allosaurus & Apatosaurus)"
+    },
+    {
+      "name":"Triceratops",
+      "value":"1889 - Othniel Charles Marsh"
+    },
+    {
+      "name":"Ornithomimus",
+      "value":"1890 - Othniel Charles Marsh"
+    },
+    {
+      "name":"Diplodocus (carnegii)",
+      "value":"1901 - John Bell Hatcher"
+    },
+    {
+      "name":"Brachiosaurus",
+      "value":"1903 - Elmer S. Riggs"
+    },
+    {
+      "name":"Tyrannosaurus rex",
+      "value":"1905 - Henry Fairfield Osborn"
+    },
+    {
+      "name":"Ankylosaurus",
+      "value":"1908 - Barnum Brown"
+    },
+    {
+      "name":"Spinosaurus",
+      "value":"1915 - Ernst Stromer"
+    },
+    {
+      "name":"Edmontosaurus",
+      "value":"1917 - Lawrence Lambe"
+    },
+    {
+      "name":"Parasaurolophus",
+      "value":"1922 - William Parks"
+    },
+    {
+      "name":"Velociraptor (mongoliensis)",
+      "value":"1924 - Henry Fairfield Osborn"
+    },
+    {
+      "name":"Pachycephalosaurus",
+      "value":"1943 - Barnum Brown & Erich Maren Schlaikjer"
+    },
+    {
+      "name":"Compsognathus",
+      "value":"1959 - Johann Andreas Wagner"
+    },
+    {
+      "name":"Quetzalcoatlus",
+      "value":"1975 - Douglas A. Lawson"
+    },
+    {
+      "name":"Carnotaurus",
+      "value":"1985 - José Fernando Bonaparte"
+    },
+    {
+      "name":"Sinosauropteryx",
+      "value":"1996 - Ji Qian & Ji Shu'an "
+    },
+    {
+      "name":"Microraptor",
+      "value":"2000 - Xu Xing"
+    },
+    {
+      "name":"Titanoboa",
+      "value":"2009 - Jason Head"
+    }
+  ]
+}

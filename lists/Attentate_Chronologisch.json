@@ -1,0 +1,134 @@
+{
+  "short":"Attentate_Chronologisch.json",
+  "name":"Attentate in Chronologischer Reihenfolge",
+  "subjects":["Geschichte","Chronologie"],
+  "description":"Sortieren Sie diese berühmten Attentate in chronologischer Reihenfolge, beginnend mit dem ältesten Attentat.",
+  "standard":"Abraham Lincoln",
+  "cut":true,
+  "things":[
+    {
+      "name":"Hipparchus, Sohn des Peisistratos)",
+      "value":"514 v.d.Z."
+    },
+    {
+      "name":"Philip II. von Makedonien)",
+      "value":"336 v.d.Z."
+    },
+    {
+      "name":"Gaius Julius Caesar",
+      "value":"15. März 44 v.d.Z."
+    },
+    {
+      "name":"Caligula",
+      "value":"24. Januar 41"
+    },
+    {
+      "name":"Bonifatius",
+      "value":"5. Juni 754"
+    },
+    {
+      "name":"Edward the Martyr, König von England",
+      "value":"18. März 978"
+    },
+    {
+      "name":"Thomas Beckett",
+      "value":"29. Dezember 1170"
+    },
+    {
+      "name":"Snorri Sturluson",
+      "value":"23. September 1241"
+    },
+    {
+      "name":"Giuliano de' Medici",
+      "value":"26. April 1478"
+    },
+    {
+      "name":"Wilhelm der Schweiger von Oranien",
+      "value":"10. Juli 1584"
+    },
+    {
+      "name":"Albrecht von Wallenstein",
+      "value":"25. Februar 1634"
+    },
+    {
+      "name":"Jean-Paul Marat",
+      "value":"13. Juli 1793"
+    },
+    {
+      "name":"August von Kotzebue",
+      "value":"23. März 1819"
+    },
+    {
+      "name":"Abraham Lincoln",
+      "value":"15. April 1865"
+    },
+    {
+      "name":"Umberto I. von Italy",
+      "value":"29. Juli 1900"
+    },
+    {
+      "name":"Erzherzog Franz Ferdinand",
+      "value":"28. Juni 1914"
+    },
+    {
+      "name":"Grigori Rasputin",
+      "value":"30. Dezember 1916"
+    },
+    {
+      "name":"Karl Liebknecht & Rosa Luxemburg",
+      "value":"15. Januar 1919"
+    },
+    {
+      "name":"Engelbert Dollfuss",
+      "value":"25. Juli 1934"
+    },
+    {
+      "name":"Leo Trotzki",
+      "value":"21. August 1940"
+    },
+    {
+      "name":"Reinhard Heydrich",
+      "value":"4. Juni 1942"
+    },
+    {
+      "name":"Mahatma Gandhi",
+      "value":"30. Januar 1948"
+    },
+    {
+      "name":"John F. Kennedy",
+      "value":"22. November 1963"
+    },
+    {
+      "name":"Malcom X",
+      "value":"21. Februar 1965"
+    },
+    {
+      "name":"Martin Luther King Jr.",
+      "value":"4. April 1968"
+    },
+    {
+      "name":"Robert F. 'Bobby' Kennedy",
+      "value":"5. Juni 1968"
+    },
+    {
+      "name":"John Lennon",
+      "value":"8. Dezember 1980"
+    },
+    {
+      "name":"Indira Gandhi",
+      "value":"31. Oktober 1984"
+    },
+    {
+      "name":"Olof Palme",
+      "value":"28. Februar 1986"
+    },
+    {
+      "name":"Tupac Shakur",
+      "value":"13. September 1996"
+    },
+    {
+      "name":"Walter Lübcke",
+      "value":"2. Juni 2019"
+    }
+  ]
+}
