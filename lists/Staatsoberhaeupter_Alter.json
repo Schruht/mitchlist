@@ -1,7 +1,7 @@
 {
   "short":"Staatsoberhaeupter_Alter",
   "name":"Staatsoberhäupter nach Alter",
-  "subjects":["Politik","Alter"],
+  "subjects":["Politik"],
   "description":"Sortieren Sie diese Staatsoberhäupter und Regierungschefs nach ihrem Alter, beginnend mit dem/der Jüngsten",
   "standard":"Angela Merkel",
   "cut":true,

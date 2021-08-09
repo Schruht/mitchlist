@@ -1,7 +1,7 @@
 {
   "short":"Inseln_Einwohner",
   "name":"Inseln nach Einwohnerzahl",
-  "subjects":["Geographie","Dmeographie"],
+  "subjects":["Geographie","Demographie"],
   "description":"Sortieren Sie diese Inseln nach der Zahl der Einwohner",
   "standard":"Teneriffa",
   "cut":true,

@@ -1,7 +1,7 @@
 {
   "short":"Jakobsweg.json",
   "name":"Jakobswege",
-  "subjects":["Geographie","Religion"],
+  "subjects":["Geographie","Theologie"],
   "description":"Sortieren Sie diese Städte nach ihrer Distanz zur spanischen Pilgerstadt Santiago de Compostella. Gezählt wird die Distanz über den Jakobsweg, nicht die Luftlinie.",
   "standard":"Köln",
   "cut":true,

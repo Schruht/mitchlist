@@ -1,7 +1,7 @@
 {
   "short":"Serien_Start",
   "name":"Fernsehserien nach Alter",
-  "subjects":["Film und Fernsehen", "Chronologie"],
+  "subjects":["Film & Fernsehen", "Chronologie"],
   "description":"Sortieren Sie diese Fernsehserien nach dem Jahr, in dem ihre erste Staffel veröffentlicht wurde, beginnend mit der Ältesten",
   "standard":"The Office",
   "cut":true,
