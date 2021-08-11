@@ -1,0 +1,74 @@
+{
+  "short":"Bundeslaender_FDP.json",
+  "name":"Bundesländer nach FDP-Wahlergebnis",
+  "subjects":["Politik"],
+  "description":"Sortieren Sie dSortieren Sie die deutschen Bundesländer nach dem Wahlergebnis der FDP während der letzten Landtagswahl.",
+  "standard":"Sachsen-Anhalt (2021)",
+  "cut":false,
+  "things":[
+    {
+      "name":"Nordrhein-Westfalen (2017)",
+      "value":"12,6%"
+    },
+    {
+      "name":"Schleswig-Holstein (2017)",
+      "value":"11,5%"
+    },
+    {
+      "name":"Baden-Württemberg (2021)",
+      "value":"10,5%"
+    },
+    {
+      "name":"Niedersachsen (2017)",
+      "value":"7,52%"
+    },
+    {
+      "name":"Hessen (2018)",
+      "value":"7,49%"
+    },
+    {
+      "name":"Berlin (2016)",
+      "value":"6,7%"
+    },
+    {
+      "name":"Sachsen-Anhalt (2021)",
+      "value":"6,4%"
+    },
+    {
+      "name":"Bremen (2019)",
+      "value":"5,9%"
+    },
+    {
+      "name":"Rheinland-Pfalz (2019)",
+      "value":"5,5%"
+    },
+    {
+      "name":"Bayern (2018)",
+      "value":"5,1%"
+    },
+    {
+      "name":"Thüringen (2019)",
+      "value":"5,0006%"
+    },
+    {
+      "name":"Hamburg (2020)",
+      "value":"4,97%"
+    },
+    {
+      "name":"Sachsen (2019)",
+      "value":"4,5%"
+    },
+    {
+      "name":"Brandenburg (2019)",
+      "value":"4,1%"
+    },
+    {
+      "name":"Saarland (2017)",
+      "value":"3,3%"
+    },
+    {
+      "name":"Mecklenburg-Vorpommern (2016)",
+      "value":"3,0%"
+    }
+  ]
+}

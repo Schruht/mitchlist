@@ -1,0 +1,70 @@
+{
+  "short":"Antillen.json",
+  "name":"Die kleinen Antillen",
+  "subjects":["Geographie"],
+  "description":"Sortieren Sie diese Inseln der kleinen Antillen von Norden nach Süden, beginnend mit der Nördlichsten Insel, Anguilla.",
+  "standard":"Anguilla",
+  "cut":false,
+  "things":[
+    {
+      "name":"Anguilla",
+      "value":""
+    },
+    {
+      "name":"Saint Martin / Sint Maarten",
+      "value":""
+    },
+    {
+      "name":"Saint Barthélemy",
+      "value":""
+    },
+    {
+      "name":"St. Kitts",
+      "value":""
+    },
+    {
+      "name":"Nevis",
+      "value":""
+    },
+    {
+      "name":"Montserrat",
+      "value":""
+    },
+    {
+      "name":"Guadeloupe",
+      "value":""
+    },
+    {
+      "name":"Dominica",
+      "value":""
+    },
+    {
+      "name":"Martinique",
+      "value":""
+    },
+    {
+      "name":"St. Lucia",
+      "value":""
+    },
+    {
+      "name":"St. Vincent",
+      "value":""
+    },
+    {
+      "name":"Die Grenadinen",
+      "value":""
+    },
+    {
+      "name":"Grenada",
+      "value":""
+    },
+    {
+      "name":"Tobago",
+      "value":""
+    },
+    {
+      "name":"Trinidad",
+      "value":""
+    }
+  ]
+}

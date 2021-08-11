@@ -1,0 +1,74 @@
+{
+  "short":"Bundeslaender_CDU.json",
+  "name":"Bundesländer nach CDU-Wahlergebnis",
+  "subjects":["Politik"],
+  "description":"Sortieren Sie die deutschen Bundesländer nach dem Wahlergebnis der CDU während der letzten Landtagswahl (In Bayern wird das Ergebnis der CSU gewertet).",
+  "standard":"Rheinland-Pfalz (2021)",
+  "cut":false,
+  "things":[
+    {
+      "name":"Saarland (2017)",
+      "value":"40,7%"
+    },
+    {
+      "name":"Bayern (2018)",
+      "value":"37,2%"
+    },
+    {
+      "name":"Sachsen-Anhalt (2021)",
+      "value":"37,1%"
+    },
+    {
+      "name":"Niedersachsen (2017)",
+      "value":"33,6%"
+    },
+    {
+      "name":"Nordrhein-Westfalen (2017)",
+      "value":"33,0%"
+    },
+    {
+      "name":"Sachsen (2019)",
+      "value":"32,1%"
+    },
+    {
+      "name":"Schleswig-Holstein (2017)",
+      "value":"32,0%"
+    },
+    {
+      "name":"Rheinland-Pfalz (2021)",
+      "value":"27,7%"
+    },
+    {
+      "name":"Hessen (2018)",
+      "value":"27,0%"
+    },
+    {
+      "name":"Bremen (2019)",
+      "value":"26,7%"
+    },
+    {
+      "name":"Baden-Württemberg (2021)",
+      "value":"24,1%"
+    },
+    {
+      "name":"Thüringen (2019)",
+      "value":"21,7%"
+    },
+    {
+      "name":"Mecklenburg-Vorpommern (2016)",
+      "value":"19,0%"
+    },
+    {
+      "name":"Berlin (2016)",
+      "value":"17,6%"
+    },
+    {
+      "name":"Brandenburg (2019)",
+      "value":"15,6%"
+    },
+    {
+      "name":"Hambug (202)",
+      "value":"11,2%"
+    }
+  ]
+}

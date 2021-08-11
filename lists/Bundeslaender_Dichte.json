@@ -1,0 +1,78 @@
+{
+  "short":"Bundeslaender_Dichte.json",
+  "name":"Deutsche Bundesländer nach Bevölkerungsdichte",
+  "subjects":["Demographie"],
+  "description":"Sortieren Sie die deutschen Bundesländer nach ihrer Bevölkerungsdichte, beginnend mit dem am dichtesten besiedelten Bundesland. [Stand: 2019]",
+  "standard":"Gesamtdeutscher Schnitt",
+  "cut":false,
+  "things":[
+    {
+      "name":"Berlin",
+      "value":"4090 Einwohner pro km²"
+    },
+    {
+      "name":"Hamburg",
+      "value":"2446 Einwohner pro km²"
+    },
+    {
+      "name":"Bremen",
+      "value":"1624 Einwohner pro km²"
+    },
+    {
+      "name":"Nordrhein-Westfalen",
+      "value":"526 Einwohner pro km²"
+    },
+    {
+      "name":"Saarland",
+      "value":"384 Einwohner pro km²"
+    },
+    {
+      "name":"Baden-Württemberg",
+      "value":"311 Einwohner pro km²"
+    },
+    {
+      "name":"Hessen",
+      "value":"298 Einwohner pro km²"
+    },
+    {
+      "name":"Gesamtdeutscher Schnitt",
+      "value":"233 Einwohner pro km²"
+    },
+    {
+      "name":"Sachsen",
+      "value":"221 Einwohner pro km²"
+    },
+    {
+      "name":"Rheinland-Pfalz",
+      "value":"206 Einwohner pro km²"
+    },
+    {
+      "name":"Bayern",
+      "value":"186 Einwohner pro km²"
+    },
+    {
+      "name":"Schleswig-Holstein",
+      "value":"184 Einwohner pro km²"
+    },
+    {
+      "name":"Niedersachsen",
+      "value":"168 Einwohner pro km²"
+    },
+    {
+      "name":"Thüringen",
+      "value":"132 Einwohner pro km²"
+    },
+    {
+      "name":"Sachsen-Anhalt",
+      "value":"107 Einwohner pro km²"
+    },
+    {
+      "name":"Brandenburg",
+      "value":"85 Einwohner pro km²"
+    },
+    {
+      "name":"Mecklenburg-Vorpommern",
+      "value":"69 Einwohner pro km²"
+    }
+  ]
+}

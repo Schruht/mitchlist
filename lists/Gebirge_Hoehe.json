@@ -1,0 +1,82 @@
+{
+  "short":"Gebirge_Hoehe.json",
+  "name":"Gebirge nach Höhe",
+  "subjects":["Geographie"],
+  "description":"Sortieren Sie diese Gebirge nach ihrme höchsten Punkt, beginnend mit dem höchsten Gebirge.",
+  "standard":"Pyrenäen",
+  "cut":true,
+  "things":[
+    {
+      "name":"Himalaya",
+      "value":"8848m (Mount Everest)"
+    },
+    {
+      "name":"Karakoram",
+      "value":"8611m (K2)"
+    },
+    {
+      "name":"Hindukusch",
+      "value":"7708m (Tirich Mir)"
+    },
+    {
+      "name":"Anden",
+      "value":"6962m (Aconcagua)"
+    },
+    {
+      "name":"Alaskakette",
+      "value":"6194m (Denali)"
+    },
+    {
+      "name":"Kaukasus",
+      "value":"5642m (Elbrus)"
+    },
+    {
+      "name":"Alpen",
+      "value":"4810m (Mont Blanc)"
+    },
+    {
+      "name":"Altai",
+      "value":"4506m (Belucha)"
+    },
+    {
+      "name":"Rocky Mountains",
+      "value":"4401m (Mount Elbert)"
+    },
+    {
+      "name":"Atlas",
+      "value":"4167m (Toubkal)"
+    },
+    {
+      "name":"Neuseeländische Alpen",
+      "value":"3724m (Aoraki/Mount Cook)"
+    },
+    {
+      "name":"Pyrenäen",
+      "value":"3404m (Pico de Aneto)"
+    },
+    {
+      "name":"Dolomiten",
+      "value":"3343m (Marmolata)"
+    },
+    {
+      "name":"Apennin",
+      "value":"2912m (Corno Grande)"
+    },
+    {
+      "name":"Kapaten",
+      "value":"2605m (Gerlachovský štít)"
+    },
+    {
+      "name":"Appalachen",
+      "value":"2037m (Mount Mitchell)"
+    },
+    {
+      "name":"Ural",
+      "value":"1895m (Narodnaja)"
+    },
+    {
+      "name":"Erzgebirge",
+      "value":"1243m (Keilberg/Klínovec)"
+    }
+  ]
+}

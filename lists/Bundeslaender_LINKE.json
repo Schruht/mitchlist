@@ -1,0 +1,74 @@
+{
+  "short":"Bundeslaender_LINKE.json",
+  "name":"Bundesländer nach LINKE-Wahlergebnis",
+  "subjects":["Politik"],
+  "description":"Sortieren Sie die deutschen Bundesländer nach dem Wahlergebnis der LINKE während der letzten Landtagswahl.",
+  "standard":"Brandenburg (2019)",
+  "cut":false,
+  "things":[
+    {
+      "name":"Thüringen (2019)",
+      "value":"31%"
+    },
+    {
+      "name":"Berlin (2016)",
+      "value":"15,6%"
+    },
+    {
+      "name":"Mecklenburg-Vorpommern (2016)",
+      "value":"13,2%"
+    },
+    {
+      "name":"Saarland (2017)",
+      "value":"12,8%"
+    },
+    {
+      "name":"Bremen (2019)",
+      "value":"11,3%"
+    },
+    {
+      "name":"Sachsen-Anhalt (2021)",
+      "value":"11,0%"
+    },
+    {
+      "name":"Brandenburg (2019)",
+      "value":"10,7%"
+    },
+    {
+      "name":"Sachsen (2019)",
+      "value":"10,4%"
+    },
+    {
+      "name":"Hamburg (2020)",
+      "value":"9,1%"
+    },
+    {
+      "name":"Hessen (2018)",
+      "value":"6,3%"
+    },
+    {
+      "name":"Nordrhein-Westfalen (2017)",
+      "value":"4,9%"
+    },
+    {
+      "name":"Niedersachsen (2017)",
+      "value":"4,6%"
+    },
+    {
+      "name":"Schleswig-Holstein (2017)",
+      "value":"3,8%"
+    },
+    {
+      "name":"Baden-Württemberg (2021)",
+      "value":"3,6%"
+    },
+    {
+      "name":"Bayern (2018)",
+      "value":"3,2%"
+    },
+    {
+      "name":"Rheinland-Pfalz (2021)",
+      "value":"2,5%"
+    }
+  ]
+}

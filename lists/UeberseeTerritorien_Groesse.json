@@ -1,0 +1,186 @@
+{
+  "short":"UeberseeTerritorien_Groesse.json",
+  "name":"Übersee-Territorien nach Größe",
+  "subjects":["Geographie","Politik"],
+  "description":"Sortieren Sie diese Übersee Territorien und abhängigen Gebiete nach ihrer Fläche, beginnend mit dem größten Territorium.",
+  "standard":"Cayman Islands (Vereinigtes Königreich)",
+  "cut":true,
+  "things":[
+    {
+      "name":"Grönland (Dänemark)",
+      "value":"2,166,086 km2"
+    },
+    {
+      "name":"Französisch Guyana (Frankreich)",
+      "value":"83,534 km2"
+    },
+    {
+      "name":"Spitzbergen / Svalbard (Norwegen)",
+      "value":"61,022 km2"
+    },
+    {
+      "name":"Neukaledonien (Frankreich)",
+      "value":"18,576 km2"
+    },
+    {
+      "name":"Falklandinseln (Vereinigtes Königreich)",
+      "value":"12,173 km2"
+    },
+    {
+      "name":"Puerto Rico (USA)",
+      "value":"9,104 km2"
+    },
+    {
+      "name":"Färöer-Inseln (Dänemark)",
+      "value":"4,167 km2"
+    },
+    {
+      "name":"Hongkong (China)",
+      "value":"2,755 km2"
+    },
+    {
+      "name":"La Reunion (Frankreich)",
+      "value":"2,511 km2"
+    },
+    {
+      "name":"Guadeloupe (Frankreich)",
+      "value":"1,628 km2"
+    },
+    {
+      "name":"Åland (Finland)",
+      "value":"1,580 km2"
+    },
+    {
+      "name":"Französisch Polynesien (Frankreich)",
+      "value":"1,399 km2"
+    },
+    {
+      "name":"Martinique (Frankreich)",
+      "value":"1,128 km2"
+    },
+    {
+      "name":"Isle of Man (Vereinigtes Königreich)",
+      "value":"572 km2"
+    },
+    {
+      "name":"Guam (USA)",
+      "value":"544 km2"
+    },
+    {
+      "name":"Nördliche Mariannen (USA)",
+      "value":"464 km2"
+    },
+    {
+      "name":"Curaçao (Niederlande)",
+      "value":"444 km2"
+    },
+    {
+      "name":"Turks- und Caicosinseln (Vereinigtes Königreich)",
+      "value":"430 km2"
+    },
+    {
+      "name":"Saint Helena, Ascension und Tristan da Cunha (Vereinigtes Königreich)",
+      "value":"394 km2"
+    },
+    {
+      "name":"Mayotte (Frankreich)",
+      "value":"374 km2"
+    },
+    {
+      "name":"Amerikanische Jungferninseln (USA)",
+      "value":"346 km2"
+    },
+    {
+      "name":"Cayman Islands (Vereinigtes Königreich)",
+      "value":"264 km2"
+    },
+    {
+      "name":"Niue (Neuseeland)",
+      "value":"261.46 km2"
+    },
+    {
+      "name":"Akrotiri und Dhekelia (Vereinigtes Königreich)",
+      "value":"254 km2"
+    },
+    {
+      "name":"Saint Pierre und Miquelon (Frankreich)",
+      "value":"242 km2"
+    },
+    {
+      "name":"Cookinseln (Neuseeland)",
+      "value":"240 km2"
+    },
+    {
+      "name":"Amerikanisch Samoa (USA)",
+      "value":"199 km2"
+    },
+    {
+      "name":"Aruba (Niederlande)",
+      "value":"179 km2"
+    },
+    {
+      "name":"Britische Jungferninseln (Vereinigtes Königreich)",
+      "value":"153 km2"
+    },
+    {
+      "name":"Wallis und Futuna (Frankreich)",
+      "value":"142 km2"
+    },
+    {
+      "name":"Weihnachtsinseln (Australien)",
+      "value":"135 km2"
+    },
+    {
+      "name":"Jersey (Vereinigtes Königreich)",
+      "value":"118 km2"
+    },
+    {
+      "name":"Macau (China)",
+      "value":"115 km2"
+    },
+    {
+      "name":"Montserrat (Vereinigtes Königreich)",
+      "value":"101 km2"
+    },
+    {
+      "name":"Anguilla (Vereinigtes Königreich)",
+      "value":"91 km2"
+    },
+    {
+      "name":"Guernsey (Vereinigtes Königreich)",
+      "value":"65 km2"
+    },
+    {
+      "name":"Bermuda (Vereinigtes Königreich)",
+      "value":"53 km2"
+    },
+    {
+      "name":"Pitcairn (Vereinigtes Königreich)",
+      "value":"43 km2"
+    },
+    {
+      "name":"Sint Maarten (Niederlande)",
+      "value":"37 km2"
+    },
+    {
+      "name":"Norfolkinsel (Australien)",
+      "value":"34 km2"
+    },
+    {
+      "name":"Saint Barthélemy (Frankreich)",
+      "value":"25 km2"
+    },
+    {
+      "name":"Kokosinseln (Australien)",
+      "value":"14 km2"
+    },
+    {
+      "name":"Tokelau (Neuseeland)",
+      "value":"10 km2"
+    },
+    {
+      "name":"Gibraltar (Vereinigtes Königreich)",
+      "value":"6 km2"
+    }
+  ]
+}

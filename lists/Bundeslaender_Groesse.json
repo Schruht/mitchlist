@@ -1,0 +1,74 @@
+{
+  "short":"Bundeslaender_Einwohner.json",
+  "name":"Deutsche Bundesländer nach Fläche",
+  "subjects":["Geographie"],
+  "description":"Sortieren Sie die deutschen Bundesländer nach ihrer Fläche, beginnend mit dem größten Bundesland.",
+  "standard":"Hessen",
+  "cut":false,
+  "things":[
+    {
+      "name":"Bayern",
+      "value":"70.541 km² (19,73%)"
+    },
+    {
+      "name":"Niedersachsen",
+      "value":"47.709 km² (13,34%)"
+    },
+    {
+      "name":"Baden-Württemberg",
+      "value":"35.747 km² (10,00%)"
+    },
+    {
+      "name":"Nordrhein-Westfalen",
+      "value":"34.112,44 km² (9,54%)"
+    },
+    {
+      "name":"Brandenburg",
+      "value":"29.654 km² (8,29%)"
+    },
+    {
+      "name":"Mecklenburg-Vorpommern",
+      "value":"23.295 km² (6,51%)"
+    },
+    {
+      "name":"Hessen",
+      "value":"21.115 km² (5,91%)"
+    },
+    {
+      "name":"Sachsen-Anhalt",
+      "value":"20.456 km² (5,72%)"
+    },
+    {
+      "name":"Rheinland-Pfalz",
+      "value":"19.858 km² (5,55%)"
+    },
+    {
+      "name":"Sachsen",
+      "value":"18.449,93 km² (5,16%)"
+    },
+    {
+      "name":"Thüringen",
+      "value":"16.202 km² (4,53%)"
+    },
+    {
+      "name":"Schleswig-Holstein",
+      "value":"15.800 km² (4,42%)"
+    },
+    {
+      "name":"Saarland",
+      "value":"2.571 km² (0,72%)"
+    },
+    {
+      "name":"Berlin",
+      "value":"891 km² (0,25%)"
+    },
+    {
+      "name":"Hamburg",
+      "value":"755 km² (0,21%)"
+    },
+    {
+      "name":"Bremen",
+      "value":"419 km² (0,12%)"
+    }
+  ]
+}

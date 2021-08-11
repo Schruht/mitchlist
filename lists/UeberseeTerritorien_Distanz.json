@@ -1,0 +1,106 @@
+{
+  "short":"UeberseeTerritorien_Distanz.json",
+  "name":"Übersee-Territorien nach Distanz zur Heimat",
+  "subjects":["Geographie"],
+  "description":"Sortieren Sie diese Übersee-Territorien nach ihrer Distanz zum zugehörigen Land. Gemessen wird dabei die Distanz des Territoriums zu Hauptstadt des Landes, also beispielsweise die Distanz von Guadeloupe nach Paris. Beginnend mit der größten Distanz.",
+  "standard":"Guadeloupe",
+  "cut":true,
+  "things":[
+    {
+      "name":"Neukaledonien",
+      "value":"16742 km"
+    },
+    {
+      "name":"Französisch Polynesien",
+      "value":"15716 km"
+    },
+    {
+      "name":"Pitcairn",
+      "value":"14717 km"
+    },
+    {
+      "name":"Falklandinseln",
+      "value":"12747 km"
+    },
+    {
+      "name":"Amerikanisch Samoa",
+      "value":"11313 km"
+    },
+    {
+      "name":"Tristan de Cunha",
+      "value":"9924 km"
+    },
+    {
+      "name":"La Reunion",
+      "value":"9366 km"
+    },
+    {
+      "name":"Aruba",
+      "value":"7885 km"
+    },
+    {
+      "name":"Cayman Islands",
+      "value":"7732 km"
+    },
+    {
+      "name":"Guadeloupe",
+      "value":"6754 km"
+    },
+    {
+      "name":"Britische Jungferninseln",
+      "value":"6657 km"
+    },
+    {
+      "name":"Bermuda",
+      "value":"5826 km"
+    },
+    {
+      "name":"Bermuda",
+      "value":"5553 km"
+    },
+    {
+      "name":"Weihnachtsinseln",
+      "value":"5179 km"
+    },
+    {
+      "name":"Saint Pierre und Miquelon",
+      "value":"4267 km"
+    },
+    {
+      "name":"Grönland (Distanz ab Nuuk)",
+      "value":"3535 km"
+    },
+    {
+      "name":"Akrotiri und Dhekelia",
+      "value":"3232 km"
+    },
+    {
+      "name":"Puerto Rico",
+      "value":"2869 km"
+    },
+    {
+      "name":"Puerto Rico",
+      "value":"2514 km"
+    },
+    {
+      "name":"Norfolkinsel",
+      "value":"1900 km"
+    },
+    {
+      "name":"Gibraltar",
+      "value":"1758 km"
+    },
+    {
+      "name":"Färöer-Inseln",
+      "value":"1317 km"
+    },
+    {
+      "name":"Jersey",
+      "value":"292 km"
+    },
+    {
+      "name":"Isle of Man",
+      "value":"263 km"
+    }
+  ]
+}

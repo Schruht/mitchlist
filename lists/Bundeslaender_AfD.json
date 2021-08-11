@@ -1,0 +1,74 @@
+{
+  "short":"Bundeslaender_AfD.json",
+  "name":"Bundesländer nach AfD-Wahlergebnis",
+  "subjects":["Politik"],
+  "description":"Sortieren Sie die deutschen Bundesländer nach dem Wahlergebnis der AfD während der letzten Landtagswahl.",
+  "standard":"Bayern (2018)",
+  "cut":false,
+  "things":[
+    {
+      "name":"Sachsen (2019)",
+      "value":"27,5%"
+    },
+    {
+      "name":"Brandenburg (2019)",
+      "value":"23,5%"
+    },
+    {
+      "name":"Thüringen (2019)",
+      "value":"23,4%"
+    },
+    {
+      "name":"Sachsen-Anhalt (2021)",
+      "value":"20,82%"
+    },
+    {
+      "name":"Mecklenburg-Vorpommern (2016)",
+      "value":"20,81%"
+    },
+    {
+      "name":"Berlin (2016)",
+      "value":"14,2%"
+    },
+    {
+      "name":"Hessen (2018)",
+      "value":"13,1%"
+    },
+    {
+      "name":"Bayern (2018)",
+      "value":"10,2%"
+    },
+    {
+      "name":"Baden-Württemberg (2021)",
+      "value":"9,7%"
+    },
+    {
+      "name":"Rheinland-Pfalz (2021)",
+      "value":"8,3%"
+    },
+    {
+      "name":"Nordrhein-Westfalen (2017)",
+      "value":"7,4%"
+    },
+    {
+      "name":"Saarland (2017)",
+      "value":"6,17%"
+    },
+    {
+      "name":"Niedersachsen (2017)",
+      "value":"6,16%"
+    },
+    {
+      "name":"Bremen (2019)",
+      "value":"6,1%"
+    },
+    {
+      "name":"Schleswig-Holstein (2017)",
+      "value":"5,9%"
+    },
+    {
+      "name":"Hamburg (2020)",
+      "value":"5,3%"
+    }
+  ]
+}

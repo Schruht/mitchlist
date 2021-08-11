@@ -1,0 +1,190 @@
+{
+  "short":"UeberseeTerritorien_Einwohner.json",
+  "name":"Überseeterritorien nach Einwohner",
+  "subjects":["Politik","Demographie"],
+  "description":"Sortieren Sie diese Übersee Territorien und abhängigen Gebiete nach der Zahl ihrer Einwohner, beginnend mit dem bevölkertsten Territorium.",
+  "standard":"Falklandinseln (Vereinigtes Königreich)",
+  "cut":true,
+  "things":[
+    {
+      "name":"Hongkong (China)",
+      "value":"7,474,200"
+    },
+    {
+      "name":"Puerto Rico (USA)",
+      "value":"3,285,874"
+    },
+    {
+      "name":"La Reunion (Frankreich)",
+      "value":"858,450"
+    },
+    {
+      "name":"Macau (China)",
+      "value":"682,500"
+    },
+    {
+      "name":"Guadeloupe (Frankreich)",
+      "value":"395,700"
+    },
+    {
+      "name":"Martinique (Frankreich)",
+      "value":"375,053"
+    },
+    {
+      "name":"Französisch Guyana (Frankreich)",
+      "value":"294,071"
+    },
+    {
+      "name":"Mayotte (Frankreich)",
+      "value":"288,926"
+    },
+    {
+      "name":"Französisch Polynesien (Frankreich)",
+      "value":"279,890"
+    },
+    {
+      "name":"Neukaledonien (Frankreich)",
+      "value":"273,674"
+    },
+    {
+      "name":"Guam (USA)",
+      "value":"178,306"
+    },
+    {
+      "name":"Curaçao (Niederlande)",
+      "value":"153,671"
+    },
+    {
+      "name":"Aruba (Niederlande)",
+      "value":"111,050"
+    },
+    {
+      "name":"Jersey (Vereinigtes Königreich)",
+      "value":"107,800"
+    },
+    {
+      "name":"Amerikanische Jungferninseln (USA)",
+      "value":"104,000"
+    },
+    {
+      "name":"Isle of Man (Vereinigtes Königreich)",
+      "value":"85,000"
+    },
+    {
+      "name":"Cayman Islands (Vereinigtes Königreich)",
+      "value":"65,786"
+    },
+    {
+      "name":"Bermuda (Vereinigtes Königreich)",
+      "value":"64,055"
+    },
+    {
+      "name":"Guernsey (Vereinigtes Königreich)",
+      "value":"63,124"
+    },
+    {
+      "name":"Amerikanisch Samoa (USA)",
+      "value":"56,951"
+    },
+    {
+      "name":"Nördliche Mariannen (USA)",
+      "value":"56,801"
+    },
+    {
+      "name":"Grönland (Dänemark)",
+      "value":"56,541"
+    },
+    {
+      "name":"Färöer-Inseln (Dänemark)",
+      "value":"53,305"
+    },
+    {
+      "name":"Turks- und Caicosinseln (Vereinigtes Königreich)",
+      "value":"42,953"
+    },
+    {
+      "name":"Sint Martin (Niederlande)",
+      "value":"41,486"
+    },
+    {
+      "name":"Saint Martin (Frankreich)",
+      "value":"34,065"
+    },
+    {
+      "name":"Gibraltar (Vereinigtes Königreich)",
+      "value":"34,000"
+    },
+    {
+      "name":"Åland (Finland)",
+      "value":"30,286"
+    },
+    {
+      "name":"Britische Jungferninseln (Vereinigtes Königreich)",
+      "value":"29,987"
+    },
+    {
+      "name":"Akrotiri und Dhekelia (Vereinigtes Königreich)",
+      "value":"18,195"
+    },
+    {
+      "name":"Cookinseln (Neuseeland)",
+      "value":"15,342"
+    },
+    {
+      "name":"Anguilla (Vereinigtes Königreich)",
+      "value":"14,966"
+    },
+    {
+      "name":"Wallis und Futuna (Frankreich)",
+      "value":"11,369"
+    },
+    {
+      "name":"Saint Barthélemy (Frankreich)",
+      "value":"10,124"
+    },
+    {
+      "name":"Saint Helena, Ascension und Tristan da Cunha (Vereinigtes Königreich)",
+      "value":"6,103"
+    },
+    {
+      "name":"Saint Pierre und Miquelon (Frankreich)",
+      "value":"5,985"
+    },
+    {
+      "name":"Montserrat (Vereinigtes Königreich)",
+      "value":"5,000"
+    },
+    {
+      "name":"Falklandinseln (Vereinigtes Königreich)",
+      "value":"4,000"
+    },
+    {
+      "name":"Spitzbergen / Svalbard (Norwegen)",
+      "value":"2,939"
+    },
+    {
+      "name":"Weihnachtsinseln (Australien)",
+      "value":"1,966"
+    },
+    {
+      "name":"Norfolkinsel (Australien)",
+      "value":"1,734"
+    },
+    {
+      "name":"Niue (Neuseeland)",
+      "value":"1,549"
+    },
+    {
+      "name":"Tokelau (Neuseeland)",
+      "value":"1,501"
+    },
+    {
+      "name":"Kokosinseln (Australien)",
+      "value":"573"
+    },
+    {
+      "name":"Pitcairn (Vereinigtes Königreich)",
+      "value":"50"
+    }
+  ]
+}

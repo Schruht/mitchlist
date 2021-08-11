@@ -1,0 +1,66 @@
+{
+  "short":"RoProvinzen_Chronologisch.json",
+  "name":"Römische Provinzen nach Eroberung",
+  "subjects":["Geschichte","Antike"],
+  "description":"Sortieren Sie diese Provinzen des Römischen Reichs nach dem Jahr ihrer Eroberung, beginnend mit der Provinz die als erstes Teil Roms wurde.",
+  "standard":"Arabia",
+  "cut":true,
+  "things":[
+    {
+      "name":"Sicilia",
+      "value":"241 v.d.Z."
+    },
+    {
+      "name":"Corsica et Sardinia",
+      "value":"237 v.d.Z."
+    },
+    {
+      "name":"Hispania Citerior & Hispania Ulterior",
+      "value":"197 v.d.Z."
+    },
+    {
+      "name":"Africa (heutiges Tunesien)",
+      "value":"146 v.d.Z."
+    },
+    {
+      "name":"Asia",
+      "value":"129 v.d.Z."
+    },
+    {
+      "name":"Gallia Narbonensis",
+      "value":"120 v.d.Z."
+    },
+    {
+      "name":"Creta et Cyrenae",
+      "value":"67 v.d.Z."
+    },
+    {
+      "name":"Bithynia et Pontus & Syria",
+      "value":"63 v.d.Z."
+    },
+    {
+      "name":"Ägypten",
+      "value":"30 v.d.Z."
+    },
+    {
+      "name":"Illyricum",
+      "value":"27 v.d.Z."
+    },
+    {
+      "name":"Judea",
+      "value":"4"
+    },
+    {
+      "name":"Britannia",
+      "value":"43"
+    },
+    {
+      "name":"Arabia",
+      "value":"106"
+    },
+    {
+      "name":"Mesopotamia",
+      "value":"116"
+    }
+  ]
+}

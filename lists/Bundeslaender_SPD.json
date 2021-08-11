@@ -1,0 +1,74 @@
+{
+  "short":"Bundeslaender_SPD.json",
+  "name":"Bundesländer nach SPD-Wahlergebnis",
+  "subjects":["Politik"],
+  "description":"Sortieren Sie die deutschen Bundesländer nach dem Wahlergebnis der SPD während der letzten Landtagswahl.",
+  "standard":"Baden-Württemberg (2021)",
+  "cut":false,
+  "things":[
+    {
+      "name":"Hamburg (2020)",
+      "value":"39,2%"
+    },
+    {
+      "name":"Niedersachsen (2017)",
+      "value":"36,9%"
+    },
+    {
+      "name":"Rheinland-Niedersachsen (2021)",
+      "value":"35,7%"
+    },
+    {
+      "name":"Nordrhein-Westfalen (2017)",
+      "value":"31,2%"
+    },
+    {
+      "name":"Mecklenburg-Vorpommern (2016)",
+      "value":"30,6%"
+    },
+    {
+      "name":"Saarland (2017)",
+      "value":"29,6%"
+    },
+    {
+      "name":"Schleswig-Holstein (2017)",
+      "value":"27,3%"
+    },
+    {
+      "name":"Brandenburg (2019)",
+      "value":"26,2%"
+    },
+    {
+      "name":"Bremen (2019)",
+      "value":"24,9%"
+    },
+    {
+      "name":"Berlin (2016)",
+      "value":"21,6%"
+    },
+    {
+      "name":"Hessen (2018)",
+      "value":"19,8%"
+    },
+    {
+      "name":"Baden-Württemberg (2021)",
+      "value":"11,0%"
+    },
+    {
+      "name":"Bayern (2018)",
+      "value":"9,7%"
+    },
+    {
+      "name":"Sachsen-Anhalt (2021)",
+      "value":"8,4%"
+    },
+    {
+      "name":"Thüringen (2019)",
+      "value":"8,2%"
+    },
+    {
+      "name":"Sachsen (7,7)",
+      "value":"7,7%"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "short":"Schlachten_Chronologisch.json",
+  "name":"Schlachten",
+  "subjects":["Geschichte"],
+  "description":"Sortieren Sie diese Schlachten in chronologischer Reihenfolge, beginnend mit der ältesten Schlacht.",
+  "standard":"Schlacht von Stalingrad",
+  "cut":true,
+  "things":[
+    {
+      "name":"Tet-Offensive",
+      "value":"30. Januar bis 25. Februar 1968 (Vietnamkrieg)"
+    },
+    {
+      "name":"Schlacht um Iwojima",
+      "value":"19. Februar bis 26. März 1945 (Zweiter Weltkrieg)"
+    },
+    {
+      "name":"Operation Overlord (Alliierte Invasion in der Normandie)",
+      "value":"6. Juni bis 25. August 1944 (Zweiter Weltkrieg)"
+    },
+    {
+      "name":"Schlacht von Stalingrad",
+      "value":"23. August 1942 bis 2. Februar 1943 (Zweiter Weltkrieg)"
+    },
+    {
+      "name":"Schlacht um Midway",
+      "value":"4. bis 7. Juni 1942 (Zweiter Weltkrieg)"
+    },
+    {
+      "name":"Angriff auf Pearl Harbor",
+      "value":"7. Dezember 1941 (Zweiter Weltkrieg)"
+    },
+    {
+      "name":"Schlacht von Dünkirchen (Dunkirk)",
+      "value":"26. Mai bis 5. Juni 1940 (Zweiter Weltkrieg)"
+    },
+    {
+      "name":"Schlacht um Verdun",
+      "value":"21. Februar bis 19. Dezember 1916 (Erster Weltkrieg)"
+    },
+    {
+      "name":"Schlacht von Gallipoli",
+      "value":"19. Februar 1915 bis 9. Januar 1916 (Erster Weltkrieg)"
+    },
+    {
+      "name":"Schlacht von Gettysburg",
+      "value":"1. bis 3. Juli 1863 (Sezessionskrieg)"
+    },
+    {
+      "name":"Schlacht bei Waterloo",
+      "value":"18. Juni 1815 (Koalitionskriege)"
+    },
+    {
+      "name":"Völkerschlacht bei Leipzig",
+      "value":"16. bis 19. Oktober 1813 (Koalitionskriege)"
+    },
+    {
+      "name":"Schlacht von Trafalgar",
+      "value":"21. Oktober 1805 (Koalitionskriege)"
+    },
+    {
+      "name":"Schlacht bei Yorktown",
+      "value":"28. September bis 19. October 1781 (Amerikanischer Unabhängigkeitskrieg)"
+    },
+    {
+      "name":"Schlacht von Bunker Hill",
+      "value":"17. Juni 1775 (Amerikanischer Unabhängigkeitskrieg)"
+    },
+    {
+      "name":"Schlacht am Boyne",
+      "value":"11. Juli 1690 (Krieg der zwei Könige)"
+    },
+    {
+      "name":"Schlacht von Lützen",
+      "value":"16. November 1632 (Dreißigjähriger Krieg)"
+    },
+    {
+      "name":"Schlacht von Bosworth",
+      "value":"22. August 1485 (Rosenkrieg)"
+    },
+    {
+      "name":"Eroberung von Konstantinopel",
+      "value":"2. April bis 29. Mai 1453"
+    },
+    {
+      "name":"Schlacht von Azincourt",
+      "value":"25. Oktober 1415 (Hundertjähriger Krieg)"
+    },
+    {
+      "name":"Schlacht bei Crécy",
+      "value":"26. August 1346 (Hundertjähriger Krieg)"
+    },
+    {
+      "name":"Schlacht bei Hattin",
+      "value":"4. Juli 1187 (Dritter Kreuzzug)"
+    },
+    {
+      "name":"Schlacht bei Manzikert",
+      "value":"14. Oktober 1071 (Byzantinisch-Seldschukischer Krieg)"
+    },
+    {
+      "name":"Schlacht bei Hastings",
+      "value":"14. Oktober 1066 (Normannische Eroberung Englands)"
+    },
+    {
+      "name":"Schlacht von Stamford Bridge",
+      "value":"25. September 1066"
+    },
+    {
+      "name":"Schlacht auf dem Lechfeld",
+      "value":"10. August 955 (Ungarnkriege)"
+    },
+    {
+      "name":"Schlacht von Tours und Poitiers",
+      "value":"18. oder 25. Oktober 732 (Islamische Expansion)"
+    },
+    {
+      "name":"Schlacht bei Tertry",
+      "value":"Juni 687"
+    },
+    {
+      "name":"Schlacht am Jarmuk",
+      "value":"vermutlich 20. August 636 (Islamische Expansion)"
+    },
+    {
+      "name":"Rabenschalcht von Ravenna",
+      "value":"493"
+    },
+    {
+      "name":"Schlacht auf den Katalaunischen Feldern",
+      "value":"451"
+    },
+    {
+      "name":"Schlacht von Adrianopel",
+      "value":"9. August 378"
+    },
+    {
+      "name":"Schlacht an der Milvischen Brücke",
+      "value":"312"
+    },
+    {
+      "name":"Schlacht an der Watling Street",
+      "value":"61 (Aufstand der Icener )"
+    },
+    {
+      "name":"Schlacht im Teuteburger Wald",
+      "value":"9"
+    },
+    {
+      "name":"Schlacht von Acttium",
+      "value":"31 v.d.Z. (Römischer Bürgerkrieg)"
+    },
+    {
+      "name":"Schlacht von Cannae",
+      "value":"216 v.d.Z. (Punische Kriege)"
+    },
+    {
+      "name":"Schlacht von Gaugamela",
+      "value":"331 v.d.Z. (Feldzug Alexander des Großen)"
+    },
+    {
+      "name":"Schlacht an den Thermopylen",
+      "value":"480 v.d.Z. (Perserkriege)"
+    },
+    {
+      "name":"Schlacht von Marathon",
+      "value":"490 v.d.Z. (Perserkriege)"
+    },
+    {
+      "name":"Schlacht von Kadesh",
+      "value":"1274 oder 1285 v.d.Z. (Ägyptisch-Hittitischer Krieg)"
+    },
+    {
+      "name":"Schlacht von Megiddo",
+      "value":"15. Jahrhundert v.d.Z."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "short":"Bundeslaender_GRUENE.json",
+  "name":"Bundesländer nach GRÜNEN-Wahlergebnis",
+  "subjects":["Politik"],
+  "description":"Sortieren Sie ie deutschen Bundesländer nach dem Wahlergebnis der GRÜNEN während der letzten Landtagswahl.",
+  "standard":"Thüringen (2019)",
+  "cut":false,
+  "things":[
+    {
+      "name":"Baden-Württemberg (2021)",
+      "value":"32,6%"
+    },
+    {
+      "name":"Hamburg (2020)",
+      "value":"24,2%"
+    },
+    {
+      "name":"Hessen (2018)",
+      "value":"19,8%"
+    },
+    {
+      "name":"Bayern (2018)",
+      "value":"17,6%"
+    },
+    {
+      "name":"Bremen (2019)",
+      "value":"17,4%"
+    },
+    {
+      "name":"Berlin (2016)",
+      "value":"15,2%"
+    },
+    {
+      "name":"Schleswig-Holstein (2017)",
+      "value":"12,9%"
+    },
+    {
+      "name":"Brandenburg (2019)",
+      "value":"10,8%"
+    },
+    {
+      "name":"Rheinland-Pfalz (2021)",
+      "value":"9,3%"
+    },
+    {
+      "name":"Niedersachsen (2017)",
+      "value":"8,7%"
+    },
+    {
+      "name":"Sachsen (2019)",
+      "value":"8,6%"
+    },
+    {
+      "name":"Nordrhein-Westfalen (2017)",
+      "value":"6,4%"
+    },
+    {
+      "name":"Sachsen-Anhalt (2021)",
+      "value":"5,9%"
+    },
+    {
+      "name":"Thüringen (2019)",
+      "value":"5,2%"
+    },
+    {
+      "name":"Mecklenburg-Vorpommern (2016)",
+      "value":"4,8%"
+    },
+    {
+      "name":"Saarland (2017)",
+      "value":"4%"
+    }
+  ]
+}

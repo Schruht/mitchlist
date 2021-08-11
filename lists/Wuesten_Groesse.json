@@ -1,0 +1,62 @@
+{
+  "short":"Wuesten_Groesse.json",
+  "name":"Wüsten nach Größe",
+  "subjects":["Geographie"],
+  "description":"Sortieren Sie diese Wüsten nach ihrer Fläche, beginnend mit der größten Wüste.",
+  "standard":"Kalahari",
+  "cut":true,
+  "things":[
+    {
+      "name":"Sahara",
+      "value":"9,200,000 km2"
+    },
+    {
+      "name":"Australische Wüste",
+      "value":"2,700,000 km2"
+    },
+    {
+      "name":"Arabische Wüste",
+      "value":"2,330,000 km2"
+    },
+    {
+      "name":"Wüste Gobi",
+      "value":"1,295,000 km2"
+    },
+    {
+      "name":"Kalahari",
+      "value":"900,000 km2"
+    },
+    {
+      "name":"Syrische Wüste",
+      "value":"500,000 km2"
+    },
+    {
+      "name":"Karakum",
+      "value":"350,000 km2"
+    },
+    {
+      "name":"Sonora",
+      "value":"260,000 km2"
+    },
+    {
+      "name":"Namib",
+      "value":"160,000 km2"
+    },
+    {
+      "name":"Atacama",
+      "value":"140,000 km2"
+    },
+    {
+      "name":"Mojave",
+      "value":"124,000 km2"
+    },
+    {
+      "name":"Sinai",
+      "value":"60,000 km2"
+    },
+    {
+      "name":"Negev",
+      "value":"13,000 km2"
+    }
+  ]
+}

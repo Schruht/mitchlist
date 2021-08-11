@@ -1,0 +1,130 @@
+{
+  "short":"StaedteSuedamerika_Groesse.json",
+  "name":"Südamerikanische Städte nach Größe",
+  "subjects":["Demographie"],
+  "description":"Sortieren Sie diese Südamerikanischen Städte nach ihrer Einwohnerzahl, beginnend mit der größten Stadt. [Stand 2015]",
+  "standard":"Caracas",
+  "cut":true,
+  "things":[
+    {
+      "name":"São Paulo",
+      "value":"22,4m"
+    },
+    {
+      "name":"Buenos Aires",
+      "value":"16,4m"
+    },
+    {
+      "name":"Rio de Janeiro",
+      "value":"13,2m"
+    },
+    {
+      "name":"Lima",
+      "value":"10,1m"
+    },
+    {
+      "name":"Bogotá",
+      "value":"9,6m"
+    },
+    {
+      "name":"Santiago de Chile",
+      "value":"7,25m"
+    },
+    {
+      "name":"Belo Horizonte",
+      "value":"5m"
+    },
+    {
+      "name":"Porto Alegre",
+      "value":"4,13m"
+    },
+    {
+      "name":"Medellín",
+      "value":"4,03m"
+    },
+    {
+      "name":"Brasília",
+      "value":"4m"
+    },
+    {
+      "name":"Recife",
+      "value":"3,85m"
+    },
+    {
+      "name":"Caracas",
+      "value":"3,75m"
+    },
+    {
+      "name":"Fortaleza",
+      "value":"3,68m"
+    },
+    {
+      "name":"Salvador da Bahia",
+      "value":"3,6m"
+    },
+    {
+      "name":"Guayaquil",
+      "value":"3,15m"
+    },
+    {
+      "name":"Cali",
+      "value":"2,88m"
+    },
+    {
+      "name":"Quito",
+      "value":"2,73m"
+    },
+    {
+      "name":"Maracaibo",
+      "value":"2,63m"
+    },
+    {
+      "name":"Asunción",
+      "value":"2,35m"
+    },
+    {
+      "name":"Manaus",
+      "value":"2,2m"
+    },
+    {
+      "name":"La Paz",
+      "value":"2,13m"
+    },
+    {
+      "name":"Valencia",
+      "value":"2m"
+    },
+    {
+      "name":"Montevideo",
+      "value":"1,86m"
+    },
+    {
+      "name":"Natal",
+      "value":"1,41m"
+    },
+    {
+      "name":"Cartagena",
+      "value":"1,13m"
+    },
+    {
+      "name":"Valparaiso",
+      "value":"1,02m"
+    },
+    {
+      "name":"Cusco",
+      "value":"446k"
+    },
+    {
+      "name":"Paramaribo",
+      "value":"366k"
+    },
+    {
+      "name":"Georgetown",
+      "value":"287k"
+    },
+    {
+      "name":"Sucre",
+      "value":"271k"
+    }
+  ]
+}

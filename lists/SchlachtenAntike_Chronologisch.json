@@ -1,0 +1,98 @@
+{
+  "short":"SchlachtenAntike_Chronologisch.json",
+  "name":"Antike Schlachten",
+  "subjects":["Geschichte","Antike"],
+  "description":"Sortieren Sie diese Schlachten der Antike in chronologischer Reihenfolge, beginnend mit der ältesten Schlacht.",
+  "standard":"Schlacht an den Thermopylen",
+  "cut":true,
+  "things":[
+    {
+      "name":"Schlacht an der Milvischen Brücke",
+      "value":"312"
+    },
+    {
+      "name":"Schlacht von Edessa",
+      "value":"260 (Römisch-Persische Kriege)"
+    },
+    {
+      "name":"Schlacht von Barbalissos",
+      "value":"252 (Römisch-Persische Kriege)"
+    },
+    {
+      "name":"Schlacht an der Watling Street",
+      "value":"61 (Aufstand der Icener )"
+    },
+    {
+      "name":"Schlacht im Teuteburger Wald",
+      "value":"9"
+    },
+    {
+      "name":"Schlacht von Acttium",
+      "value":"31 v.d.Z. (Römischer Bürgerkrieg)"
+    },
+    {
+      "name":"Schlacht von Carrhae",
+      "value":"51 v.d.Z."
+    },
+    {
+      "name":"Schlacht von Pydna",
+      "value":"168 v.d.Z."
+    },
+    {
+      "name":"Schlacht von Kynoskephalai",
+      "value":"197 v.d.Z. (2. Makedonisch-Römischer Krieg)"
+    },
+    {
+      "name":"Schlacht von Zama",
+      "value":"202 v.d.Z. (Punische Kriege)"
+    },
+    {
+      "name":"Schlacht von Cannae",
+      "value":"216 v.d.Z. (Punische Kriege)"
+    },
+    {
+      "name":"Schlacht am Trasimenischen See",
+      "value":"217 v.d.Z. (Punische Kriege)"
+    },
+    {
+      "name":"Schlacht von Heraclea",
+      "value":"280 v.d.Z. (Phyrrischer Krieg)"
+    },
+    {
+      "name":"Schlacht von Gaugamela",
+      "value":"331 v.d.Z. (Feldzug Alexander des Großen)"
+    },
+    {
+      "name":"Schlacht von Issos",
+      "value":"333 v.d.Z. (Feldzug Alexander des Großen)"
+    },
+    {
+      "name":"Battle vom Berg Algidus",
+      "value":"458 v.d.Z."
+    },
+    {
+      "name":"Schlacht von Plataea",
+      "value":"August 479 v.d.Z. (Perserkriege)"
+    },
+    {
+      "name":"Schlacht an den Thermopylen",
+      "value":"August 480 v.d.Z. (Perserkriege)"
+    },
+    {
+      "name":"Schlacht von Salamis",
+      "value":"September 480 v.d.Z. (Perserkriege)"
+    },
+    {
+      "name":"Schlacht von Marathon",
+      "value":"490 v.d.Z. (Perserkriege)"
+    },
+    {
+      "name":"Schlacht von Kadesh",
+      "value":"1274 oder 1285 v.d.Z. (Ägyptisch-Hittitischer Krieg)"
+    },
+    {
+      "name":"Schlacht von Megiddo",
+      "value":"15. Jahrhundert v.d.Z."
+    }
+  ]
+}
