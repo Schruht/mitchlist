@@ -1,0 +1,98 @@
+{
+  "short":"AntikeStaedteMittelmeer_Heute.json",
+  "name":"Wichtige Städte der Antike heute (Mittelmeerraum)",
+  "subjects":["Demographie","Antike"],
+  "description":"Sortieren Sie diese Städte aus dem Mittelmeerraum, die in der Antike bedeutend waren, nach ihrer heutigen Einwohnerzahl.",
+  "standard":"Athen",
+  "cut":true,
+  "things":[
+    {
+      "name":"Byzantion/Konstantinopel",
+      "value":"15.462.452"
+    },
+    {
+      "name":"Alexandria",
+      "value":"5.039.975"
+    },
+    {
+      "name":"Rom",
+      "value":"4.342.212"
+    },
+    {
+      "name":"Athen",
+      "value":"3.090.508"
+    },
+    {
+      "name":"Theben (Ägypten)/Luxor",
+      "value":"1.328.429"
+    },
+    {
+      "name":"Colonia Claudia Ara Agrippinensium/Köln",
+      "value":"1.083.498"
+    },
+    {
+      "name":"Jerusalem",
+      "value":"919.438"
+    },
+    {
+      "name":"Massillia",
+      "value":"868.277"
+    },
+    {
+      "name":"Thessaloniki",
+      "value":"824.676"
+    },
+    {
+      "name":"Sidon",
+      "value":"ca. 266.000"
+    },
+    {
+      "name":"Tripolis (Levante)",
+      "value":"227.857"
+    },
+    {
+      "name":"Tarent",
+      "value":"195.227"
+    },
+    {
+      "name":"Tyrus",
+      "value":"ca. 174.000"
+    },
+    {
+      "name":"Ravenna",
+      "value":"158.784"
+    },
+    {
+      "name":"Syrakus",
+      "value":"120.405"
+    },
+    {
+      "name":"Augusta Treverorum/Trier",
+      "value":"110.674"
+    },
+    {
+      "name":"Argos",
+      "value":"42.027"
+    },
+    {
+      "name":"Theben (Griechenland)",
+      "value":"38.132"
+    },
+    {
+      "name":"Korinth",
+      "value":"36.477"
+    },
+    {
+      "name":"Sparta",
+      "value":"35.259"
+    },
+    {
+      "name":"Jericho",
+      "value":"20.300"
+    },
+    {
+      "name":"Pella",
+      "value":"6.798"
+    }
+  ]
+}

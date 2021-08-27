@@ -1,0 +1,38 @@
+{
+  "short":"Schoepfung.json",
+  "name":"Die Sieben Tage der Schöpfung",
+  "subjects":["Theologie"],
+  "description":"Sortieren Sie die Ereignisse der biblischen Geschöpfunggeschichte, beginnend mit dem ersten Tag.",
+  "standard":"Ruhe",
+  "cut":false,
+  "things":[
+    {
+      "name":"Tag und Nacht",
+      "value":"1. Tag"
+    },
+    {
+      "name":"Firmament",
+      "value":"2. Tag"
+    },
+    {
+      "name":"Festland und Pflanzenwelt",
+      "value":"3. Tag"
+    },
+    {
+      "name":"Sonne, Mond und Sterne",
+      "value":"4. Tag"
+    },
+    {
+      "name":"Tiere des Wassers und der Luft",
+      "value":"5. Tag"
+    },
+    {
+      "name":"Landtiere und Menschen",
+      "value":"6. Tag"
+    },
+    {
+      "name":"Ruhe",
+      "value":"7. Tag"
+    }
+  ]
+}

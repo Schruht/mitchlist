@@ -1,0 +1,90 @@
+{
+  "short":"AntikeStaedte_Heute.json",
+  "name":"Wichtige Städte der Antike heute",
+  "subjects":["Demographie","Antike"],
+  "description":"Sortieren Sie diese Städte aus der ganzen Welt, die in der Antike bedeutend waren, nach ihrer heutigen Einwohnerzahl.",
+  "standard":"Athen",
+  "cut":true,
+  "things":[
+    {
+      "name":"Byzantion/Konstantinopel",
+      "value":"15.462.452"
+    },
+    {
+      "name":"Chang'an/Xi'an",
+      "value":"7.135.000"
+    },
+    {
+      "name":"Alexandria",
+      "value":"5.039.975"
+    },
+    {
+      "name":"Rom",
+      "value":"4.342.212"
+    },
+    {
+      "name":"Athen",
+      "value":"3.090.508"
+    },
+    {
+      "name":"Luoyang",
+      "value":"2.249.300"
+    },
+    {
+      "name":"Pataliputra",
+      "value":"2.046.652"
+    },
+    {
+      "name":"Peschawar",
+      "value":"1.970.042"
+    },
+    {
+      "name":"Theben (Ägypten)/Luxor",
+      "value":"1.328.429"
+    },
+    {
+      "name":"Colonia Claudia Ara Agrippinensium/Köln",
+      "value":"1.083.498"
+    },
+    {
+      "name":"Jerusalem",
+      "value":"919.438"
+    },
+    {
+      "name":"Thessaloniki",
+      "value":"824.676"
+    },
+    {
+      "name":"Samarkand",
+      "value":"ca. 507.570"
+    },
+    {
+      "name":"Sidon",
+      "value":"ca. 266.000"
+    },
+    {
+      "name":"Tarent",
+      "value":"195.227"
+    },
+    {
+      "name":"Tyrus",
+      "value":"ca. 174.000"
+    },
+    {
+      "name":"Syrakus",
+      "value":"120.405"
+    },
+    {
+      "name":"Anuradhapura",
+      "value":"50.595"
+    },
+    {
+      "name":"Korinth",
+      "value":"38.132"
+    },
+    {
+      "name":"Sparta",
+      "value":"35.259"
+    }
+  ]
+}

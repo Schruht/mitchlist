@@ -1,0 +1,50 @@
+{
+  "short":"BatmanSchauspieler_Chronologisch.json",
+  "name":"Batman-Darsteller",
+  "subjects":["Film & Fernsehen", "Chronologie"],
+  "description":"Sortieren Sie diese Schauspieler danach, wann sie zum ersten Mal Batman in Film und Fersehen darstellten, beginnend mit dem frühesten Darsteller.",
+  "standard":"Michael Keaton",
+  "cut":true,
+  "things":[
+    {
+      "name":"Adam West",
+      "value":"1966 (Batman)"
+    },
+    {
+      "name":"Michael Keaton",
+      "value":"1989 (Batman)"
+    },
+    {
+      "name":"Kevin Conroy (Stimme)",
+      "value":"1992 (Batman: The Animated Series)"
+    },
+    {
+      "name":"Val Kilmer",
+      "value":"1995 (Batman Forever)"
+    },
+    {
+      "name":"George Clooney",
+      "value":"1997 (Batman & Robin)"
+    },
+    {
+      "name":"Christian Bale",
+      "value":"2005 (Batman Begins)"
+    },
+    {
+      "name":"Will Arnett (Stimme)",
+      "value":"April 2014 (The Lego Movie)"
+    },
+    {
+      "name":"David Mazouz",
+      "value":"September 2014 (Gotham)"
+    },
+    {
+      "name":"Ben Affleck",
+      "value":"2016 (Batman v Superman: Dawn of Justice)"
+    },
+    {
+      "name":"Robert Pattinson",
+      "value":"2022 (The Batman)"
+    }
+  ]
+}

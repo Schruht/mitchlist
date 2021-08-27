@@ -1,0 +1,50 @@
+{
+  "short":"ZehnGebote.json",
+  "name":"Die Zehn Gebote",
+  "subjects":["Theologie"],
+  "description":"Sortieren Sie die Zehn Gebote nach der Reihenfolge in der sie in Exodus genannt werden.",
+  "standard":"Du sollst neben mir keine anderen Götter haben.",
+  "cut":false,
+  "things":[
+    {
+      "name":"Du sollst neben mir keine anderen Götter haben.",
+      "value":"1. Gebot"
+    },
+    {
+      "name":"Du sollst dir kein Gottesbild machen und keine Darstellung von irgendetwas am Himmel droben, auf der Erde unten oder im Wasser unter der Erde.",
+      "value":"2. Gebot"
+    },
+    {
+      "name":"Du sollst den Namen des Herrn, deines Gottes, nicht missbrauchen; denn der Herr lässt den nicht ungestraft, der seinen Namen missbraucht.",
+      "value":"3. Gebot"
+    },
+    {
+      "name":"„Gedenke des Sabbats: Halte ihn heilig! Sechs Tage darfst du schaffen und jede Arbeit tun. Der siebte Tag ist ein Ruhetag, dem Herrn, deinem Gott, geweiht.",
+      "value":"4. Gebot"
+    },
+    {
+      "name":"Ehre deinen Vater und deine Mutter, damit du lange lebst in dem Land, das der Herr, dein Gott, dir gibt.",
+      "value":"5. Gebot"
+    },
+    {
+      "name":"Du sollst nicht morden.",
+      "value":"6. Gebot"
+    },
+    {
+      "name":"Du sollst nicht die Ehe brechen.",
+      "value":"7. Gebot"
+    },
+    {
+      "name":"Du sollst nicht stehlen.",
+      "value":"8. Gebot"
+    },
+    {
+      "name":"Du sollst nicht falsch gegen deinen Nächsten aussagen.",
+      "value":"9. Gebot"
+    },
+    {
+      "name":"Du sollst nicht nach dem Haus deines Nächsten verlangen. Du sollst nicht nach der Frau deines Nächsten verlangen, nach seinem Sklaven oder seiner Sklavin, seinem Rind oder seinem Esel oder nach irgendetwas, das deinem Nächsten gehört.",
+      "value":"10. Gebot"
+    }
+  ]
+}

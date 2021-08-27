@@ -1,0 +1,90 @@
+{
+  "short":"Erdgeschichte.json",
+  "name":"Geologische Zeitalter",
+  "subjects":["Geologie","Paläontologie"],
+  "description":"Sortieren Sie diese geologischen Perioden der Erdgeschichte beginnend mit der Ältesten.",
+  "standard":"Trias (Triassic)",
+  "cut":false,
+  "things":[
+    {
+      "name":"Hadaikum (Hadean)",
+      "value":"4600 - 4000 Millionen Jahre"
+    },
+    {
+      "name":"Archaikum (Archean)",
+      "value":"4000 - 2500 Millionen Jahre"
+    },
+    {
+      "name":"Proterozoikum (Proterozoic)",
+      "value":"2500 - 540 Millionen Jahre"
+    },
+    {
+      "name":"Proterozoikum (Proterozoic)",
+      "value":"2500 - 540 Millionen Jahre"
+    },
+    {
+      "name":"Kambrium (Cambrian)",
+      "value":"540 - 485 Millionen Jahre"
+    },
+    {
+      "name":"Ordovizium (Ordovician)",
+      "value":"485 - 443 Millionen Jahre"
+    },
+    {
+      "name":"Silur (Silurian)",
+      "value":"443 - 419 Millionen Jahre"
+    },
+    {
+      "name":"Devon (Devonian)",
+      "value":"419 - 359 Millionen Jahre"
+    },
+    {
+      "name":"Karbon (Carboniferous)",
+      "value":"359 - 299 Millionen Jahre"
+    },
+    {
+      "name":"Perm (Permian)",
+      "value":"299 - 252 Millionen Jahre"
+    },
+    {
+      "name":"Trias (Triassic)",
+      "value":"299 - 201 Millionen Jahre"
+    },
+    {
+      "name":"Jura (Jurassic)",
+      "value":"201 - 145 Millionen Jahre"
+    },
+    {
+      "name":"Kreide (Cretaceous)",
+      "value":"145 - 66 Millionen Jahre"
+    },
+    {
+      "name":"Paläozän (Paleocene)",
+      "value":"66 - 56 Millionen Jahre"
+    },
+    {
+      "name":"Eozän (Eocene)",
+      "value":"56 - 34 Millionen Jahre"
+    },
+    {
+      "name":"Oligozän (Oligocene)",
+      "value":"34 - 23 Millionen Jahre"
+    },
+    {
+      "name":"Miozän (Miocene)",
+      "value":"23 - 5,3 Millionen Jahre"
+    },
+    {
+      "name":"Pliozän (Pliocene)",
+      "value":"5,3 - 2,588 Millionen Jahre"
+    },
+    {
+      "name":"Pleistozän (Pleistocene)",
+      "value":"2,588 Millionen - 11.700 Jahre"
+    },
+    {
+      "name":"Holozän (Holocene)",
+      "value":"11.700 Jahre - Jetzt"
+    }
+  ]
+}

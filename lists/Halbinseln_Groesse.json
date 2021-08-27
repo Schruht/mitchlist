@@ -1,0 +1,90 @@
+{
+  "short":"Halbinseln_Groesse.json",
+  "name":"Halbinseln nach Größe",
+  "subjects":["Geographie"],
+  "description":"Sortieren Sie diese Halbinseln nach ihrer Fläche, beginnend mit der größten Halbinsel.",
+  "standard":"Krim",
+  "cut":true,
+  "things":[
+    {
+      "name":"Arabien",
+      "value":"2.730.000 km²"
+    },
+    {
+      "name":"Arabien",
+      "value":"ca. 1.400.000 km²"
+    },
+    {
+      "name":"Skandinavische Halbinsel",
+      "value":"ca 750,000 km2.
+    },
+    {
+      "name":"Iberische Halbinsel",
+      "value":"583.254 km²"
+    },
+    {
+      "name":"Balkan Halbinsel",
+      "value":"466.877 km2"
+    },
+    {
+      "name":"Kap York",
+      "value":"288.804 km2"
+    },
+    {
+      "name":"Kamchatka",
+      "value":"270.000 km2"
+    },
+    {
+      "name":"Malaiische Halbinsel",
+      "value":"242.363 km2"
+    },
+    {
+      "name":"Korea",
+      "value":"223.155 km2"
+    },
+    {
+      "name":"Yucatán",
+      "value":"181.000 km2"
+    },
+    {
+      "name":"Baja California",
+      "value":"143.396 km²"
+    },
+    {
+      "name":"Appenin Halbinsel",
+      "value":"131.336 km²"
+    },
+    {
+      "name":"Sinai",
+      "value":"61.000 km²"
+    },
+    {
+      "name":"Brittanie",
+      "value":"34,023 km²"
+    },
+    {
+      "name":"Jutland",
+      "value":"29.775 km²"
+    },
+    {
+      "name":"Krim",
+      "value":"27.000 km²"
+    },
+    {
+      "name":"Peloponnes",
+      "value":"21.549 km2"
+    },
+    {
+      "name":"Wales",
+      "value":"20.779 km2"
+    },
+    {
+      "name":"Chalkidiki",
+      "value":"2.918 km2"
+    },
+    {
+      "name":"Cape Cod",
+      "value":"880 km2"
+    }
+  ]
+}

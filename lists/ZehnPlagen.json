@@ -1,0 +1,50 @@
+{
+  "short":"ZehnPlagen.json",
+  "name":"Die Zehn Plagen Ägyptens",
+  "subjects":["Theologie"],
+  "description":"Sortieren Sie die Zehn Plagen Ägyptens aus dem Alten Testament in der Reihenfolge, in der sie passieren.",
+  "standard":"Blut: Und alles Wasser im Strom wurde in Blut verwandelt.",
+  "cut":false,
+  "things":[
+    {
+      "name":"Blut: Und alles Wasser im Strom wurde in Blut verwandelt.",
+      "value":"1. Plage"
+    },
+    {
+      "name":"Frösche: Und Aaron streckte seine Hand aus über die Wasser in Ägypten, und es kamen Frösche herauf, so dass Ägyptenland bedeckt wurde.",
+      "value":"2. Plage"
+    },
+    {
+      "name":"Mücken: Und es kamen Mücken und setzten sich an die Menschen und an das Vieh; aller Staub der Erde ward zu Mücken in ganz Ägyptenland.",
+      "value":"3. Plage"
+    },
+    {
+      "name":"Ungeziefer: Und es kam viel Ungeziefer in das Haus des Pharao, in die Häuser seiner Großen und über ganz Ägyptenland, und das Land wurde verheert von dem Ungeziefer.",
+      "value":"4. Plage"
+    },
+    {
+      "name":"Viehpest: Da starb alles Vieh der Ägypter, aber von dem Vieh der Israeliten starb nicht eins.",
+      "value":"5. Plage"
+    },
+    {
+      "name":"Blattern/Geschwüre: Da brachen auf böse Blattern an den Menschen und am Vieh.",
+      "value":"6. Plage"
+    },
+    {
+      "name":"Hagel: Und der Herr ließ donnern und hageln und Feuer schoss auf die Erde nieder. So ließ der HERR Hagel fallen auf Ägyptenland, und Blitze zuckten dazwischen und der Hagel war so schwer, wie er noch nie in ganz Ägyptenland gewesen war.",
+      "value":"7. Plage"
+    },
+    {
+      "name":"Heuschrecken: Und der Herr trieb einen Ostwind ins Land, den ganzen Tag und die ganze Nacht. Und am Morgen führte der Ostwind die Heuschrecken herbei. Und sie kamen über ganz Ägyptenland und ließen sich nieder überall in Ägypten, so viele, wie nie zuvor gewesen sind noch hinfort sein werden.",
+      "value":"8. Plage"
+    },
+    {
+      "name":"Finsternis: Da ward eine so dicke Finsternis in ganz Ägyptenland drei Tage lang, dass niemand den andern sah noch weggehen konnte von dem Ort, wo er gerade war, drei Tage lang.",
+      "value":"9. Plage"
+    },
+    {
+      "name":"Tod aller Erstgeborenen: Und zur Mitternacht schlug der Herr alle Erstgeburt in Ägyptenland vom ersten Sohn des Pharao an, der auf seinem Thron saß, bis zum ersten Sohn des Gefangenen im Gefängnis und alle Erstgeburt des Viehs.",
+      "value":"10. Plage"
+    }
+  ]
+}
