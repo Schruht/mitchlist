@@ -1,0 +1,234 @@
+{
+  "short":"Laender_Katastrophenrisiko.json",
+  "name":"Länder nach Risiko einer Naturkatastrophe",
+  "subjects":["",""],
+  "description":"Sortieren Sie diese ausgewählten Länder nach der Risikoeinschätzung des Weltrisikoindexes. Der Index rechnet sowohl die Exposition gegenüber Naturkatastrophen als auch Verwundbarkeit der Gesellschaft einzelner Länder zusammen. Beginnend mit dem riskantesten Land. Ein hoher Wert stellt ein hohes Risiko dar, das riskansteste Land befindet sich auf Platz 1.",
+  "standard":"Italien",
+  "cut":true,
+  "things":[
+    {
+      "name":"Vanuatu",
+      "value":"47,73 (Platz 1)"
+    },
+    {
+      "name":"Salomonen",
+      "value":"31,16 (Platz 2)"
+    },
+    {
+      "name":"Antigua und Barbuda",
+      "value":"27,28 (Platz 5)"
+    },
+    {
+      "name":"Guyana",
+      "value":"21,83 (Platz 7)"
+    },
+    {
+      "name":"Philippinen",
+      "value":"21,39 (Platz 8)"
+    },
+    {
+      "name":"Kap Verde",
+      "value":"17,72 (Platz 11)"
+    },
+    {
+      "name":"Costa Rica",
+      "value":"17,06 (Platz 12)"
+    },
+    {
+      "name":"Bangladesch",
+      "value":"16,23 (Platz 13)"
+    },
+    {
+      "name":"Haiti",
+      "value":"14,54 (Platz 21)"
+    },
+    {
+      "name":"Nigeria",
+      "value":"12,66 (Platz 26)"
+    },
+    {
+      "name":"Uruguay",
+      "value":"12,53 (Platz 27)"
+    },
+    {
+      "name":"Jamaika",
+      "value":"12,02 (Platz 29)"
+    },
+    {
+      "name":"Chile",
+      "value":"11,32 (Platz 33)"
+    },
+    {
+      "name":"Mali",
+      "value":"10,71 (Platz 37)"
+    },
+    {
+      "name":"Indonesien",
+      "value":"10,67 (Platz 38)"
+    },
+    {
+      "name":"Madagaskar",
+      "value":"10,44 (Platz 39)"
+    },
+    {
+      "name":"Kenia",
+      "value":"10,33 (Platz 41)"
+    },
+    {
+      "name":"Vietnam",
+      "value":"10,27 (Platz 43)"
+    },
+    {
+      "name":"Japan",
+      "value":"9,66 (Platz 46)"
+    },
+    {
+      "name":"Mauritius",
+      "value":"9,04 (Platz 51)"
+    },
+    {
+      "name":"DR Kongo",
+      "value":"8,78 (Platz 56)"
+    },
+    {
+      "name":"Albanien",
+      "value":"8,23 (Platz 61)"
+    },
+    {
+      "name":"Afghanistan",
+      "value":"8,18 (Platz 63)"
+    },
+    {
+      "name":"Niederlande",
+      "value":"7,98 (Platz 66)"
+    },
+    {
+      "name":"Äthiopien",
+      "value":"7,93 (Platz 67)"
+    },
+    {
+      "name":"Sri Lanka",
+      "value":"7,55 (Platz 75)"
+    },
+    {
+      "name":"Kirgisistan und Myanmar (gleicher Wert)",
+      "value":"7,25 (Platz 79)"
+    },
+    {
+      "name":"Griechenland",
+      "value":"6,93 (Platz 82)"
+    },
+    {
+      "name":"Pakistan",
+      "value":"6,80 (Platz 85)"
+    },
+    {
+      "name":"Indien",
+      "value":"6,65 (Platz 90)"
+    },
+    {
+      "name":"Südafrika",
+      "value":"6,46 (Platz 93)"
+    },
+    {
+      "name":"Mexico",
+      "value":"6,03 (Platz 94)"
+    },
+    {
+      "name":"China",
+      "value":"5,87 (Platz 95)"
+    },
+    {
+      "name":"Türkei",
+      "value":"5,11 (Platz 113)"
+    },
+    {
+      "name":"Neuseeland",
+      "value":"4,96 (Platz 117)"
+    },
+    {
+      "name":"Italien",
+      "value":"4,74 (Platz 119)"
+    },
+    {
+      "name":"USA",
+      "value":"3,98 (Platz 133)"
+    },
+    {
+      "name":"Spanien",
+      "value":"3,62 (Platz 135)"
+    },
+    {
+      "name":"Rusland",
+      "value":"3,53 (Platz 137)"
+    },
+    {
+      "name":"Vereinigtes Königreich",
+      "value":"3,51 (Platz 140)"
+    },
+    {
+      "name":"Südkorea",
+      "value":"3,13 (Platz 148)"
+    },
+    {
+      "name":"Österreich",
+      "value":"3,06 (Platz 150)"
+    },
+    {
+      "name":"Norwegen",
+      "value":"2,87 (Platz 155)"
+    },
+    {
+      "name":"Kanada und Israel (gleicher Wert)",
+      "value":"2,81 (Platz 156)"
+    },
+    {
+      "name":"Belgien",
+      "value":"2,71 (Platz 160)"
+    },
+    {
+      "name":"Deutschland",
+      "value":"2,66 (Platz 161)"
+    },
+    {
+      "name":"Frankreich",
+      "value":"2,51 (Platz 166)"
+    },
+    {
+      "name":"Singapur",
+      "value":"2,50 (Platz 167)"
+    },
+    {
+      "name":"Schweden",
+      "value":"2,25 (Platz 168)"
+    },
+    {
+      "name":"Schweiz",
+      "value":"2,04 (Platz 170)"
+    },
+    {
+      "name":"Ägypten",
+      "value":"1,82 (Platz 173)"
+    },
+    {
+      "name":"Island",
+      "value":"1,71 (Platz 174)"
+    },
+    {
+      "name":"Malediven",
+      "value":"1,69 (Platz 175)"
+    },
+    {
+      "name":"Saudi Arabien",
+      "value":"0,94 (Platz 178)"
+    },
+    {
+      "name":"Malta",
+      "value":"0,69 (Platz 180)"
+    },
+    {
+      "name":"Katar",
+      "value":"0,30 (Platz 181)"
+    }
+  ]
+}

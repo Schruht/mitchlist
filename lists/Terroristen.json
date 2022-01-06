@@ -1,0 +1,47 @@
+{
+  "short":"Terroristen.json",
+  "name":"Aktivste Terrororganisationen",
+  "subjects":["Terrorismus"],
+  "description":"Sortieren Sie diese Terrororganisationen nach der Zahl ihrer Anschläge zwischen 2013 und 2017, beginnend mit der aktivsten Organisation",
+  "source":"https://www.worlddata.info/terrorism/groups.php",
+  "standard":"Al-Qaida",
+  "cut":true,
+  "things":[
+    {
+      "name":"Islamischer Staat (IS)",
+      "value":"5 665"
+    },
+    {
+      "name":"Taliban",
+      "value":"4 675"
+    },
+    {
+      "name":"Boko Haram",
+      "value":"1 634"
+    },
+    {
+      "name":"Al-Shabaab",
+      "value":"1 619"
+    },
+    {
+      "name":"Al-Qaida",
+      "value":"550"
+    },
+    {
+      "name":"Abu Sayyaf",
+      "value":"240"
+    },
+    {
+      "name":"Mayi Mayi",
+      "value":"40"
+    },
+    {
+      "name":"Haftar Miliz",
+      "value":"25"
+    },
+    {
+      "name":"Hezbollah",
+      "value":"12"
+    }
+  ]
+}

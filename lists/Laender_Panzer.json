@@ -1,0 +1,202 @@
+{
+  "short":"Laender_Panzer.json",
+  "name":"Länder nach Panzerzahl",
+  "subjects":["Militär","Politik"],
+  "description":"Sortieren Sie diese Länder nach der Zahl der Panzer, die ihr Militär unterhält.",
+  "standard":"Vereinigte Staaten",
+  "cut":true,
+  "things":[
+    {
+      "name":"Russland",
+      "value":"13.000 Panzer"
+    },
+    {
+      "name":"Nordkorea",
+      "value":"6.145 Panzer"
+    },
+    {
+      "name":"Vereinigte Staaten",
+      "value":"6.100 Panzer"
+    },
+    {
+      "name":"Indien",
+      "value":"4.730 Panzer"
+    },
+    {
+      "name":"Syrien",
+      "value":"3.740 Panzer"
+    },
+    {
+      "name":"Ägypten",
+      "value":"3.735 Panzer"
+    },
+    {
+      "name":"Iran",
+      "value":"3.709 Panzer"
+    },
+    {
+      "name":"Volksrepublik China",
+      "value":"3.205 Panzer"
+    },
+    {
+      "name":"Türkei",
+      "value":"3.045 Panzer"
+    },
+    {
+      "name":"Marokko",
+      "value":"3.033 Panzer"
+    },
+    {
+      "name":"Pakistan",
+      "value":"2.680 Panzer"
+    },
+    {
+      "name":"Südkorea",
+      "value":"2.600 Panzer"
+    },
+    {
+      "name":"Ukraine",
+      "value":"2.430 Panzer"
+    },
+    {
+      "name":"Vietnam",
+      "value":"2.155 Panzer"
+    },
+    {
+      "name":"Algerien",
+      "value":"2.024 Panzer"
+    },
+    {
+      "name":"Israel",
+      "value":"1.650 Panzer"
+    },
+    {
+      "name":"Jordanien",
+      "value":"1.401 Panzer"
+    },
+    {
+      "name":"Griechenland",
+      "value":"1.344 Panzer"
+    },
+    {
+      "name":"Kuba",
+      "value":"1.230 Panzer"
+    },
+    {
+      "name":"Taiwan",
+      "value":"1.160 Panzer"
+    },
+    {
+      "name":"Saudi Arabien",
+      "value":"1.062 Panzer"
+    },
+    {
+      "name":"Japan",
+      "value":"1.004 Panzer"
+    },
+    {
+      "name":"Polen",
+      "value":"863 Panzer"
+    },
+    {
+      "name":"Thailand",
+      "value":"850 Panzer"
+    },
+    {
+      "name":"Rumänien",
+      "value":"675 Panzer"
+    },
+    {
+      "name":"Kambodscha",
+      "value":"635 Panzer"
+    },
+    {
+      "name":"Belarus",
+      "value":"601 Panzer"
+    },
+    {
+      "name":"Myanmar",
+      "value":"595 Panzer"
+    },
+    {
+      "name":"Mongolei",
+      "value":"470 Panzer"
+    },
+    {
+      "name":"Brasilien",
+      "value":"439 Panzer"
+    },
+    {
+      "name":"Vereinigte Arabische Emirate",
+      "value":"434 Panzer"
+    },
+    {
+      "name":"Frankreich",
+      "value":"406 Panzer"
+    },
+    {
+      "name":"Spanien",
+      "value":"327 Panzer"
+    },
+    {
+      "name":"Bosnien und Herzegowina",
+      "value":"320 Panzer"
+    },
+    {
+      "name":"Iraq",
+      "value":"309 Panzer"
+    },
+    {
+      "name":"Deutschland",
+      "value":"244 Panzer"
+    },
+    {
+      "name":"Finland",
+      "value":"239 Panzer"
+    },
+    {
+      "name":"Sri Lanka",
+      "value":"212 Panzer"
+    },
+    {
+      "name":"Italien",
+      "value":"200 Panzer"
+    },
+    {
+      "name":"Singapur",
+      "value":"170 Panzer"
+    },
+    {
+      "name":"Schweiz",
+      "value":"134 Panzer"
+    },
+    {
+      "name":"Vereinigtes Königreich",
+      "value":"109 Panzer"
+    },
+    {
+      "name":"Kanada",
+      "value":"82 Panzer"
+    },
+    {
+      "name":"Österreich",
+      "value":"56 Panzer"
+    },
+    {
+      "name":"Niederlande",
+      "value":"18 Panzer"
+    },
+    {
+      "name":"Paraguay",
+      "value":"8 Panzer"
+    },
+    {
+      "name":"Zentralafrikanische Republik",
+      "value":"3 Panzer"
+    },
+    {
+      "name":"Mexiko",
+      "value":"Keine Panzer"
+    }
+  ]
+}

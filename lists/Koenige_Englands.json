@@ -1,0 +1,246 @@
+{
+  "short":"Koenige_Englands.json",
+  "name":"Monarchen Englands",
+  "subjects":["Geschichte","Chronologie"],
+  "description":"Sortieren Sie die Könige und Königinnen Englands & seit dem Act of Union Großbritanniens in chronologischer Reihenfolge, beginnend mit dem frühesten Monarchen. ",
+  "standard":"Richard the Lionheart [Richard Löwenherz]",
+  "cut":false,
+  "things":[
+    {
+      "name":"Alfred the Great [Alfred der Große]",
+      "value":"886-899"
+    },
+    {
+      "name":"Edward the Elder [Eduard der Ältere]",
+      "value":"899-924"
+    },
+    {
+      "name":"Æthelstan",
+      "value":"924-939"
+    },
+    {
+      "name":"Edmund I",
+      "value":"939 - 946"
+    },
+    {
+      "name":"Eadred",
+      "value":"946-955"
+    },
+    {
+      "name":"Eadwig",
+      "value":"955-959"
+    },
+    {
+      "name":"Edgar the Peaceable [Edgar der Friedfertige]",
+      "value":"959-975"
+    },
+    {
+      "name":"Edward the Martyr [Eduard der Märtyrer]",
+      "value":"975-978"
+    },
+    {
+      "name":"Æthelred the Unready [Æthelred der Unberatene]",
+      "value":"978-1016"
+    },
+    {
+      "name":"Edmund Ironside [Edmund Eisenseite]",
+      "value":"1016"
+    },
+    {
+      "name":"Cnut [Knut]",
+      "value":"1016-1035"
+    },
+    {
+      "name":"Harold Harefoot [Harald Hasenfuß]",
+      "value":"1035-1040"
+    },
+    {
+      "name":"Harthacnut [Hardiknut]",
+      "value":"1040-1042"
+    },
+    {
+      "name":"Edward the Confessor [Eduard der Bekenner]",
+      "value":"1042-1066"
+    },
+    {
+      "name":"Harold Godwinson",
+      "value":"1066"
+    },
+    {
+      "name":"William the Conqueror [Wilhelm der Eroberer]",
+      "value":"1066-1087"
+    },
+    {
+      "name":"William Rufus [Wilhelm Rufus]",
+      "value":"1087-1100"
+    },
+    {
+      "name":"Henry I [Heinrich I]",
+      "value":"1100-1135"
+    },
+    {
+      "name":"Stephen of Blois [Stephan]",
+      "value":"1135-1141"
+    },
+    {
+      "name":"Matilda",
+      "value":"1141"
+    },
+    {
+      "name":"Henry II [Heinrich II]",
+      "value":"1154-1189"
+    },
+    {
+      "name":"Richard the Lionheart [Richard Löwenherz]",
+      "value":"1189-1199"
+    },
+    {
+      "name":"John Lackland [Johann Ohneland]",
+      "value":"1199-1216"
+    },
+    {
+      "name":"Henry III [Heinrich III]",
+      "value":"1216-1272"
+    },
+    {
+      "name":"Edward I [Eduard I]",
+      "value":"1272-1307"
+    },
+    {
+      "name":"Edward II [Eduard II]",
+      "value":"1307-1327"
+    },
+    {
+      "name":"Edward III [Eduard III]",
+      "value":"1327-1377"
+    },
+    {
+      "name":"Richard II",
+      "value":"1377-1399"
+    },
+    {
+      "name":"Henry IV [Heinrich IV]",
+      "value":"1399-1413"
+    },
+    {
+      "name":"Henry V [Heinrich V]",
+      "value":"1413-1422"
+    },
+    {
+      "name":"Henry VI [Heinrich VI]",
+      "value":"1422-1461"
+    },
+    {
+      "name":"Edward IV [Eduard IV]",
+      "value":"1461-1483"
+    },
+    {
+      "name":"Edward V [Eduard V]",
+      "value":"1483"
+    },
+    {
+      "name":"Richard III",
+      "value":"1483-1485"
+    },
+    {
+      "name":"Henry VII Tudor [Heinrich VII]",
+      "value":"1485-1509"
+    },
+    {
+      "name":"Henry VIII [Heinrich VIII]",
+      "value":"1509-1547"
+    },
+    {
+      "name":"Edward VI [Eduard VI]",
+      "value":"1547-1553"
+    },
+    {
+      "name":"Mary I [Maria I]",
+      "value":"1553-1558"
+    },
+    {
+      "name":"Elizabeth I, The Virgin Queen",
+      "value":"1558-1603"
+    },
+    {
+      "name":"James I [Jakob I]",
+      "value":"1603-1625"
+    },
+    {
+      "name":"Charles I [Karl I]",
+      "value":"1625–1649"
+    },
+    {
+      "name":"Oliver Cromwell",
+      "value":"1649–1658"
+    },
+    {
+      "name":"Richard Cromwell",
+      "value":"1658–1659"
+    },
+    {
+      "name":"Charles II [Karl II]",
+      "value":"1660-1685"
+    },
+    {
+      "name":"James II [Jakob II]",
+      "value":"1685-1688"
+    },
+    {
+      "name":"Mary II [Maria II] & William III of Orange [Wilhelm III von Oranien]",
+      "value":"1689-1702 (Maria nur bis 1694)"
+    },
+    {
+      "name":"Anne",
+      "value":"1702-1714"
+    },
+    {
+      "name":"George I [Georg I]",
+      "value":"1714-1727"
+    },
+    {
+      "name":"George II [Georg II]",
+      "value":"1727-1760"
+    },
+    {
+      "name":"George III [Georg III]",
+      "value":"1760-1820"
+    },
+    {
+      "name":"George IV [Georg IV]",
+      "value":"1820-1830"
+    },
+    {
+      "name":"William IV [Wilhelm IV]",
+      "value":"1820-1830"
+    },
+    {
+      "name":"Victoria",
+      "value":"1837–1901"
+    },
+    {
+      "name":"Victoria",
+      "value":"1837–1901"
+    },
+    {
+      "name":"Edward VII [Eduard VII]",
+      "value":"1901–1910"
+    },
+    {
+      "name":"George V [Georg V]",
+      "value":"1910-1936"
+    },
+    {
+      "name":"Edward VIII [Eduard VIII]",
+      "value":"1936"
+    },
+    {
+      "name":"George VI [Georg VI]",
+      "value":"1936-1952"
+    },
+    {
+      "name":"Elisabeth II",
+      "value":"1952-jetzt"
+    }
+  ]
+}

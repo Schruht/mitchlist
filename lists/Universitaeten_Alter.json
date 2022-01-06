@@ -1,0 +1,195 @@
+{
+  "short":"Universitaeten_Alter.json",
+  "name":"Universitäten nach Alter",
+  "subjects":["Chronologie"],
+  "description":"Sortieren Sie diese Universitäten nach ihrem Alter, beginnend mit der ältesten Universität",
+  "standard":"Oxford",
+  "cut":true,
+  "things":[
+    {
+      "name":"Bologna",
+      "value":"1088"
+    },
+    {
+      "name":"Oxford",
+      "value":"ca. 1096"
+    },
+    {
+      "name":"Cambridge",
+      "value":"1209"
+    },
+    {
+      "name":"Salamanca",
+      "value":"1218"
+    },
+    {
+      "name":"Padua",
+      "value":"1222"
+    },
+    {
+      "name":"Sorbonne (Paris)",
+      "value":"1257"
+    },
+    {
+      "name":"Coimbra",
+      "value":"1290"
+    },
+    {
+      "name":"Sapienza (Rom)",
+      "value":"1303"
+    },
+    {
+      "name":"Perugia",
+      "value":"1308"
+    },
+    {
+      "name":"Karls-Universität (Prag)",
+      "value":"1347"
+    },
+    {
+      "name":"Pavia",
+      "value":"1361"
+    },
+    {
+      "name":"Wien",
+      "value":"1365"
+    },
+    {
+      "name":"Heidelberg",
+      "value":"1385"
+    },
+    {
+      "name":"Leipzig",
+      "value":"1409"
+    },
+    {
+      "name":"St. Andrews",
+      "value":"1413"
+    },
+    {
+      "name":"Barcelona",
+      "value":"1450"
+    },
+    {
+      "name":"Glasgow",
+      "value":"1451"
+    },
+    {
+      "name":"Ludwig-Maximilian Universität (München)",
+      "value":"1472"
+    },
+    {
+      "name":"Kopenhagen",
+      "value":"1475"
+    },
+    {
+      "name":"Valencia",
+      "value":"1500"
+    },
+    {
+      "name":"Universidad Nacional Mayor de San Marcos (Lima)",
+      "value":"1551"
+    },
+    {
+      "name":"Universidad Santo Tomás (Bogota, Kolumbien)",
+      "value":"1580"
+    },
+
+    {
+      "name":"Graz",
+      "value":"1585"
+    },
+    {
+      "name":"Cordoba (Argentinien)",
+      "value":"1613"
+    },
+    {
+      "name":"Budapest",
+      "value":"1635"
+    },
+    {
+      "name":"Harvard (in Cambridge nahe Boston)",
+      "value":"1636"
+    },
+    {
+      "name":"Universität des heiligen Thomas von Aquin (Manila)",
+      "value":"1645"
+    },
+    {
+      "name":"Yale (New Haven)",
+      "value":"1701"
+    },
+    {
+      "name":"St. Petersburg",
+      "value":"1724"
+    },
+    {
+      "name":"Havana",
+      "value":"1728"
+    },
+    {
+      "name":"Moskau",
+      "value":"1755"
+    },
+    {
+      "name":"Malta",
+      "value":"1769"
+    },
+    {
+      "name":"University of King's College (Halifax, Kanada)",
+      "value":"1802"
+    },
+    {
+      "name":"Humboldt Universität (Berlin)",
+      "value":"1802"
+    },
+    {
+      "name":"Ghent",
+      "value":"1817"
+    },
+    {
+      "name":"Bonn",
+      "value":"1818"
+    },
+    {
+      "name":"Zürich",
+      "value":"1833"
+    },
+    {
+      "name":"Sydney",
+      "value":"1850"
+    },
+    {
+      "name":"Kalkutta",
+      "value":"1857"
+    },
+    {
+      "name":"Massachusetts Institute of Technology",
+      "value":"1861"
+    },
+    {
+      "name":"Rangun",
+      "value":"1878"
+    },
+    {
+      "name":"Stanford",
+      "value":"1891"
+    },
+    {
+      "name":"Imperial College (London)",
+      "value":"1907"
+    },
+    {
+      "name":"Algier",
+      "value":"1909"
+    },
+    {
+      "name":"University of the Gold Coast (Accra)",
+      "value":"1948"
+    },
+    {
+      "name":"Heinrich-Heine-Universität (Düsseldorf)",
+      "value":"1965"
+    }
+  ]
+}
