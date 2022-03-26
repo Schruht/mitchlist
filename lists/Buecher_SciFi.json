@@ -1,0 +1,103 @@
+{
+  "short":"Buecher_SciFi.json",
+  "name":"Science Fiction Bücher",
+  "subjects":["Chronologie","Literatur"],
+  "description":"Sortieren Sie diese Bücher des Science Fiction Genres in Chronologischer Reihenfolge, beginnend mit dem frühesten Buch.",
+  "source":"",
+  "standard":"Die erste Folge von 'Star Trek' läuft in der NBC",
+  "cut":true,
+  "things":[
+    {
+      "name":"Mary Shelley veröffentlicht 'Frankenstein'",
+      "value":"1818"
+    },
+    {
+      "name":"Jules Verne veröffentlicht sein erstes Buch, 'Fünf Wochen im Ballon'",
+      "value":"1851"
+    },
+    {
+      "name":"Jules Verne veröffentlicht 'Von der Erde zum Mond'",
+      "value":"1865"
+    },
+    {
+      "name":"H.G. Wells veröffentlicht 'Die Zeitmaschine'",
+      "value":"1895"
+    },
+    {
+      "name":"H.G. Wells veröffentlicht 'Krieg der Welten'",
+      "value":"1898"
+    },
+    {
+      "name":"Edgar Rice Burroughs veröffentlicht 'Die Prinzessin vom Mars', den ersten Band der Abenteuer von John Carter",
+      "value":"1912"
+    },
+    {
+      "name":"Die erste Ausgabe des Magazins 'Amazing Stories' wird veröffentlicht",
+      "value":"1926"
+    },
+    {
+      "name":"Aldous Huxley veröffentlicht 'Brave New World'",
+      "value":"1932"
+    },
+    {
+      "name":"Isaac Asimov beginnt mit der veröffentlichung von Kurzgeschichten, die einmal die 'Foundation' Triologie werden",
+      "value":"1942"
+    },
+    {
+      "name":"George Orwell veröffentlicht '1984'",
+      "value":"1948"
+    },
+    {
+      "name":"Isaac Asimov veröffentlicht 'I, Robot'",
+      "value":"1950"
+    },
+    {
+      "name":"Ray Bradbury veröffentlicht 'Fahrenheit 451'",
+      "value":"1950"
+    },
+    {
+      "name":"Robert Heinlein veröffentlicht 'Starship Troopers'",
+      "value":"1959"
+    },
+    {
+      "name":"Stanisław Lem veröffentlicht 'Solaris'",
+      "value":"1961"
+    },
+    {
+      "name":"Anthony Burgess veröffentlicht 'A Clockwork Orange'",
+      "value":"1962"
+    },
+    {
+      "name":"Frank Herbert veröffentlicht 'Dune'",
+      "value":"1965"
+    },
+    {
+      "name":"Kurt Vonnegut veröffentlicht 'Slaughterhouse-Five'",
+      "value":"1969"
+    },
+    {
+      "name":"Ursula K. Leguin veröffentlicht The Lathe of Heaven",
+      "value":"1971"
+    },
+    {
+      "name":"'The Hitchhiker's Guide to the Galaxy' von Douglas Adams wird als Buch veröffentlicht",
+      "value":"1978"
+    },
+    {
+      "name":"William Gibson veröffentlicht die Kurzgeschichte 'The Gernsback Continuum'",
+      "value":"1981"
+    },
+    {
+      "name":"William Gibson veröffentlicht 'Neuromancer'",
+      "value":"1984"
+    },
+    {
+      "name":"Orson Scott veröffentlicht 'Ender's Game'",
+      "value":"1985"
+    },
+    {
+      "name":"Dan Simmons veröffentlicht 'Hyperion'",
+      "value":"1989"
+    }
+  ]
+}

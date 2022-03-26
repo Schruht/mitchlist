@@ -1,0 +1,107 @@
+{
+  "short":"Zoos_Artenreichtum.json",
+  "name":"Deutsche Zoos nach Artenreichtum",
+  "subjects":["Zoologie"],
+  "description":"Sortieren Sie diese deutschen Zoos nach der Zahl ihrer Arten, beginnend mit dem artenreichsten Zoo.",
+  "source":"https://www.zootierliste.de/?org=19",
+  "standard":"Kölner Zoo",
+  "cut":true,
+  "things":[
+    {
+      "name":"Zoologischer Garten Berlin",
+      "value":"1067 Arten"
+    },
+    {
+      "name":"Kölner Zoo",
+      "value":"816"
+    },
+    {
+      "name":"Wilhelma Stuttgart",
+      "value":"782"
+    },
+    {
+      "name":"Vogelpark Walsrode",
+      "value":"584"
+    },
+    {
+      "name":"Zoo Leipzig",
+      "value":"542"
+    },
+    {
+      "name":"Tiergarten Schönbrunn",
+      "value":"540"
+    },
+    {
+      "name":"Tierpark Hellabrunn (München)",
+      "value":"453"
+    },
+    {
+      "name":"Frankfurter Zoo (Main)",
+      "value":"418"
+    },
+    {
+      "name":"Tierpark Hagenbeck (Hamburg)",
+      "value":"395"
+    },
+    {
+      "name":"Zoo Duisburg",
+      "value":"348"
+    },
+    {
+      "name":"Zoo Rostock",
+      "value":"336"
+    },
+    {
+      "name":"Zoo Zürich",
+      "value":"308"
+    },
+    {
+      "name":"Zoo Osnabrück",
+      "value":"288"
+    },
+    {
+      "name":"Tiergarten Nürnberg",
+      "value":"277"
+    },
+    {
+      "name":"Allwetterzoo Münster",
+      "value":"268"
+    },
+    {
+      "name":"Zoologischer Garten Wuppertal",
+      "value":"257"
+    },
+    {
+      "name":"Tierpark und Fossilium Bochum",
+      "value":"233"
+    },
+    {
+      "name":"Sealife Oberhausen",
+      "value":"190"
+    },
+    {
+      "name":"Zoo Hanover",
+      "value":"176"
+    },
+    {
+      "name":"Zoo Krefeld",
+      "value":"143"
+    },
+    {
+      "name":"Zoom Erlebniswelt Gelsenkirchen",
+      "value":"112"
+    },
+    {
+      "name":"Eifelzoo",
+      "value":"99"
+    },
+    {
+      "name":"Gelände des Rassegeflügelzuchtvereins Wörth am Rhein",
+      "value":"72"
+    },
+    {
+      "name":"Wildpark Wadgassen-Differten",
+      "value":"14"
+    }
+  ]
+}

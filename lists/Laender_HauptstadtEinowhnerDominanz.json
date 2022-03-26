@@ -1,0 +1,135 @@
+{
+  "short":"Laender_HauptstadtEinowhnerDominanz.json",
+  "name":"Länder nach Einwohnerunterschied zwischen der Hauptstadt und der größten (anderen) Stadt",
+  "subjects":["Einwohner"],
+  "description":"Sortieren Sie diese Länder nach der DIfferenz der Einwohner ihrer Hauptstadt und der größten Stadt, die nicht die Hauptstadt ist. Beginnend mit dem Land in dem die Hauptstadt deutlich mehr Einwohner Hat als die nächst größte Stadt, über die Länd bei dem beide fast gleich groß sind bis hin zu dem Land in dem die Hauptstadt deutlich weniger Einwohner hat als die Größte Stadt.",
+  "source":"Wikipedia",
+  "standard":"Ägypten",
+  "cut":true,
+  "things":[
+    {
+      "name":"Mexiko",
+      "value":"16,5 Millionen (Mexiko Stadt [21 804 515] und Monterrey [5 341 171])"
+    },
+    {
+      "name":"D.R. Kongo",
+      "value":"9,5 Millionen (Kinshasa [11 587 000] und Lubumbashi [2 015 000])"
+    },
+    {
+      "name":"Peru",
+      "value":"8,7 Millionen (Lima [9 735 587] und Arequipa [1 008 029])"
+    },
+    {
+      "name":"Indonesien",
+      "value":"7,6 Millionen (Jakarta [10 562 088] und Surabaya [2 874 314])"
+    },
+    {
+      "name":"Russland",
+      "value":"7,1 Millionen (Moskau [12 381 000] und St. Petersburg [5 282 000])"
+    },
+    {
+      "name":"Südkorea",
+      "value":"6,4 Millionen (Seol [9 904 312] und Busan [3 448 737])"
+    },
+    {
+      "name":"Thailand",
+      "value":"5,4 Millionen (Bangkok [5 686 646] und Nonthaburi City [255 793])"
+    },
+    {
+      "name":"Ägypten",
+      "value":"4,1 Millionen (Kairo [9 153 135] und Alexandria [5 039 975])"
+    },
+    {
+      "name":"Kenia",
+      "value":"3,2 Millionen (Nairobi [4 397 073] und Mombasa [1 208 333])"
+    },
+    {
+      "name":"Saudi Arabien",
+      "value":"2,5 Millionen (Riyadh [6 506 700] und Jeddah [3 976 400])"
+    },
+    {
+      "name":"Deutschland",
+      "value":"1,8 Millionen (Berlin [3 644 826] und Hamburg [1 841 179])"
+    },
+    {
+      "name":"Algerien",
+      "value":"1,6 Millionen (Algiers [2 364 230] und Oran [803 329])"
+    },
+    {
+      "name":"Portugal",
+      "value":"1 Millionen (Lisabon [2 818 000] und Porto [1 758 531])"
+    },
+    {
+      "name":"Moldawien",
+      "value":"515 Tausend (Chisinau [644 204] und Tiraspol [129 500])"
+    },
+    {
+      "name":"Estland",
+      "value":"343 Tausend (Talinn [438 341] und Tartu [95 430])"
+    },
+    {
+      "name":"Belgien",
+      "value":"-344 Tausend (Brüssel [179 277] und Antwerpen [523 248])"
+    },
+    {
+      "name":"Kasachstan",
+      "value":"-707 Tausend (Nur-Sultan [743 014] und Almaty [1 450 095])"
+    },
+    {
+      "name":"Vietnam",
+      "value":"-939 Tausend (Hanoi [8 053 663] und Ho Chi Minh Stadt [8 993 082])"
+    },
+    {
+      "name":"Neuseeland",
+      "value":"-1,2 Millionen (Wellington [215 900] und Auckland [1 463 000])"
+    },
+    {
+      "name":"Vereinigte Arabische Emirate",
+      "value":"-1,4 Millionen (Abu Dhabi [896 751] und Dubai [2 262 000])"
+    },
+    {
+      "name":"Kanada",
+      "value":"-1,8 Millionen (Ottawa [1 017 449] und Toronto [2 794 356])"
+    },
+    {
+      "name":"Tanzania",
+      "value":"-2,1 Millionen (Dodoma [324 347] und Dar es Salaam [2 497 940])"
+    },
+    {
+      "name":"Marokko",
+      "value":"-3,5 Millionen (Rabat [627 000] und Casablanca [4 150 000])"
+    },
+    {
+      "name":"Myanmar",
+      "value":"-3,4 Millionen (Naypyidaw [925 000] und Rangun [4 346 000])"
+    },
+    {
+      "name":"Elfenbeinküste",
+      "value":"-4,1 Millionen (Yamoussoukro [200 659] und Abidjan [4 348 000])"
+    },
+    {
+      "name":"Australien",
+      "value":"-4,6 Millionen (Canberra [426 704] und Sydney [5 312 163])"
+    },
+    {
+      "name":"Nigeria",
+      "value":"-7,2 Millionen (Abuja [778 567] und Lagos [7 937 932])"
+    },
+    {
+      "name":"Vereinigte Staaten von Amerika",
+      "value":"-7,7 Millionen (Washington, D.C. [705,749] und New York City [8 398 748])"
+    },
+    {
+      "name":"Brasilien",
+      "value":"-9,21 Millionen (Brasilia [3 039 444] und São Paulo [12 252 023])"
+    },
+    {
+      "name":"Turkei",
+      "value":"-9,22 Millionen (Ankara [5 150 072] und Istanbul [14 377 018])"
+    },
+    {
+      "name":"Brasilien",
+      "value":"-13,8 Millionen (Islamabad [1,014,825] und Karachi [14 910 352])"
+    }
+  ]
+}

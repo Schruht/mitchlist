@@ -1,0 +1,239 @@
+{
+  "short":"Laender_HauptstadtProzent.json",
+  "name":"Länder nach Anteil der Bevölkeung in der Hauptstadt",
+  "subjects":["Länder","Bevölkerung"],
+  "description":"Sortieren Sie diese Länder nach dem Anteil der Bevölkerung der in der Hauptstadt lebt, beginnend mit dem Land mit dem größten Teil der Bevölkeung.",
+  "source":"https://en.wikipedia.org/wiki/List_of_national_capitals_by_population",
+  "standard":"Ungarn",
+  "cut":true,
+  "things":[
+    {
+      "name":"Vatikan",
+      "value":"100%"
+    },
+    {
+      "name":"Kuwait",
+      "value":"72.2% (Kuwait)"
+    },
+    {
+      "name":"Bahamas",
+      "value":"71.2% (Nassau)"
+    },
+    {
+      "name":"Dschibuti",
+      "value":"63.0% (Dschibuti)"
+    },
+    {
+      "name":"Mongolei",
+      "value":"46.2% (Ulaanbaatar)"
+    },
+    {
+      "name":"Qatar",
+      "value":"42.6% (Doha)"
+    },
+    {
+      "name":"Island",
+      "value":"39.6% (Reykjavik)"
+    },
+    {
+      "name":"Uruguay",
+      "value":"38.2% (Montevideo)"
+    },
+    {
+      "name":"Estland",
+      "value":"33.1% (Tallin)"
+    },
+    {
+      "name":"Peru",
+      "value":"27.7% (Lima)"
+    },
+    {
+      "name":"Oman",
+      "value":"26.8% (Muskat)"
+    },
+    {
+      "name":"Brunei",
+      "value":"23.5% (Bandar Seri Begawan)"
+    },
+    {
+      "name":"Aserbaidschan",
+      "value":"23.1% (Baku)"
+    },
+    {
+      "name":"Saudi Arabien",
+      "value":"22.8% (Riyadh)"
+    },
+    {
+      "name":"Österreich",
+      "value":"21.7% (Wien)"
+    },
+    {
+      "name":"Panama",
+      "value":"21.1% (Panama-Stadt)"
+    },
+    {
+      "name":"Kroatien",
+      "value":"19.5% (Zagreb)"
+    },
+    {
+      "name":"Kuba",
+      "value":"18.8% (Havanna)"
+    },
+    {
+      "name":"Ungarn",
+      "value":"17.8% (Budapest)"
+    },
+    {
+      "name":"Guatemala",
+      "value":"17% (Guatemala-Stadt)"
+    },
+    {
+      "name":"Ecuador",
+      "value":"16.4% (Quito)"
+    },
+    {
+      "name":"Lesotho",
+      "value":"15,7% (Maseru)"
+    },
+    {
+      "name":"Lichtenstein",
+      "value":"15.2% (Vaduz)"
+    },
+    {
+      "name":"D.R. Kongo",
+      "value":"15.1% (Kinshasa)"
+    },
+    {
+      "name":"Kolumbien",
+      "value":"14.5% (Bogota)"
+    },
+    {
+      "name":"Vereinigtes Königreich",
+      "value":"13,4% (London)"
+    },
+    {
+      "name":"Norwegen",
+      "value":"13.1% (Oslo)"
+    },
+    {
+      "name":"Tschechien",
+      "value":"12.5% (Prag)"
+    },
+    {
+      "name":"Thailand",
+      "value":"12.0% (Bangkok)"
+    },
+    {
+      "name":"Irland",
+      "value":"11.5% (Dublin)"
+    },
+    {
+      "name":"Dänemark",
+      "value":"11.1% (Kopenhagen)"
+    },
+    {
+      "name":"Japan",
+      "value":"10.9% (Tokio)"
+    },
+    {
+      "name":"Iran",
+      "value":"10.6% (Tehran)"
+    },
+    {
+      "name":"Vereinigte Arabische Emirate",
+      "value":"10.5% (Abu Dhabi)"
+    },
+    {
+      "name":"Iran",
+      "value":"10.6% (Tehran)"
+    },
+    {
+      "name":"Ägypten",
+      "value":"10.3% (Kairo)"
+    },
+    {
+      "name":"Schweden",
+      "value":"9.8% (Stockholm)"
+    },
+    {
+      "name":"Vietnam",
+      "value":"8.4% (Hanoi)"
+    },
+    {
+      "name":"Mexiko",
+      "value":"7.3% (Mexiko-Stadt)"
+    },
+    {
+      "name":"Spanien",
+      "value":"7.1% (Madrid)"
+    },
+    {
+      "name":"Argentinien",
+      "value":"6.5% (Buenos Aires)"
+    },
+    {
+      "name":"Griechenland",
+      "value":"6.3% (Athen)"
+    },
+    {
+      "name":"Chad",
+      "value":"5.9% (N'Djamena)"
+    },
+    {
+      "name":"Bangladesch",
+      "value":"5.5% (Dhaka)"
+    },
+    {
+      "name":"Portugal",
+      "value":"5% (Lisabon)"
+    },
+    {
+      "name":"Italien",
+      "value":"4.7% (Rom)"
+    },
+    {
+      "name":"Deutschland",
+      "value":"4.4% (Berlin)"
+    },
+    {
+      "name":"Indonesien",
+      "value":"3.9% (Jakarta)"
+    },
+    {
+      "name":"Frankreich",
+      "value":"3.3% (Paris)"
+    },
+    {
+      "name":"Kanada",
+      "value":"2.7% (Ottawa)"
+    },
+    {
+      "name":"Myanmar",
+      "value":"2.2% (Naypyidaw)"
+    },
+    {
+      "name":"Australien",
+      "value":"1.7% (Canberra)"
+    },
+    {
+      "name":"Belgien",
+      "value":"1.6% (Brüssel)"
+    },
+    {
+      "name":"Brasilien",
+      "value":"1.3% (Brasilia)"
+    },
+    {
+      "name":"Tanzania",
+      "value":"0.7% (Dodoma)"
+    },
+    {
+      "name":"Pakistan",
+      "value":"0.5% (Islamabad)"
+    },
+    {
+      "name":"Vereinigte Staaten von Amerika",
+      "value":"0.2% (Islamabad)"
+    }
+  ]
+}

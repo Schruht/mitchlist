@@ -1,0 +1,139 @@
+{
+  "short":"Wolkenkratzer_NewYork_Hoehe.json",
+  "name":"Wolkenkratzer in New York nach Höhe",
+  "subjects":["Architektur"],
+  "description":"Sortieren Sie diese ausgewählten Bauwerke in New York City nach ihrer Höhe, beginnend mit dem höchsten Gebäude.",
+  "source":"https://de.wikipedia.org/wiki/Liste_der_höchsten_Gebäude_in_New_York & https://www.emporis.de/",
+  "standard":"",
+  "cut":true,
+  "things":[
+    {
+      "name":"One World Trade Center",
+      "value":"541,3 m"
+    },
+    {
+      "name":"Central Park Tower",
+      "value":"472,4 m"
+    },
+    {
+      "name":"432 Park Avenue",
+      "value":"425,8 m"
+    },
+    {
+      "name":"Empire State Building",
+      "value":"381 m"
+    },
+    {
+      "name":"Bank of America Tower",
+      "value":"365,8 m"
+    },
+    {
+      "name":"53W53 (Tower Verre)",
+      "value":"320 m"
+    },
+    {
+      "name":"Chrysler Building",
+      "value":"318,8 m"
+    },
+    {
+      "name":"One57",
+      "value":"306,4 m"
+    },
+    {
+      "name":"70 Pine Street [ehemals American International Building]",
+      "value":"290,2 m"
+    },
+    {
+      "name":"40 Wall Street [ehemals Bank of Manhattan Building; auch Trump Building (nicht Trump Tower)]",
+      "value":"282,5 m"
+    },
+    {
+      "name":"Beekman Tower [8 Spruce Street]",
+      "value":"267 m"
+    },
+    {
+      "name":"Comcast Building",
+      "value":"259,1 m"
+    },
+    {
+      "name":"56 Leonard Street",
+      "value":"250,2 m"
+    },
+    {
+      "name":"CitySpire Center",
+      "value":"248,1 m"
+    },
+    {
+      "name":"Bloomberg Tower",
+      "value":"245,6 m"
+    },
+    {
+      "name":"Woolworth Building",
+      "value":"241,4 m"
+    },
+    {
+      "name":"Time Warner Center",
+      "value":"228,3 m"
+    },
+    {
+      "name":"Metropolitan Life Tower",
+      "value":"213,4 m"
+    },
+    {
+      "name":"Trump Tower",
+      "value":"202,4 m"
+    },
+    {
+      "name":"New York Life Insurance Building",
+      "value":"187,5 m"
+    },
+    {
+      "name":"Hauptquartier der Vereinten Nationen",
+      "value":"155.3 meters"
+    },
+    {
+      "name":"Park Row Building",
+      "value":"119 m"
+    },
+    {
+      "name":"St. Patrick's Cathedral",
+      "value":"100,5 m"
+    },
+    {
+      "name":"Freiheitsstaue [inklusive Sockel]",
+      "value":"93 m"
+    },
+    {
+      "name":"Flatiron Building",
+      "value":"91 m"
+    },
+    {
+      "name":"Brooklyn Bridge",
+      "value":"82.9 m"
+    },
+    {
+      "name":"The Plaza Hotel",
+      "value":"76.79 m"
+    },
+    {
+      "name":"55 Central Park West [Ghostbusters Building]",
+      "value":"ca. 68 m"
+    },
+    {
+      "name":"Carnegie Hall",
+      "value":"61,27 m"
+    },
+    {
+      "name":"Yankee Stadium",
+      "value":"37,49 m"
+    },
+    {
+      "name":"Solomon R. Guggenheim Museum",
+      "value":"ca. 23,81 m"
+    },
+    {
+      "name":"Grand Central Station",
+      "value":"ca. 17,01 m"
+    }
+  ]
+}

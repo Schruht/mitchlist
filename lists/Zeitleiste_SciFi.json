@@ -1,0 +1,175 @@
+{
+  "short":"Zeitleiste_SciFi.json",
+  "name":"Geschichte von Science Fiction",
+  "subjects":["Chronologie"],
+  "description":"Sortieren Sie diese Ereignisse der Geschichte des Science Fiction Genres in Chronologischer Reihenfolge, beginnend mit dem frühesten Ereigniss.",
+  "source":"",
+  "standard":"Die erste Folge von 'Star Trek' läuft in der NBC",
+  "cut":true,
+  "things":[
+    {
+      "name":"Mary Shelley veröffentlicht 'Frankenstein'",
+      "value":"1818"
+    },
+    {
+      "name":"Jules Verne veröffentlicht sein erstes Buch, 'Fünf Wochen im Ballon'",
+      "value":"1851"
+    },
+    {
+      "name":"Jules Verne veröffentlicht 'Von der Erde zum Mond'",
+      "value":"1865"
+    },
+    {
+      "name":"H.G. Wells veröffentlicht 'Die Zeitmaschine'",
+      "value":"1895"
+    },
+    {
+      "name":"H.G. Wells veröffentlicht 'Krieg der Welten'",
+      "value":"1898"
+    },
+    {
+      "name":"Edgar Rice Burroughs veröffentlicht 'Die Prinzessin vom Mars', den ersten Band der Abenteuer von John Carter",
+      "value":"1912"
+    },
+    {
+      "name":"Das Theremin wird erfunden",
+      "value":"1920"
+    },
+    {
+      "name":"Fritz Langs Film 'Metropolis' wird veröffentlicht",
+      "value":"1926"
+    },
+    {
+      "name":"Aldous Huxley veröffentlicht 'Brave New World'",
+      "value":"1932"
+    },
+    {
+      "name":"Die erste Ausgabe des Comics 'Flash Gordon' wird veröffentlicht",
+      "value":"7. Januar 1934"
+    },
+    {
+      "name":"'Krieg der Welten' wird von Orson Wells als Hörspiel adaptiert",
+      "value":"1938"
+    },
+    {
+      "name":"Isaac Asimov beginnt mit der veröffentlichung von Kurzgeschichten, die einmal die 'Foundation' Triologie werden",
+      "value":"1942"
+    },
+    {
+      "name":"Nikola Tesla stirbt",
+      "value":"1943"
+    },
+    {
+      "name":"George Orwell veröffentlicht '1984'",
+      "value":"1948"
+    },
+    {
+      "name":"Isaac Asimov veröffentlicht 'I, Robot'",
+      "value":"1950"
+    },
+    {
+      "name":"Ray Bradbury veröffentlicht 'Fahrenheit 451'",
+      "value":"1950"
+    },
+    {
+      "name":"Robert Heinlein veröffentlicht 'Starship Troopers'",
+      "value":"1959"
+    },
+    {
+      "name":"Die Zeitmaschine wird zu einem Film von George Pal mit Rod Taylor",
+      "value":"1960"
+    },
+    {
+      "name":"Stanisław Lem veröffentlicht 'Solaris'",
+      "value":"1961"
+    },
+    {
+      "name":"Anthony Burgess veröffentlicht 'A Clockwork Orange'",
+      "value":"1962"
+    },
+    {
+      "name":"Die erste Folge von 'Doctor Who' läuft in der BBC",
+      "value":"23. November 1963"
+    },
+    {
+      "name":"Frank Herbert veröffentlicht 'Dune'",
+      "value":"1965"
+    },
+    {
+      "name":"Die erste Folge von 'Star Trek' läuft in der NBC",
+      "value":"8. September 1966"
+    },
+    {
+      "name":"Stanley Kubricks '2001: A Space Odyssey' wird veröffentlicht",
+      "value":"2. April 1968"
+    },
+    {
+      "name":"Die Mondlandung",
+      "value":"20. Juli 1969"
+    },
+    {
+      "name":"Ursula K. Leguin veröffentlicht The Lathe of Heaven",
+      "value":"1971"
+    },
+    {
+      "name":"Steve Jobs, Steve Wozniak, und Ronald Wayne gründen Apple",
+      "value":"1976"
+    },
+    {
+      "name":"Das Radiodrama 'The Hitchhiker's Guide to the Galaxy' von Douglas Adams läuft zum ersten mal in der BBC (Im Jahr darauf wird es ein Buch)",
+      "value":"1978"
+    },
+    {
+      "name":"Ridley Scotts 'Alien' kommt in die Kinos",
+      "value":"1979"
+    },
+    {
+      "name":"William Gibson veröffentlicht die Kurzgeschichte 'The Gernsback Continuum'",
+      "value":"1981"
+    },
+    {
+      "name":"Steven Spielberg veröffentlicht den Film 'E.T.'",
+      "value":"1982"
+    },
+    {
+      "name":"'Terminator' mit Arnold Schwarzenegger kommt in die Kinos",
+      "value":"1984"
+    },
+    {
+      "name":"'Back to the Future' mit Michael J. Fox und Christopher Lloyd kommt in die Kinos",
+      "value":"3. July 1985"
+    },
+    {
+      "name":"'Star Trek - The Next Generations' kommt ins Fernsehen",
+      "value":"1987"
+    },
+    {
+      "name":"'Stargate' kommt in die Kinos",
+      "value":"1994"
+    },
+    {
+      "name":"Das erste geklonte Schaf, Dolly, wird geboren",
+      "value":"5. Juli 1996"
+    },
+    {
+      "name":"'Men in Black' mit Will Smith und Tommy Lee Jones kommt in die Kinos",
+      "value":"1997"
+    },
+    {
+      "name":"Matrix kommt in die Kinos",
+      "value":"1999"
+    },
+    {
+      "name":"'Minority Report' mit Tom Cruise kommt in die Kinos",
+      "value":"2002"
+    },
+    {
+      "name":"'Iron Man' mit Robert Downey Jr. kommt in die Kinos",
+      "value":"2008"
+    },
+    {
+      "name":"'Interstellar' kommt in die Kinos",
+      "value":"2014"
+    }
+  ]
+}

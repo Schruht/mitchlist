@@ -1,0 +1,47 @@
+{
+  "short":"Deutsche_Grenzen.json",
+  "name":"Deutsche Grenzen nach Länge",
+  "subjects":["Länder","Geographie"],
+  "description":"Sortieren Sie die Grenzen Deutschlands nach ihrer Länger, beginnend mit der längsten Grenze.",
+  "source":"https://en.wikipedia.org/wiki/List_of_countries_and_territories_by_land_borders",
+  "standard":"Frankreich",
+  "cut":false,
+  "things":[
+    {
+      "name":"Tschechien",
+      "value":"815 km"
+    },
+    {
+      "name":"Österreich",
+      "value":"784 km"
+    },
+    {
+      "name":"Niederlande",
+      "value":"577 km"
+    },
+    {
+      "name":"Polen",
+      "value":"456 km"
+    },
+    {
+      "name":"Frankreich",
+      "value":"451 km"
+    },
+    {
+      "name":"Schweiz",
+      "value":"334 km"
+    },
+    {
+      "name":"Belgien",
+      "value":"167 km"
+    },
+    {
+      "name":"Luxemburg",
+      "value":"138 km"
+    },
+    {
+      "name":"Belgien",
+      "value":"68 km"
+    }
+  ]
+}
