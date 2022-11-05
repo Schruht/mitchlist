@@ -1,0 +1,91 @@
+{
+  "short":"Bondsong_Performers.json",
+  "name":"Interpreten der James-Bond Titellieder in chronologischer Reihenfolge",
+  "subjects":["Film","Musik"],
+  "description":"Sortieren Sie die Interpreten der James-Bond Titellieder in chronologischer Reihenfolge, beginnend mit dem Interpreten des ersten Titelsongs. Nicht gezählt wird Shirley Bassey, die drei Songs performt hat und Komponist John Barry, der zwei mal alleinig die Titelmelodie performte.",
+  "source":"",
+  "standard":"Rita Coolidge",
+  "cut":true,
+  "things":[
+    {
+      "name":"Matt Monro",
+      "value":"1963 - From Russia with Love"
+    },
+    {
+      "name":"Tom Jones",
+      "value":"1965 - Thunderball"
+    },
+    {
+      "name":"Nancy Sinatra",
+      "value":"1967 - You Only Live Twice"
+    },
+    {
+      "name":"Paul McCartney & Wings",
+      "value":"1973 - Live and Let Die"
+    },
+    {
+      "name":"Lulu",
+      "value":"1974 - The Man with the Golden Gun"
+    },
+    {
+      "name":"Carly Simon",
+      "value":"1977 - Nobody Does It Better (The Spy Who Loved Me/Der Spion, der mich liebte)"
+    },
+    {
+      "name":"Sheena Easton",
+      "value":"1981 - For Your Eyes Only"
+    },
+    {
+      "name":"Rita Coolidge",
+      "value":"1983 - All Time High (Octopussy)"
+    },
+    {
+      "name":"Duran Duran",
+      "value":"1985 - A View to a Kill"
+    },
+    {
+      "name":"a-ha",
+      "value":"1987 - The Living Daylights"
+    },
+    {
+      "name":"Gladys Knight",
+      "value":"1989 - Licence to Kill"
+    },
+    {
+      "name":"Tina Turner",
+      "value":"1995 - GoldenEye"
+    },
+    {
+      "name":"Sheryl Crow",
+      "value":"1997 - Tomorrow Never Dies"
+    },
+    {
+      "name":"Garbage",
+      "value":"1999 - The World Is Not Enough"
+    },
+    {
+      "name":"Madonna",
+      "value":"2002 - Die Another Day"
+    },
+    {
+      "name":"Chris Cornell",
+      "value":"2006 - You Know My Name (Casino Royal)"
+    },
+    {
+      "name":"Alicia Keys & Jack White",
+      "value":"2008 - Another Way to Die (A Quantum of Solace/Ein Quantum Trost)"
+    },
+    {
+      "name":"Adele",
+      "value":"2012 - Skyfall"
+    },
+    {
+      "name":"Sam Smith",
+      "value":"2015 - Writings on the Wall (Spectre)"
+    },
+    {
+      "name":"Billie Eilish",
+      "value":"2020 - No Time to Die"
+    }
+  ]
+}

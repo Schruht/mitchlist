@@ -1,0 +1,47 @@
+{
+  "short":"UN-Generalsekretaere.json",
+  "name":"Chronologische Liste der UN-Generalsekretäre",
+  "subjects":["Politik"],
+  "description":"Sortieren Sie die Generalsekretäre der Vereinten Nationen in chronologischer Reihenfolge, beginnend mit dem ersten Generalsekretär.",
+  "source":"",
+  "standard":"Trygve Halvdan Lie",
+  "cut":false,
+  "things":[
+    {
+      "name":"Trygve Halvdan Lie",
+      "value":"1946-1952"
+    },
+    {
+      "name":"Dag Hammarskjöld",
+      "value":"1953-1961"
+    },
+    {
+      "name":"Sithu U Thant",
+      "value":"1961-1971"
+    },
+    {
+      "name":"Kurt Waldheim",
+      "value":"1972-1981"
+    },
+    {
+      "name":"Javier Pérez de Cuéllar",
+      "value":"1982-1991"
+    },
+    {
+      "name":"Boutros Boutros-Ghali",
+      "value":"1992-1996"
+    },
+    {
+      "name":"Kofi Annan",
+      "value":"1997-2006"
+    },
+    {
+      "name":"Ban Ki-moon",
+      "value":"2007-2016"
+    },
+    {
+      "name":"António Guterres",
+      "value":"2017-"
+    }
+  ]
+}

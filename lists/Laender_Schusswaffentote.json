@@ -1,0 +1,143 @@
+{
+  "short":"Laender_Schusswaffentote.json",
+  "name":"Liste der Länder nach Schusswaffentoten pro Jahr (absolut)",
+  "subjects":["",""],
+  "description":"Sortieren Sie diese Länder nach der absoluten Zahl an Schusswaffentoten im Jahr 2019",
+  "source":"https://worldpopulationreview.com/country-rankings/gun-deaths-by-country",
+  "standard":"Frankreich",
+  "cut":true,
+  "things":[
+    {
+      "name":"Brasilien",
+      "value":"46 215"
+    },
+    {
+      "name":"Vereinigte Staaten von Amerika",
+      "value":"40 175"
+    },
+    {
+      "name":"Venezuela",
+      "value":"14 036"
+    },
+    {
+      "name":"Mexico",
+      "value":"9 745"
+    },
+    {
+      "name":"Philippinen",
+      "value":"9 620"
+    },
+    {
+      "name":"Kolumbien",
+      "value":"9 387"
+    },
+    {
+      "name":"Guatemala",
+      "value":"5 993"
+    },
+    {
+      "name":"Honduras",
+      "value":"5 846"
+    },
+    {
+      "name":"Südafrika",
+      "value":"4 859"
+    },
+    {
+      "name":"Indien",
+      "value":"3 893"
+    },
+    {
+      "name":"Argentinien",
+      "value":"3 102"
+    },
+    {
+      "name":"El Salvador",
+      "value":"2 942"
+    },
+    {
+      "name":"Frankreich",
+      "value":"1 843"
+    },
+    {
+      "name":"Peru",
+      "value":"1 797"
+    },
+    {
+      "name":"Türkei",
+      "value":"1 626"
+    },
+    {
+      "name":"Jamaika",
+      "value":"905"
+    },
+    {
+      "name":"Deutschland",
+      "value":"826"
+    },
+    {
+      "name":"Italien",
+      "value":"793"
+    },
+    {
+      "name":"Kanada",
+      "value":"767"
+    },
+    {
+      "name":"Chile",
+      "value":"455"
+    },
+    {
+      "name":"Eswatini",
+      "value":"426"
+    },
+    {
+      "name":"Uruguay",
+      "value":"399"
+    },
+    {
+      "name":"Serbien",
+      "value":"306"
+    },
+    {
+      "name":"Spanien",
+      "value":"290"
+    },
+    {
+      "name":"Australien",
+      "value":"262"
+    },
+    {
+      "name":"Österreich",
+      "value":"259"
+    },
+    {
+      "name":"Finland",
+      "value":"180"
+    },
+    {
+      "name":"Vereinigtes Königreich",
+      "value":"155"
+    },
+    {
+      "name":"Niederlands",
+      "value":"99"
+    },
+    {
+      "name":"Japan",
+      "value":"76"
+    },
+    {
+      "name":"Südkorea",
+      "value":"41"
+    },
+    {
+      "name":"Rumänien",
+      "value":"27"
+    },
+    {
+      "name":"Luxemburg",
+      "value":"7"
+    }
+  ]
+}

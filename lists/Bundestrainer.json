@@ -1,0 +1,55 @@
+{
+  "short":"Bundestrainer.json",
+  "name":"Chronologische Liste der Fussball-Bundestrainer",
+  "subjects":["Sport"],
+  "description":"Sortieren Sie die Bundestrainer der DFB Fussball Herrenmanschaft in chronologischer Reihenfolge. (Vor 1945 Reichstrainer)",
+  "source":"",
+  "standard":"Joachim Löw",
+  "cut":true,
+  "things":[
+    {
+      "name":"Otto Nerz",
+      "value":"1926-1936"
+    },
+    {
+      "name":"Sepp Herberger",
+      "value":"1936-1964"
+    },
+    {
+      "name":"Helmut Schön",
+      "value":"1964-1978"
+    },
+    {
+      "name":"Jupp Derwall",
+      "value":"1978-1984"
+    },
+    {
+      "name":"Franz Beckenbauer",
+      "value":"1984-1990"
+    },
+    {
+      "name":"Berti Vogts",
+      "value":"1990-1998"
+    },
+    {
+      "name":"Erich Ribbeck",
+      "value":"1998-2000"
+    },
+    {
+      "name":"Rudi Völler",
+      "value":"2000-2004"
+    },
+    {
+      "name":"Jürgen Klinsmann",
+      "value":"2004-2006"
+    },
+    {
+      "name":"Joachim Löw",
+      "value":"2006-2021"
+    },
+    {
+      "name":"Hansi Flick",
+      "value":"2021-"
+    }
+  ]
+}

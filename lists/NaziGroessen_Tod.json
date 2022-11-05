@@ -1,0 +1,83 @@
+{
+  "short":"NaziGroessen_Tod.json",
+  "name":"Liste bekannter Nazi-Größen nach Todesdatum",
+  "subjects":["Geschichte"],
+  "description":"Sortieren Sie diese mit dem Nationalsozialismus assozierten Menschen nach ihrem Todesdatum, beginnend mit der zuerst gestorbenen Person.",
+  "source":"",
+  "standard":"Adolf Hitler",
+  "cut":true,
+  "things":[
+    {
+      "name":"Horst Wessel (Märtyrer der Bewegung; Verfasser des Horst-Wessel-Lieds)",
+      "value":"† 23. Februar 1930 (Ermordung durch Mitglieder der KPD)"
+    },
+    {
+      "name":"Ernst Röhm (Führer der Sturmabteilung)",
+      "value":"† 1. Juli 1934 (Ermordung unter dem Vorwand, er habe einen Putsch organisiert)"
+    },
+    {
+      "name":"Dr. Fritz Todt (Reichsminister für Bewaffnung und Munition)",
+      "value":"† 8. Februar 1942 (Flugzeugabsturz)"
+    },
+    {
+      "name":"Reinhard Heydrich (SS-Obergruppenführer)",
+      "value":"† 4. Juni 1942 (Folge eines Attentats durch tschechoslowakische Widerstandskämpfer)"
+    },
+    {
+      "name":"Erwin Rommel (Generalfeldmarschall; Befehlshaber des Deutschen Afrikakorps )",
+      "value":"† 14. Oktober 1944 (Suizid auf Anweisung Hitlers im Zusammenhang zum Attentat des 20. Juli 1944)"
+    },
+    {
+      "name":"Adolf Hitler",
+      "value":"† 30. April 1945 (Suizid in Berlin)"
+    },
+    {
+      "name":"Joseph Goebbels (Reichsminister für Volksaufklärung und Propaganda; Gauleiter Berlin)",
+      "value":"† 1. Mai 1945 (Suizid in Berlin)"
+    },
+    {
+      "name":"Martin Bormann (Leiter der Partei-Kanzlei der NSDAP)",
+      "value":"† 2. Mai 1945 (Suizid in Berlin, galt lange als verschollen)"
+    },
+    {
+      "name":"Heinrich Himmler (Reichsführer SS)",
+      "value":"† 23. Mai 1945 (Suizid in Lüneburg nach Gefangennahme durch die Britische Armee)"
+    },
+    {
+      "name":"Hermann Göring (Oberbefehlshaber der Luftwaffe; Reichstagspräsident)",
+      "value":"† 15. Oktober 1946 (Suizid nach Verurteilung in den Nürnberger Kriegsvebrecherprozessen)"
+    },
+    {
+      "name":"Joachim von Ribbentrop (Reichsminister des Äußeren)",
+      "value":"† 16. Oktober 1946 (Hinrichtung infolge der Nürnberger Kriegsvebrecherprozessen)"
+    },
+    {
+      "name":"Adolf Eichmann (Protokollführer der Wannseekonferenz; SS-Obersturmbannführer)",
+      "value":"† 1. Juni 1962 (Hinrichtung in Tel Aviv)"
+    },
+    {
+      "name":"Baldur von Schirach (Reichsjugendführer)",
+      "value":"† 8. August 1974"
+    },
+    {
+      "name":"Josef Mengele (Lagerarzt im KZ Auschwitz-Birkenau)",
+      "value":"† 7. Februar 1979 (Ertrinken in Folge eines Schlaganfalls in Brasilien)"
+    },
+    {
+      "name":"Karl Dönitz (Großadmiral; Nachfolger Hitlers nach dessen Suizid)",
+      "value":"† 24. Dezember 1980"
+    },
+    {
+      "name":"Albert Speer (Architekt; Reichsminister für Bewaffnung und Munition)",
+      "value":"† 1. September 1981 (Folge eines Schlaganfalls)"
+    },
+    {
+      "name":"Rudolf Heß (Reichsminister ohne Geschäftsbereich)",
+      "value":"† 17. August 1987 (Suizid im Kriegsverbrechergefängnis Spandau)"
+    },
+    {
+      "name":"Leni Riefenstahl (Filmregisseurin nationalsozialistischer Propagandafilme)",
+      "value":"† 8. September 2003 (kurz nach ihrem 101. Geburtstag in ihrem Haus in Pöcking)"
+    }
+  ]
+}

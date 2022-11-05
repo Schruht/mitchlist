@@ -1,0 +1,87 @@
+{
+  "short":"Kanzlerkandidaten.json",
+  "name":"Kanzlerkandidaten der BRD",
+  "subjects":["Politik","Geschichte"],
+  "description":"Sortieren Sie die beiden Kanzlerkandidaten von SPD und CDU seit gründung der BRD in der Reihenfolge, in der die Duelle stattfanden.",
+  "source":"",
+  "standard":"Angela Merkel gegen Gerhard Schröder",
+  "cut":false,
+  "things":[
+    {
+      "name":"Konrad Adenauer gegen Kurt Schumacher",
+      "value":"1949 (Sieg Adenauer)"
+    },
+    {
+      "name":"Konrad Adenauer gegen Erich Ollenhauer",
+      "value":"1953 und 1957 (Beide male Sieg Adenauer)"
+    },
+    {
+      "name":"Konrad Adenauer gegen Willy Brandt",
+      "value":"1961 (Sieg Adenauer)"
+    },
+    {
+      "name":"Ludwig Erhard gegen Willy Brandt",
+      "value":"1965 (Sieg Erhard)"
+    },
+    {
+      "name":"Kurt Georg Kiesinger gegen Willy Brandt",
+      "value":"1969 (Sieg Brandt)"
+    },
+    {
+      "name":"Rainer Barzel gegen Willy Brandt",
+      "value":"1972 (Sieg Brandt)"
+    },
+    {
+      "name":"Helmut Kohl gegen Helmut Schmidt",
+      "value":"1976 (Sieg Schmidt)"
+    },
+    {
+      "name":"Franz Josef Strauß gegen Helmut Schmidt",
+      "value":"1980 (Sieg Schmidt)"
+    },
+    {
+      "name":"Helmut Kohl gegen Hans-Jochen Vogel",
+      "value":"1983 (Sieg Kohl)"
+    },
+    {
+      "name":"Helmut Kohl gegen Johannes Rau",
+      "value":"1987 (Sieg Kohl)"
+    },
+    {
+      "name":"Helmut Kohl gegen Oskar Lafontaine",
+      "value":"1990 (Sieg Kohl)"
+    },
+    {
+      "name":"Helmut Kohl gegen Rudolf Scharping",
+      "value":"1994 (Sieg Kohl)"
+    },
+    {
+      "name":"Helmut Kohl gegen Gerhard Schröder",
+      "value":"1998 (Sieg Schröder)"
+    },
+    {
+      "name":"Edmund Stoiber gegen Gerhard Schröder",
+      "value":"2002 (Sieg Schröder)"
+    },
+    {
+      "name":"Angela Merkel gegen Gerhard Schröder",
+      "value":"2005 (Sieg Merkel)"
+    },
+    {
+      "name":"Angela Merkel gegen Frank-Walter Steinmeier",
+      "value":"2009 (Sieg Merkel)"
+    },
+    {
+      "name":"Angela Merkel gegen Peer Steinbrück",
+      "value":"2013 (Sieg Merkel)"
+    },
+    {
+      "name":"Angela Merkel gegen Martin Schulz",
+      "value":"2017 (Sieg Merkel)"
+    },
+    {
+      "name":"Armin Laschet gegen Olaf Scholz",
+      "value":"2021 (Sieg Scholz)"
+    }
+  ]
+}
