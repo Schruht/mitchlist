@@ -8,51 +8,51 @@
   "things":[
     {
       "name":"Deutschland (inklusive DDR)",
-      "value":"408 Medaillen"
+      "value":"434 Medaillen"
     },
     {
       "name":"Norwegen",
-      "value":"368 Medaillen"
+      "value":"405 Medaillen"
     },
     {
       "name":"USA",
-      "value":"305 Medaillen"
+      "value":"330 Medaillen"
     },
     {
       "name":"Österreich",
-      "value":"232 Medaillen"
-    },
-    {
-      "name":"Sowjetunion",
-      "value":"217 Medaillen"
+      "value":"250 Medaillen"
     },
     {
       "name":"Kanada",
-      "value":"199 Medaillen"
+      "value":"225 Medaillen"
     },
     {
-      "name":"Finland",
-      "value":"167 Medaillen"
+      "name":"Sowjetunion",
+      "value":"194 Medaillen"
     },
     {
       "name":"Schweden",
-      "value":"158 Medaillen"
+      "value":"176 Medaillen"
+    },
+    {
+      "name":"Finland",
+      "value":"175 Medaillen"
     },
     {
       "name":"Schweiz",
-      "value":"152 Medaillen"
-    },
-    {
-      "name":"Russland",
-      "value":"138 Medaillen"
+      "value":"168 Medaillen"
     },
     {
       "name":"Niederlande",
-      "value":"130 Medaillen"
+      "value":"147 Medaillen"
     },
     {
       "name":"Italien",
-      "value":"124 Medaillen"
+      "value":"141 Medaillen"
+    },
+    {
+      "name":"Russland",
+      "value":"121 Medaillen"
     },
     {
       "name":"DDR",
@@ -60,31 +60,32 @@
     },
     {
       "name":"Südkorea",
-      "value":"70 Medaillen"
+      "value":"79 Medaillen"
     },
+
     {
       "name":"Volksrepublik China",
-      "value":"62 Medaillen"
+      "value":"77 Medaillen"
     },
     {
       "name":"Japan",
-      "value":"58 Medaillen"
+      "value":"76 Medaillen"
     },
     {
       "name":"Großbritannien",
-      "value":"32 Medaillen"
+      "value":"34 Medaillen"
     },
     {
       "name":"Polen",
-      "value":"22 Medaillen"
+      "value":"23 Medaillen"
     },
     {
       "name":"Weißrussland",
-      "value":"18 Medaillen"
+      "value":"20 Medaillen"
     },
     {
       "name":"Australien",
-      "value":"15 Medaillen"
+      "value":"19 Medaillen"
     },
     {
       "name":"Kroatien",
@@ -95,7 +96,7 @@
       "value":"10 Medaillen"
     },
     {
-      "name":"Lettland",
+      "name":"Ukraine",
       "value":"9 Medaillen"
     },
     {
@@ -103,12 +104,12 @@
       "value":"8 Medaillen"
     },
     {
-      "name":"Belgien",
+      "name":"Bulgarien",
       "value":"6 Medaillen"
     },
     {
       "name":"Spanien",
-      "value":"4 Medaillen"
+      "value":"5 Medaillen"
     },
     {
       "name":"Luxemburg",

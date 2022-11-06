@@ -1,0 +1,66 @@
+{
+  "short":"OePolitiker_Twitter",
+  "name":"Deutsche Politiker nach Twitter Followern",
+  "subjects":["Politik","Netzkultur"],
+  "description":"Sortieren Sie diese Österreichischen Politiker nach der Zahl ihrer Follower auf Twitter, beginnend mit den meisten. Gibt es mehrere Account, wird der mit den meisten Followern gezählt. [Stand: 06.11.2022]",
+  "standard":"@karlnehammer - Karl Nehammer (ÖVP)",
+  "cut":true,
+  "things":[
+    {
+      "name":"@sebastiankurz - Sebastian Kurz (ÖVP)",
+      "value":"ca. 477 Tausend"
+    },
+    {
+      "name":"@vanderbellen - Alexander van der Bellen (GRÜNE)",
+      "value":"ca. 293 Tausend"
+    },
+    {
+      "name":"@KernChri - Christian Kern (SPÖ)",
+      "value":"ca. 144 Tausend"
+    },
+    {
+      "name":"@WKogler - Werner Kogler (GRÜNE)",
+      "value":"ca. 84 Tausend"
+    },
+    {
+      "name":"@BMeinl - Beate Meinl-Reisinger (Neos)",
+      "value":"ca. 72 Tausend"
+    },
+    {
+      "name":"@rendiwagner - Pamela Rendi-Wagner (SPÖ)",
+      "value":"ca. 68 Tausend"
+    },
+    {
+      "name":"@karlnehammer - Karl Nehammer (ÖVP)",
+      "value":"ca. 65 Tausend"
+    },
+    {
+      "name":"@marcopogo666 - Dominik Wlazny/Marco Pogo (BIER)",
+      "value":"ca. 62 Tausend"
+    },
+    {
+      "name":"@Alma_Zadic - Alma Zadic (GRÜNE)",
+      "value":"ca. 55 Tausend"
+    },
+    {
+      "name":"@BgmLudwig - Michael Ludwig (SPÖ)",
+      "value":"ca. 47 Tausend"
+    },
+    {
+      "name":"@norbertghofer - Norbert Hofer (FPÖ)",
+      "value":"ca. 31 Tausend"
+    },
+    {
+      "name":"@a_schallenberg - Alexander Schallenberg (ÖVP)",
+      "value":"ca. 22 Tausend"
+    },
+    {
+      "name":"@hafi1980 - Christian Hafenecker (FPÖ)",
+      "value":"ca. 8 Tausend"
+    },
+    {
+      "name":"@magnusbrunner - Magnus Brunner (ÖVP)",
+      "value":"ca. 4 Tausend"
+    }
+  ]
+}

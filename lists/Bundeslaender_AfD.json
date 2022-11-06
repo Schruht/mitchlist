@@ -23,16 +23,16 @@
       "value":"20,82%"
     },
     {
-      "name":"Mecklenburg-Vorpommern (2016)",
-      "value":"20,81%"
-    },
-    {
-      "name":"Berlin (2016)",
-      "value":"14,2%"
+      "name":"Mecklenburg-Vorpommern (2021)",
+      "value":"16,7%"
     },
     {
       "name":"Hessen (2018)",
       "value":"13,1%"
+    },
+    {
+      "name":"Niedersachsen (2022)",
+      "value":"10,9%"
     },
     {
       "name":"Bayern (2018)",
@@ -47,28 +47,28 @@
       "value":"8,3%"
     },
     {
-      "name":"Nordrhein-Westfalen (2017)",
-      "value":"7,4%"
-    },
-    {
-      "name":"Saarland (2017)",
-      "value":"6,17%"
-    },
-    {
-      "name":"Niedersachsen (2017)",
-      "value":"6,16%"
+      "name":"Berlin (2021)",
+      "value":"8%"
     },
     {
       "name":"Bremen (2019)",
       "value":"6,1%"
     },
     {
-      "name":"Schleswig-Holstein (2017)",
-      "value":"5,9%"
+      "name":"Saarland (2022)",
+      "value":"5,7%"
+    },
+    {
+      "name":"Nordrhein-Westfalen (2022)",
+      "value":"5,4%"
     },
     {
       "name":"Hamburg (2020)",
       "value":"5,3%"
+    },
+    {
+      "name":"Schleswig-Holstein (2022)",
+      "value":"4,4%"
     }
   ]
 }
