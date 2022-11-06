@@ -1,0 +1,95 @@
+{
+  "short":"Zeitleiste_Zukunft.json",
+  "name":"Zeitleiste der Zukunft",
+  "subjects":[],
+  "description":"Sortieren Sie dieseö Ereignisse, die in der Zukunft passieren sollen, beginnend mit dem frühendsten Ereignis.",
+  "source":"",
+  "standard":"Nach Plan des US-Präsidenten Joe Biden werden die USA Klimaneutral",
+  "cut":true,
+  "things":[
+    {
+      "name":"Nusantra wird die neue Hauptstadt Indonesiens",
+      "value":"17.08.2024"
+    },
+    {
+      "name":"Deutschland wählt einen neuen Bundestag",
+      "value":"26.10.2025"
+    },
+    {
+      "name":"Der Autopsybericht von Elvis Presley wird der Öffentlichkeit zugänglich gemacht, ebenso wie die Akten des FBI zu Martin Luther King Jr.",
+      "value":"2027"
+    },
+    {
+      "name":"Die Afrikanische Währungsunion wird eingeführt",
+      "value":"2028"
+    },
+    {
+      "name":"Die Haftstrafe des für den Mord an George Floyd verantwortlichen Polizisten Derek Chauvin läuft ab",
+      "value":"10.12.2035"
+    },
+    {
+      "name":"Vorraussichtliche Veröffentlichung der 3. überarbeiteten Auflage des Oxford-Dictionary",
+      "value":"2037"
+    },
+    {
+      "name":"Der Treibstoff des James-Webb-Weltraumteleskop ist aufgebraucht",
+      "value":"2041"
+    },
+    {
+      "name":"Deutschland muss nach Gesetz klimaneutral sein",
+      "value":"2045"
+    },
+    {
+      "name":"Das 'Ein Land, zwei Systeme'-Abkommen zwischen Hong Kong und China läuft ab",
+      "value":"1.Juli.2047"
+    },
+    {
+      "name":"Nach Plan des US-Präsidenten Joe Biden werden die USA Klimaneutral",
+      "value":"2050"
+    },
+    {
+      "name":"Nach Plan der chinesischen Regierung wird China Klimaneutral",
+      "value":"2060"
+    },
+    {
+      "name":"Der Halleysche Komet ist auf der Erde erneut sichtbar",
+      "value":"2061"
+    },
+    {
+      "name":"Nach Plan der indischen Regierung wird Indien Klimaneutral",
+      "value":"2070"
+    },
+    {
+      "name":"Vorzeichenlose (unsigned) 16-bit Daten die mit dem 01. Januar 1900 beginnen erreichen ihr Datenlimit",
+      "value":"6 Juni 2079"
+    },
+    {
+      "name":"Die Pachtung des Hambantota International Port in Sri Lanka läuft aus",
+      "value":"2116"
+    },
+    {
+      "name":"Vorraussichtlich sind alle Bitcoins gemined",
+      "value":"2140"
+    },
+    {
+      "name":"Die Uraufführung von ORGAN²/ASLSP, einem Musikstück für Orgel von John Cage, dass so langsam wie möglich gespielt werden soll, endet",
+      "value":"5. September 2640"
+    },
+    {
+      "name":"Das Level nuklearer Strahlung in der Sperrzone von Tschernobyl erreicht ein normales Level",
+      "value":"26000 "
+    },
+    {
+      "name":"Die Maximale Systemzeit von JavaScript wird erreicht",
+      "value":"13. September 275760"
+    },
+    {
+      "name":"Die Sonne explodiert",
+      "value":"In 1.7×10¹⁰⁶ Jahren"
+    },
+    {
+      "name":"Hitzetod des Universums",
+      "value":"In 1.7×10¹⁰⁶ Jahren"
+    }
+  ]
+}
