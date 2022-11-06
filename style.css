@@ -182,8 +182,3 @@ body {
     color: #FFFFFF;
     font-size: 17px;
 }
-
-.draggable:active {
-    background-color: red;
-    opacity: 1;
-}
