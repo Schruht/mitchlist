@@ -1,0 +1,249 @@
+<html>
+
+<head>
+    <title></title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="title-bar">
+        <span class="title" id="title">Mitchlist</span>
+    </div>
+    <div class="game">
+        <div class="movie-card">
+            <div class="score-counter" id="score-counter"></div>
+            <div class="movie-title" id="movie-title"></div>
+            <div class="movie-description" id="movie-description"></div>
+            <div class="movie-splash" id="movie-splash"></div>
+        </div>
+        <div class="sorted-character-list insertable-list" id="character-list">
+
+        </div>
+        <div class="character-pool" id="unsorted-pool">
+        </div>
+    </div>
+    <script>
+        function allowDrop(event) {
+            event.preventDefault()
+        }
+
+        function dragEnterInsertionBox(event) {
+            event.target.classList.add('insertion-box-extended')
+        }
+
+        function dragLeaveInsertionBox(event) {
+            event.target.classList.remove('insertion-box-extended')
+        }
+
+        function dropOnInsertionHandler(event, index) {
+            const characterId = event.dataTransfer.getData('charId')
+            const poolIndex = event.dataTransfer.getData('poolIndex')
+
+            const character = gameList[characterId]
+
+            sortedListData.splice(index, 0, {
+                id: characterId,
+                itemName: character.name,
+                itemValue: character.value,
+                correct: false
+            })
+
+            var correctUp = true
+
+            for (let i = index - 1; i >= 0; i--) {
+                if (sortedListData[i].correct && +(sortedListData[i].id) > +characterId) {
+                    correctUp = false
+                }
+            }
+
+            var correctDown = true
+
+            for (let i = index + 1; i < sortedListData.length; i++) {
+                if (sortedListData[i].correct && +(sortedListData[i].id) < +characterId) {
+                    correctDown = false
+                }
+            }
+
+            sortedListData[index].correct = correctUp && correctDown
+
+            if (correctUp && correctDown) {
+                incrementScore(1)
+            }
+
+            unsortedPool.splice(poolIndex, 1)
+
+            saveState[selectedDay].unsortedPool = unsortedPool
+            saveState[selectedDay].sortedListData = sortedListData
+
+            localStorage.setItem('saveState', JSON.stringify(saveState))
+
+            renderList(sortedListData)
+            renderPool(unsortedPool)
+        }
+
+        function mmssToSeconds(string) {
+            const array = string.split(':')
+            const minutes = +array[0]
+            const seconds = +array[1]
+            return 60 * minutes + seconds
+        }
+
+        function shuffle(array) {
+            for (var i = array.length - 1; i > 0; i--) {
+                var j = Math.floor(Math.random() * (i + 1));
+                var temp = array[i];
+                array[i] = array[j];
+                array[j] = temp;
+            }
+        }
+
+        function startDraggingCharacter(event, characterId, index) {
+            event.dataTransfer.setData('charId', characterId)
+            event.dataTransfer.setData('poolIndex', index)
+        }
+
+        function incrementScore(amount) {
+            score += amount
+            document.getElementById('score-counter').innerHTML = score
+            saveState[selectedDay].score += amount;
+            localStorage.setItem('saveState', JSON.stringify(saveState))
+        }
+
+        function renderList(list) {
+            let htmlString = ''
+
+            if (list[0].correct) {
+                htmlString = `
+                <div 
+                    class="insertion-box"
+                    ondrop="dropOnInsertionHandler(event, 0)"
+                    ondragenter="dragEnterInsertionBox(event)"
+                    ondragleave="dragLeaveInsertionBox(event)"
+                    ondragover="allowDrop(event)"
+                ></div>
+            `
+            }
+
+            list.forEach((element, index) => {
+                htmlString += `
+                <div class="character character-inserted ${element.correct ? "" : "inserted-wrong"}">
+                    ${element.itemName}
+                    <div class="character-status-box">
+                        <div class="character-screentime-value">${element.itemValue}</div>
+                        <div class="character-screentime-status character-screentime-status-${element.correct ? "correct" : "wrong"}">${element.correct ? "✓" : "×"}</div>
+                    </div>
+                </div>
+                ${index == sortedListData.length - 1 || sortedListData[index + 1].correct ? `
+                    <div 
+                    class="insertion-box"
+                    ondrop="dropOnInsertionHandler(event, ${index + 1})"
+                    ondragenter="dragEnterInsertionBox(event)"
+                    ondragleave="dragLeaveInsertionBox(event)"
+                    ondragover="allowDrop(event)"
+                ></div>` : ``}
+                `
+            })
+            document.getElementById('character-list').innerHTML = htmlString
+        }
+
+        function renderPool(pool) {
+            let poolString = ''
+            pool.forEach((element, index) => {
+                poolString += `
+                    <div class="character draggable" draggable="true" ondragstart="startDraggingCharacter(event, ${element.id}, ${index})">
+                        ${element.name}
+                    </div>
+                `
+            })
+            document.getElementById('unsorted-pool').innerHTML = poolString;
+        }
+
+        var unsortedPool = []
+
+        var sortedListData = []
+
+        var score = 0
+
+        var saveState
+
+        var gameList
+
+        var selectedDay
+
+        function onLoad() {
+            const today = new Date()
+            const baseDate = new Date('11/05/2022')
+            const currentDay = Math.floor((today.getTime() - baseDate.getTime()) / 86400000)
+
+            console.log(currentDay)
+
+            startGameForDay(currentDay)
+        }
+
+        function startGameForDay(day) {
+
+            saveState = JSON.parse(localStorage.getItem('saveState')) ?? {}
+            selectedDay = day
+
+            $.getJSON('./schedule.json', (schedule) => {
+                $.getJSON(`./lists/${schedule[day]}.json`, (list) => {
+                    gameList = list.things
+                    document.getElementById('movie-title').innerHTML = list.name
+                    document.getElementById('movie-description').innerHTML = list.description
+                    //document.getElementById('movie-splash').style = `background-image:url(${json.days[day].splash})`
+                    if (saveState[day]) {
+                        unsortedPool = saveState[day].unsortedPool
+                        sortedListData = saveState[day].sortedListData
+                        score = saveState[day].score
+                    } else {
+                        const standard = list.standard
+                        gameList.forEach((entry, index) => {
+                            console.log(entry.name)
+                            if (entry.name == standard) {
+                                sortedListData.push({
+                                    id: index,
+                                    itemName: entry.name,
+                                    itemValue: entry.value,
+                                    correct: true
+                                })
+                            } else {
+                                unsortedPool.push({
+                                    id: index,
+                                    name: entry.name,
+                                    value: entry.name
+                                })
+                            }
+                        })
+
+                        saveState[day] = {
+                            unsortedPool: unsortedPool,
+                            sortedListData: sortedListData,
+                            score: score
+                        }
+
+                        localStorage.setItem("saveState", JSON.stringify(saveState))
+                    }
+
+                    shuffle(unsortedPool)
+
+                    renderList(sortedListData)
+                    renderPool(unsortedPool)
+                    document.getElementById('score-counter').innerHTML = score
+                })
+            })
+        }
+
+        $(document).ready(() => {
+            onLoad()
+            document.getElementById('title').innerHTML = `${['m','r','w','d','st','tw','gl'][Math.floor(Math.random() * 7)]}itchlist`
+        })
+    </script>
+</body>
+
+</html>
