@@ -240,7 +240,11 @@
     },
     {
       "name":"Elisabeth II",
-      "value":"1952-jetzt"
+      "value":"1952-2022"
+    },
+    {
+      "name":"George III",
+      "value":"2022-jetzt"
     }
   ]
 }

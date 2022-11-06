@@ -8,143 +8,144 @@
   "things":[
     {
       "name":"USA",
-      "value":"2520 Medaillen"
+      "value":"2629 Medaillen"
     },
     {
       "name":"Deutschland (inklusive DDR)",
-      "value":"1349 Medaillen"
+      "value":"1384 Medaillen"
     },
     {
       "name":"Sowjetunion",
-      "value":"1122 Medaillen"
+      "value":"1010  Medaillen"
     },
     {
       "name":"Großbritannien",
-      "value":"851 Medaillen"
+      "value":"916 Medaillen"
     },
     {
       "name":"Frankreich",
-      "value":"716 Medaillen"
-    },
-    {
-      "name":"Italien",
-      "value":"577 Medaillen"
+      "value":"751 Medaillen"
     },
     {
       "name":"China",
-      "value":"546 Medaillen"
+      "value":"635 Medaillen"
+    },
+    {
+      "name":"Italien",
+      "value":"618 Medaillen"
     },
     {
       "name":"Australien",
-      "value":"509 Medaillen"
-    },
-    {
-      "name":"Schweden",
-      "value":"494 Medaillen"
+      "value":"547 Medaillen"
     },
     {
       "name":"Ungarn",
-      "value":"491 Medaillen"
+      "value":"511 Medaillen"
+    },
+    {
+      "name":"Schweden",
+      "value":"503 Medaillen"
     },
     {
       "name":"Japan",
-      "value":"439 Medaillen"
+      "value":"497 Medaillen"
     },
     {
       "name":"Russland",
-      "value":"433 Medaillen"
+      "value":"425 Medaillen"
     },
     {
       "name":"DDR",
       "value":"409 Medaillen"
     },
     {
-      "name":"Rumänien",
-      "value":"306 Medaillen"
-    },
-    {
       "name":"Kanada",
-      "value":"301 Medaillen"
+      "value":"326 Medaillen"
     },
     {
       "name":"Niederlande",
-      "value":"285 Medaillen"
+      "value":"322 Medaillen"
+    },
+    {
+      "name":"Rumänien",
+      "value":"308 Medaillen"
     },
     {
       "name":"Südkorea",
-      "value":"267 Medaillen"
+      "value":"287 Medaillen"
     },
     {
       "name":"Kuba",
-      "value":"226 Medaillen"
+      "value":"235 Medaillen"
     },
     {
       "name":"Dänemark",
-      "value":"194 Medaillen"
+      "value":"205 Medaillen"
     },
+
     {
       "name":"Schweiz",
       "value":"192 Medaillen"
     },
     {
-      "name":"Norwegen",
-      "value":"153 Medaillen"
+      "name":"Spanien",
+      "value":"169 Medaillen"
     },
     {
       "name":"Belgien",
-      "value":"148 Medaillen"
+      "value":"157 Medaillen"
     },
     {
       "name":"Brasilien",
-      "value":"129 Medaillen"
+      "value":"150 Medaillen"
     },
     {
       "name":"Griechenland",
-      "value":"116 Medaillen"
+      "value":"121 Medaillen"
     },
     {
       "name":"Kenia",
-      "value":"103 Medaillen"
+      "value":"113 Medaillen"
     },
     {
       "name":"Türkei",
-      "value":"91 Medaillen"
+      "value":"104 Medaillen"
     },
     {
       "name":"Österreich",
-      "value":"87 Medaillen"
+      "value":"96 Medaillen"
     },
     {
       "name":"Jamaika",
-      "value":"78 Medaillen"
+      "value":"87 Medaillen"
     },
     {
       "name":"Iran",
-      "value":"69 Medaillen"
+      "value":"76 Medaillen"
     },
     {
       "name":"Georgien",
-      "value":"33 Medaillen"
+      "value":"40 Medaillen"
     },
     {
       "name":"Indien",
-      "value":"28 Medaillen"
+      "value":"35 Medaillen"
     },
     {
       "name":"Marokko",
-      "value":"23 Medaillen"
+      "value":"24 Medaillen"
     },
     {
-      "name":"Serbien",
+      "name":"Algerien",
       "value":"17 Medaillen"
     },
     {
       "name":"Malaysia",
-      "value":"11 Medaillen"
+      "value":"13 Medaillen"
     },
     {
       "name":"Moldawien",
-      "value":"5 Medaillen"
+      "value":"6 Medaillen"
     },
     {
       "name":"Island",
