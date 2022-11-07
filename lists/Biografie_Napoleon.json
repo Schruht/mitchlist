@@ -1,0 +1,107 @@
+{
+  "short":"Biografie_Napoleon.json",
+  "name":"Biografie Napoleon",
+  "subjects":["Geschichte"],
+  "description":"Sortieren Sie diese Ereignise in der Biografie Napoleons von seiner Geburt bis zu seinem Tode.",
+  "source":"",
+  "standard":"Napoleon wird in Ajaccio auf Korsika geboren",
+  "cut":true,
+  "things":[
+    {
+      "name":"Napoleon wird in Ajaccio auf Korsika geboren",
+      "value":"15. August 1769"
+    },
+    {
+      "name":"Napoleon wird Offizier",
+      "value":"1785"
+    },
+    {
+      "name":"Die Französische Revolution bricht aus",
+      "value":"1789"
+    },
+    {
+      "name":"Napoleon heiratet Joséphine de Beauharnais",
+      "value":"9. März 1796"
+    },
+    {
+      "name":"Napoleon beginnt den Italienfeldzug",
+      "value":"11. März 1796"
+    },
+    {
+      "name":"Napoleon landet in Ägypten",
+      "value":"1. Juli 1798"
+    },
+    {
+      "name":"Putsch Napoleons gegen das Direktorium",
+      "value":"9. November 1799"
+    },
+    {
+      "name":"Napoleon überquert die Alpen",
+      "value":"14. Juni 1800"
+    },
+    {
+      "name":"Louisiana wird an die USA verkauft",
+      "value":"4. Juli 1803"
+    },
+    {
+      "name":"Napoleon krönt sich zum Kaiser",
+      "value":"2. Dezember 1804"
+    },
+    {
+      "name":"Schlacht bei Trafalgar",
+      "value":"21. Oktober 1805"
+    },
+    {
+      "name":"Auflösung des Heiligen Römischen Reichs",
+      "value":"6. August 1806"
+    },
+    {
+      "name":"Napoleon heiratet Marie-Louise von Österreich",
+      "value":"1810"
+    },
+    {
+      "name":"Napoleon II wird geboren",
+      "value":"20. März 1811"
+    },
+    {
+      "name":"Beginn des Russlandsfeldzug",
+      "value":"24. Juni 1812"
+    },
+    {
+      "name":"Rückzug aus Moskau",
+      "value":"18. Oktober 1812"
+    },
+    {
+      "name":"Völkerschlacht bei Leipzig",
+      "value":"16. bis 19. Oktober 1813"
+    },
+    {
+      "name":"Napoleon erreicht Elba",
+      "value":"14. Mai 1814"
+    },
+    {
+      "name":"Beginn der Herrschaft der Hundert Tage",
+      "value":"1. März 1814"
+    },
+    {
+      "name":"Schlacht bei Waterloo",
+      "value":"18. Juni 1815"
+    },
+    {
+      "name":"Verbannung nach St. Helena",
+      "value":"25. Juni 1815"
+    },
+    {
+      "name":"Tod Napoleons",
+      "value":"18. Mai 1821"
+    },
+    {
+      "name":"Napoleons Sohn, Napoleon II, stirbt in Schönbrunn",
+      "value":"22. Juli 1832"
+    },
+    {
+      "name":"Napoleon wird im Invalidendom beigesetzt",
+      "value":"15. Dezember 1840"
+    }
+  ]
+}

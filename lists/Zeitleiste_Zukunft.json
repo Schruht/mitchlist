@@ -2,7 +2,7 @@
   "short":"Zeitleiste_Zukunft.json",
   "name":"Zeitleiste der Zukunft",
   "subjects":[],
-  "description":"Sortieren Sie dieseö Ereignisse, die in der Zukunft passieren sollen, beginnend mit dem frühendsten Ereignis.",
+  "description":"Sortieren Sie diese Ereignisse, die in der Zukunft passieren sollen, beginnend mit dem frühendsten Ereignis.",
   "source":"",
   "standard":"Nach Plan des US-Präsidenten Joe Biden werden die USA Klimaneutral",
   "cut":true,
@@ -85,7 +85,7 @@
     },
     {
       "name":"Die Sonne explodiert",
-      "value":"In 1.7×10¹⁰⁶ Jahren"
+      "value":"In 7-8 Milliarden Jahren"
     },
     {
       "name":"Hitzetod des Universums",
