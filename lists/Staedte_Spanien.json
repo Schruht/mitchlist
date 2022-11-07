@@ -1,0 +1,115 @@
+{
+  "short":"Staedte_Spanien.json",
+  "name":"Spanische Städte nach Einwohnerzahl",
+  "subjects":["Demographie"],
+  "description":"Sortieren Sie diese Städte Spaniens nach ihrer Einwohnerzahl, beginnend mit der Größten.",
+  "source":"",
+  "standard":"Sevilla",
+  "cut":true,
+  "things":[
+    {
+      "name":"Madrid",
+      "value":"3,266,126"
+    },
+    {
+      "name":"Barcelona",
+      "value":"1,636,762"
+    },
+    {
+      "name":"Valencia",
+      "value":"794,288"
+    },
+    {
+      "name":"Sevilla",
+      "value":"688,592"
+    },
+    {
+      "name":"Zaragoza",
+      "value":"674,997"
+    },
+    {
+      "name":"Málaga",
+      "value":"574,654"
+    },
+    {
+      "name":"Murcia",
+      "value":"453,258"
+    },
+    {
+      "name":"Palma de Mallorca",
+      "value":"416,065"
+    },
+    {
+      "name":"Las Palmas de Gran Canaria",
+      "value":"379,925"
+    },
+    {
+      "name":"Bilbao",
+      "value":"346,843"
+    },
+    {
+      "name":"Alicante",
+      "value":"334,887"
+    },
+    {
+      "name":"Córdoba",
+      "value":"325,701"
+    },
+    {
+      "name":"Valladolid",
+      "value":"298,412"
+    },
+    {
+      "name":"Granada",
+      "value":"232,462"
+    },
+    {
+      "name":"Jerez de la Frontera",
+      "value":"212,749"
+    },
+    {
+      "name":"Santa Cruz de Tenerife",
+      "value":"207,312"
+    },
+    {
+      "name":"Pamplona",
+      "value":"201,653"
+    },
+    {
+      "name":"Burgos",
+      "value":"175,821"
+    },
+    {
+      "name":"Salamanca",
+      "value":"144,228"
+    },
+    {
+      "name":"Tarragona",
+      "value":"134,515"
+    },
+    {
+      "name":"León",
+      "value":"124,303"
+    },
+    {
+      "name":"Santiago de Compostela",
+      "value":"97,260"
+    },
+    {
+      "name":"Melilla",
+      "value":"86,487"
+    },
+    {
+      "name":"Ceuta",
+      "value":"84,777"
+    },
+    {
+      "name":"Mérida",
+      "value":"59,335"
+    },
+    {
+      "name":"Ibiza (Stadt)",
+      "value":"49.783"
+    }
+  ]
+}

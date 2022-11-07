@@ -1,0 +1,115 @@
+{
+  "short":"Zeitleiste_StarWars.json",
+  "name":"Zeitleiste Star Wars",
+  "subjects":["",""],
+  "description":"Sortieren Sie diese Ereignisse des Star-Wars Franchises Chronologisch, beginennd mit dem frühesten Event.",
+  "source":"",
+  "standard":"Schlacht von Yavin IV",
+  "cut":true,
+  "things":[
+    {
+      "name":"Anakin Skywalker wird geboren",
+      "value":"41 VSY"
+    },
+    {
+      "name":"Blockade von Naboo",
+      "value":"32 VSY"
+    },
+    {
+      "name":"Anakin gewinnt das Podrennen",
+      "value":"32 VSY"
+    },
+    {
+      "name":"Darth Maul stirbt",
+      "value":"32 VSY"
+    },
+    {
+      "name":"Sheev Palpatin wird Kanzler",
+      "value":"32 VSY"
+    },
+    {
+      "name":"Anakin und Obi-Wan verhindern ein Attentat auf Senatorin Padme Amidala",
+      "value":"22 VSY"
+    },
+    {
+      "name":"Obi-Wan kämpft gegen Jango Fett",
+      "value":"22 VSY"
+    },
+    {
+      "name":"Anakin ermordet die Tusken-Räuben",
+      "value":"22 VSY"
+    },
+    {
+      "name":"Begin der Klonkriege",
+      "value":"22 VSY"
+    },
+    {
+      "name":"Count Dooku stirbt",
+      "value":"19 VSY"
+    },
+    {
+      "name":"General Grievous stirbt",
+      "value":"19 VSY"
+    },
+    {
+      "name":"Mace Windu stirbt",
+      "value":"19 VSY"
+    },
+    {
+      "name":"Order 66",
+      "value":"19 VSY"
+    },
+    {
+      "name":"Palpatin ruft das Erste Galaktische Imperium aus",
+      "value":"19 VSY"
+    },
+    {
+      "name":"Padme Amidale stirbt",
+      "value":"19 VSY"
+    },
+    {
+      "name":"Die Tantive wird von Darth Vader gekarpert",
+      "value":"0 VSY"
+    },
+    {
+      "name":"Han Solo erschießt Greedo",
+      "value":"0 VSY"
+    },
+    {
+      "name":"Zerstörung Alderaans",
+      "value":"0 VSY"
+    },
+    {
+      "name":"Leia wird vom Todesstern befreit",
+      "value":"0 VSY"
+    },
+    {
+      "name":"Schlacht von Yavin IV",
+      "value":"Ist die Schlacht von Yavin IV"
+    },
+    {
+      "name":"Schlacht von Hoth",
+      "value":"3 NSY"
+    },
+    {
+      "name":"Der Rasende Falke wird von einer Weltraumschnecke gefressen",
+      "value":"3 NSY"
+    },
+    {
+      "name":"Han Solo wird in Karbonit eingefroren",
+      "value":"3 NSY"
+    },
+    {
+      "name":"Luke Skywalker verliert seine Hand",
+      "value":"3 NSY"
+    },
+    {
+      "name":"Jabba der Hutta stirbt",
+      "value":"4 NSY"
+    },
+    {
+      "name":"Schlacht um Endor",
+      "value":"4 NSY"
+    }
+  ]
+}

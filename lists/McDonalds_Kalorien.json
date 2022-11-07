@@ -1,0 +1,143 @@
+{
+  "short":"McDonalds_Kalorien.json",
+  "name":"McDonalds Produkte nach Kalorien",
+  "subjects":["Ernährung"],
+  "description":"Sortieren Sie diese Produkte von McDonalds nach ihrer Kalorienanzahl, beginennd mit dem Produkt mit den meisten Kalorien.",
+  "source":"https://www.mcdonalds.com/de/de-de/produkte/alle-produkte.html",
+  "standard":"Pommes Frites mittel",
+  "cut":true,
+  "things":[
+    {
+      "name":"Big Tasty® Bacon",
+      "value":"880 kcal"
+    },
+    {
+      "name":"Hamburger Royal TS",
+      "value":"512 kcal"
+    },
+    {
+      "name":"Big Mac®",
+      "value":"503 kcal"
+    },
+    {
+      "name":"McRib®",
+      "value":"477 kcal"
+    },
+    {
+      "name":"Rührei Bacon",
+      "value":"444 kcal"
+    },
+    {
+      "name":"Pommes Frites groß",
+      "value":"434 kcal"
+    },
+    {
+      "name":"Big Caesar Chicken Salad",
+      "value":"417 kcal"
+    },
+    {
+      "name":"McChicken® Classic",
+      "value":"402 kcal"
+    },
+    {
+      "name":"9 Chicken McNuggets®",
+      "value":"397 kcal"
+    },
+    {
+      "name":"Pommes Frites mittel",
+      "value":"330 kcal"
+    },
+    {
+      "name":"Milchshake Schokogeschmack 0,4l",
+      "value":"326 kcal"
+    },
+    {
+      "name":"Cheeseburger",
+      "value":"302 kcal"
+    },
+    {
+      "name":"McMuffin® Bacon & Egg",
+      "value":"297 kcal"
+    },
+    {
+      "name":"McSundae® Original Schoko-Sauce",
+      "value":"285 kcal"
+    },
+    {
+      "name":"6 Chicken McNuggets®",
+      "value":"265 kcal"
+    },
+    {
+      "name":"Hamburger",
+      "value":"253 kcal"
+    },
+    {
+      "name":"Buttercroissant",
+      "value":"246 kcal"
+    },
+    {
+      "name":"Pommes Frites klein",
+      "value":"231 kcal"
+    },
+    {
+      "name":"Heiße Apfeltasche",
+      "value":"228 kcal"
+    },
+    {
+      "name":"Coca-Cola Classic 0,5l",
+      "value":"210 kcal"
+    },
+    {
+      "name":"McFlurry® Original",
+      "value":"197 kcal"
+    },
+    {
+      "name":"Fanta 0,5l",
+      "value":"190 kcal"
+    },
+    {
+      "name":"Sprite 0,5l",
+      "value":"165 kcal"
+    },
+    {
+      "name":"Mayonnaise 20ml",
+      "value":"141 kcal"
+    },
+    {
+      "name":"Red Bull 0,25l",
+      "value":"115 kcal"
+    },
+    {
+      "name":"nutella® 15 g",
+      "value":"80 kcal"
+    },
+    {
+      "name":"Butter 10 g",
+      "value":"74 kcal"
+    },
+    {
+      "name":"Süßsauer Sauce 25ml",
+      "value":"51 kcal"
+    },
+    {
+      "name":"Bio Apfeltüte 60g",
+      "value":"34 kcal"
+    },
+    {
+      "name":"Ketchup 20ml",
+      "value":"29 kcal"
+    },
+    {
+      "name":"Balsamico Dressing 30ml",
+      "value":"22 kcal"
+    },
+    {
+      "name":"Coca-Cola Light Taste 0,5l",
+      "value":"1.0 kcal"
+    },
+    {
+      "name":"Earl Grey Tee Regular",
+      "value":"0.0 kcal"
+    }
+  ]
+}
