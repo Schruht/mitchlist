@@ -247,7 +247,9 @@ function setTitleIndex(index, animated) {
     const prefixes = ['m', 'r', 'w', 'd', 'st', 'tw', 'gl', 'f', 'sp', 'br', 'sm', 'undefined', 'qu', 'z', 'h', 'hypersph']
     titleIndex = index % prefixes.length
     const title = document.getElementById('title')
-    title.innerHTML = `${prefixes[titleIndex]}itchlist`
+    const titleString = `${prefixes[titleIndex]}itchlist`
+    title.innerHTML = titleString
+    document.title = titleString
     if (animated) {
         title.classList.add('spinning')
         title.addEventListener('animationend', (event) => {
