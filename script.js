@@ -53,19 +53,12 @@ function dropOnInsertionHandler(event, index) {
     localStorage.setItem('saveState', JSON.stringify(saveState))
 
     document.getElementById('score-counter').innerHTML = `${(sortedListData.length - 1)}/${gameList.length - 1}${sortedListData.length > 1 ? `, davon ${parseInt(score / (sortedListData.length - 1) * 100)}% richtig` : ''}`
-    document.getElementById('score-bar-fill').style.width = `${parseInt((sortedListData.length - 1) / (gameList.length - 1) * 100)}%`
+    document.getElementById('score-bar-fill').style.setProperty('width', `calc(${parseInt((sortedListData.length - 1) / (gameList.length - 1) * 100)}% - 6px)`)
     
     renderList(sortedListData)
     renderPool(unsortedPool)
 
     checkGameEnded()
-}
-
-function mmssToSeconds(string) {
-    const array = string.split(':')
-    const minutes = +array[0]
-    const seconds = +array[1]
-    return 60 * minutes + seconds
 }
 
 function checkGameEnded() {
@@ -242,7 +235,7 @@ function startGameForDay(day) {
             renderList(sortedListData)
             renderPool(unsortedPool)
             document.getElementById('score-counter').innerHTML = `${sortedListData.length - 1}/${gameList.length - 1}${sortedListData.length > 1 ? `, davon ${parseInt(score / (sortedListData.length - 1) * 100)}% richtig` : ''}`
-            document.getElementById('score-bar-fill').style.width = `${parseInt((sortedListData.length - 1) / (gameList.length - 1) * 100)}%`
+            document.getElementById('score-bar-fill').style.setProperty('width', `calc(${parseInt((sortedListData.length - 1) / (gameList.length - 1) * 100)}% - 6px)`)
             checkGameEnded()
         })
     })
