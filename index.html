@@ -13,13 +13,24 @@
 
 <body>
     <div class="title-bar">
-        <span class="title" id="title">Mitchlist</span>
+        <span class="title" id="title" onclick="setTitleIndex(titleIndex + 1, true)">Mitchlist</span>
+    </div>
+    <div class="popup" id="popup" style="display:none">
+        <div class="popup-message" id="popup-message">
+            <div class="popup-dismiss-button" onclick="dismissPopup()">×</div>
+            <div class="popup-title" id="popup-title">Lorem Ipsum</div>
+            <div class="popup-content" id="popup-content"></div>
+        </div>
     </div>
     <div class="game">
         <div class="movie-card">
-            <div class="score-counter" id="score-counter"></div>
+            <div class="day-counter" id="day-counter" onclick="openArchive()"></div>
             <div class="movie-title" id="movie-title"></div>
             <div class="movie-description" id="movie-description"></div>
+            <div class="score-bar">
+                <div class="score-bar-fill" id="score-bar-fill"></div>
+                <div class="score-counter" id="score-counter"></div>
+            </div>
             <div class="movie-splash" id="movie-splash"></div>
         </div>
         <div class="sorted-character-list insertable-list" id="character-list">
@@ -85,6 +96,8 @@
 
             renderList(sortedListData)
             renderPool(unsortedPool)
+
+            checkGameEnded()
         }
 
         function mmssToSeconds(string) {
@@ -92,6 +105,41 @@
             const minutes = +array[0]
             const seconds = +array[1]
             return 60 * minutes + seconds
+        }
+
+        function checkGameEnded() {
+            if (saveState[selectedDay]?.completed) {
+                showGameEndedPopUp(750)
+            } else if (unsortedPool.length == 0) {
+                saveState[selectedDay].completed = true
+                localStorage.setItem('saveState', JSON.stringify(saveState))
+                showGameEndedPopUp(750)
+            }
+        }
+
+        function showGameEndedPopUp(delay) {
+            setTimeout(() => {
+                showPopUp({
+                    title: 'Liste geschafft',
+                    content: `
+                        <div class="popup-text">Sie haben alle Elemente einsortiert.</div>
+                        <div class="popup-score">${(sortedListData.length - 1)}/${gameList.length - 1}, ${parseInt(score / (sortedListData.length - 1) * 100)}% richtig</div>
+                        <div class="popup-button" onclick="dismissPopup();openArchive()">Zum Archiv</div>    
+                    `
+                })
+            }, delay)
+        }
+
+        function showPopUp(args) {
+            document.getElementById('popup-title').innerHTML = args.title
+            document.getElementById('popup-content').innerHTML = args.content
+            document.getElementById('popup').style.display = 'flex'
+            document.getElementById('popup-message').classList.add('popup-slidein')
+        }
+
+        function dismissPopup() {
+            document.getElementById('popup').style.display = 'none'
+            document.getElementById('popup-message').classList.remove('popup-slidein')
         }
 
         function shuffle(array) {
@@ -110,7 +158,8 @@
 
         function incrementScore(amount) {
             score += amount
-            document.getElementById('score-counter').innerHTML = score
+            document.getElementById('score-counter').innerHTML = `${(sortedListData.length - 1)}/${gameList.length - 1}, davon ${parseInt(score / (sortedListData.length - 1) * 100)}% richtig`
+            document.getElementById('score-bar-fill').style.width = `${parseInt((sortedListData.length - 1) / (gameList.length - 1) * 100)}%`
             saveState[selectedDay].score += amount;
             localStorage.setItem('saveState', JSON.stringify(saveState))
         }
@@ -132,11 +181,11 @@
 
             list.forEach((element, index) => {
                 htmlString += `
-                <div class="character character-inserted ${element.correct ? "" : "inserted-wrong"}">
-                    ${element.itemName}
+                <div class="character character-inserted ${element.correct ? (element.standard ? 'inserted-standard' : '') : 'inserted-wrong'}">
+                    <div class="character-name">${element.itemName}</div>
                     <div class="character-status-box">
                         <div class="character-screentime-value">${element.itemValue}</div>
-                        <div class="character-screentime-status character-screentime-status-${element.correct ? "correct" : "wrong"}">${element.correct ? "✓" : "×"}</div>
+                        <div class="character-screentime-status character-screentime-status-${element.standard ? 'standard' : element.correct ? "correct" : "wrong"}">${element.correct ? "✓" : "×"}</div>
                     </div>
                 </div>
                 ${index == sortedListData.length - 1 || sortedListData[index + 1].correct ? `
@@ -177,26 +226,25 @@
         var selectedDay
 
         function onLoad() {
-            const today = new Date()
-            const baseDate = new Date('11/05/2022')
-            const currentDay = Math.floor((today.getTime() - baseDate.getTime()) / 86400000)
-
-            console.log(currentDay)
-
-            startGameForDay(currentDay)
+            startGameForDay(getCurrentDay())
         }
 
         function startGameForDay(day) {
 
+            document.getElementById('day-counter').innerHTML = `#${day + 1}`
+
             saveState = JSON.parse(localStorage.getItem('saveState')) ?? {}
             selectedDay = day
 
+            score = 0
+            sortedListData = []
+            unsortedPool = []
+
             $.getJSON('./schedule.json', (schedule) => {
-                $.getJSON(`./lists/${schedule[day]}.json`, (list) => {
+                $.getJSON(`./lists/${schedule[day].id}.json`, (list) => {
                     gameList = list.things
                     document.getElementById('movie-title').innerHTML = list.name
                     document.getElementById('movie-description').innerHTML = list.description
-                    //document.getElementById('movie-splash').style = `background-image:url(${json.days[day].splash})`
                     if (saveState[day]) {
                         unsortedPool = saveState[day].unsortedPool
                         sortedListData = saveState[day].sortedListData
@@ -204,13 +252,13 @@
                     } else {
                         const standard = list.standard
                         gameList.forEach((entry, index) => {
-                            console.log(entry.name)
                             if (entry.name == standard) {
                                 sortedListData.push({
                                     id: index,
                                     itemName: entry.name,
                                     itemValue: entry.value,
-                                    correct: true
+                                    correct: true,
+                                    standard: true
                                 })
                             } else {
                                 unsortedPool.push({
@@ -234,14 +282,61 @@
 
                     renderList(sortedListData)
                     renderPool(unsortedPool)
-                    document.getElementById('score-counter').innerHTML = score
+                    document.getElementById('score-counter').innerHTML = `${sortedListData.length - 1}/${gameList.length - 1}, davon ${parseInt(score / (sortedListData.length - 1) * 100)}% richtig`
+                    document.getElementById('score-bar-fill').style.width = `${parseInt((sortedListData.length - 1) / (gameList.length - 1) * 100)}%`
+                    checkGameEnded()
                 })
             })
         }
 
+        var titleIndex = 0
+
+        function setTitleIndex(index, animated) {
+            const prefixes = ['m', 'r', 'w', 'd', 'st', 'tw', 'gl', 'f', 'sp', 'br', 'sm', 'undefined', 'qu', 'z', 'h', 'hypersph']
+            titleIndex = index % prefixes.length
+            const title = document.getElementById('title')
+            title.innerHTML = `${prefixes[titleIndex]}itchlist`
+            if (animated) {
+                title.classList.add('spinning')
+                title.addEventListener('animationend', (event) => {
+                    title.classList.remove('spinning')
+                })
+            }
+        }
+
+        function getCurrentDay() {
+            const today = new Date()
+            const baseDate = new Date('11/05/2022')
+            return Math.floor((today.getTime() - baseDate.getTime()) / 86400000)
+        }
+
+        function openArchive() {
+            $.getJSON('./schedule.json', (schedule) => {
+                var archiveListHTMLString = ''
+                for (let i = getCurrentDay(); i >= 0; i--) {
+                    const list = schedule[i]
+                    const listCompleted = saveState?.[i]?.completed
+                    archiveListHTMLString += `
+                        <div class="archive-list-entry" onclick="dismissPopup();startGameForDay(${i})">
+                            <div class="archive-list-index">#${i + 1}</div>
+                            <div class="archive-list-title">${list.name}</div>
+                            <div class="archive-list-status">${listCompleted ?? false ? '✓' : ''}</div>    
+                        </div>
+                    `
+                }
+                showPopUp({
+                    title: 'Archiv',
+                    content: `
+                    <div class="archive-list">${archiveListHTMLString}</div>
+                `
+                })
+            })
+
+        }
+
         $(document).ready(() => {
             onLoad()
-            document.getElementById('title').innerHTML = `${['m','r','w','d','st','tw','gl'][Math.floor(Math.random() * 7)]}itchlist`
+            setTitleIndex(Math.floor(Math.random() * 13), false)
         })
     </script>
 </body>

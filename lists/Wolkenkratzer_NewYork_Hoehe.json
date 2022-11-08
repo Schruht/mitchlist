@@ -4,7 +4,7 @@
   "subjects":["Architektur"],
   "description":"Sortieren Sie diese ausgewählten Bauwerke in New York City nach ihrer Höhe, beginnend mit dem höchsten Gebäude.",
   "source":"https://de.wikipedia.org/wiki/Liste_der_höchsten_Gebäude_in_New_York & https://www.emporis.de/",
-  "standard":"",
+  "standard":"Empire State Building",
   "cut":true,
   "things":[
     {

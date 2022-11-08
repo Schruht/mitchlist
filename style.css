@@ -1,3 +1,32 @@
+@keyframes spin {
+    0% {
+        transform: rotate(0);
+        scale: 100%;
+        opacity: 1;
+    }
+    50% {
+        transform: rotate(180deg);
+        scale: 0;
+        opacity: 0;
+    }
+    100% {
+        transform: rotate(360deg);
+        scale: 100%;
+        opacity: 1;
+    }
+}
+
+@keyframes popup-slidein {
+    from {
+        transform: translateY(100px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
 html,
 body {
     margin: 0;
@@ -29,6 +58,14 @@ body {
     font-style: italic;
     letter-spacing: 1px;
     font-size: 20px;
+    cursor: help;
+    user-select: none;
+}
+
+.spinning {
+    animation-name: spin;
+    animation-duration: 0.3s;
+    animation-timing-function: ease;
 }
 
 .game {
@@ -89,7 +126,7 @@ body {
     border-radius: 10px;
     background-color: #2A2A2A;
     color: #FFFFFF;
-    cursor: pointer;
+    cursor: grab;
     user-select: none;
     font-size: 15px;
 }
@@ -101,6 +138,10 @@ body {
 .character-inserted {
     width: 100%;
     cursor: default;
+}
+
+.character-name {
+    max-width: 75%;
 }
 
 .sorted-character-list {
@@ -159,26 +200,184 @@ body {
     border: 2px solid #c22c0b;
     opacity: 40%;
     margin-top: 15px;
-    height: 10;
-    line-height: 10px;
+    min-height: 10;
 }
 
-.score-counter {
+.day-counter {
     position: absolute;
     right: calc(100% + 30px);
     top: 0;
     color: #FFFFFF;
     background-color: #2A2A2A;
-    width: 60px;
-    height: 70px;
+    width: auto;
+    height: 50px;
+    padding: 10px;
     border-radius: 15px;
-    line-height: 70px;
+    line-height: 50px;
     text-align: center;
     font-size: 40px;
     font-weight: bolder;
 }
 
+.day-counter:hover {
+    background-color: #373737;
+    cursor: pointer;
+}
+
 .movie-description {
     color: #FFFFFF;
     font-size: 17px;
+}
+
+.popup {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 9999;
+    background-color: rgba(0,0,0,0.8);
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.popup-message {
+    position: relative;
+    min-width: 30%;
+    padding: 15px;
+    background-color: #1c1c1e;
+    border-radius: 15px;
+    color: #FFFFFF;
+}
+
+.popup-title {
+    font-size: 25px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.popup-score {
+    height: 25px;
+    margin-top: 15px;
+    line-height: 25px;
+    padding: 10px;
+    background-color: #2c2c2d;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.popup-dismiss-button {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    height: 25px;
+    width: 25px;
+    line-height: 25px;
+    text-align: center;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.score-bar {
+    position: relative;
+    width: calc(100% - 26px);
+    height: 20px;
+    padding: 10px;
+    margin-top: 15px;
+    border-radius: 10px;
+    border: 3px solid #2c2c2d;
+    overflow: hidden;
+}
+
+.score-counter {
+    position: absolute;
+    line-height: 20px;
+    color: #FFFFFF;
+    font-weight: bold;
+    z-index: 10;
+}
+
+.score-bar-fill {
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    bottom: 3px;
+    border-radius: 5px;
+    width: 40%;
+    background-color: #2c2c2d;
+    z-index: 0;
+}
+
+.inserted-standard {
+    background-color: #1c1c1e;
+    border-top: 2px solid #2A2A2A;
+    border-bottom: 2px solid #2A2A2A;
+    border-radius: 0;
+}
+
+.inserted-standard:hover {
+    background-color: #1c1c1e;
+}
+
+.popup-slidein {
+    animation-name: popup-slidein;
+    animation-duration: 0.2s;
+    animation-timing-function: ease-out;
+}
+
+.popup-button {
+    height: 25px;
+    margin-top: 10px;
+    line-height: 25px;
+    padding: 10px;
+    background-color: #2d248e;
+    text-align: center;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.popup-button:hover {
+    background-color: #342a9b;
+}
+
+.archive-list {
+    max-height: 800px;
+    overflow-y: auto;
+}
+
+.archive-list-entry {
+    position: relative;
+    height: 25px;
+    line-height: 25px;
+    padding: 10px;
+    background-color: #2A2A2A;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.archive-list-entry:hover {
+    background-color: #3d3d3d;
+}
+
+.archive-list-title {
+    margin-right: 30px;
+}
+
+.archive-list-entry * {
+    display: inline-block;
+}
+
+.archive-list-status {
+    position: absolute;
+    right: 10px;
+}
+
+.archive-list-index {
+    margin-right: 5px;
+    font-style: italic;
 }

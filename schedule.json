@@ -1,3 +1,22 @@
 [
-    "DePolitiker_Twitter", "Flughaefen_Passagiere", "Programmiersprachen_Alter", "GriechischesAlphabet", "Längeneinheiten", "Metalls_Miningvalue", "Staatenbuendnisse_Mitglieder", "Tiere_Gewicht", "Dampfgarer", "Bond_Reihenfolge", "Zeitleiste_SciFi", "Serien_Start", "US-Staaten_Prozente", "AntikeStaedte_Heute"
+    {
+        "id": "Zeitleiste_Zukunft",
+        "name": "Zeitleiste der Zukunft"
+    },
+    {
+        "id": "Tiere_Gewicht",
+        "name": "Tiere nach Gewicht"
+    },
+    {
+        "id": "Wolkenkratzer_newYork_Hoehe",
+        "name": "Wolkenkratzer in New York nach Höhe"
+    },
+    {
+        "id": "Waehrungen_Wert",
+        "name": "Währungen nach Wert"
+    },
+    {
+        "id": "AntikeStaedte_Heute",
+        "name": "Wichtige Städte der Antike heute"
+    }
 ]
