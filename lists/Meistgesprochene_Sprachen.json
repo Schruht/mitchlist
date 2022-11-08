@@ -1,0 +1,90 @@
+{
+  "short":"Meistgesprochene_Sprachen",
+  "name":"Sprachen der Welt",
+  "subjects":["Sprachen"],
+  "description":"Sortieren Sie diese Sprachen nach der Anzahl ihrer Sprecher. Dabei werden sowohl Muttersprachler als auch Fremdsprachler gezählt. Die Zahlen beziehen sich auf das Jahr 2022.",
+  "standard":"Deutsch",
+  "cut":false,
+  "things":[
+    {
+      "name":"Englisch",
+      "value":"1,452 Milliarden"
+    },
+    {
+      "name":"Mandarin Chinesisch",
+      "value":"1,118 Milliarden"
+    },
+    {
+      "name":"Hindi",
+      "value":"602,2 Millionen"
+    },
+    {
+      "name":"Spanisch",
+      "value":"548,3 Millionen"
+    },
+    {
+      "name":"Französisch",
+      "value":"274,1 Millionen"
+    },
+    {
+      "name":"Modernes Standard Arabisch",
+      "value":"274,0 Millionen"
+    },
+    {
+      "name":"Bengali",
+      "value":"272,7 Millionen"
+    },
+    {
+      "name":"Russisch",
+      "value":"258,2 Millionen"
+    },
+    {
+      "name":"Portugiesisch",
+      "value":"257,7 Millionen"
+    },
+    {
+      "name":"Urdu",
+      "value":"231,3 Millionen"
+    },
+    {
+      "name":"Indonesisch",
+      "value":"199,0 Millionen"
+    },
+    {
+      "name":"Deutsch",
+      "value":"134,6 Millionen"
+    },
+    {
+      "name":"Japanisch",
+      "value":"125,4 Millionen"
+    },
+    {
+      "name":"Nigerianisches Pidgin",
+      "value":"120,7 Millionen"
+    },
+    {
+      "name":"Marathi",
+      "value":"99,1 Millionen"
+    },
+    {
+      "name":"Telugu",
+      "value":"95,7 Millionen"
+    },
+    {
+      "name":"Türkisch",
+      "value":"88,1 Millionen"
+    },
+    {
+      "name":"Tamil",
+      "value":"86,4 Millionen"
+    },
+    {
+      "name":"Yue Chinesisch",
+      "value":"85,6 Millionen"
+    },
+    {
+      "name":"Vietnamesisch",
+      "value":"85,3 Millionen"
+    }
+  ]
+}
