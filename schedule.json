@@ -18,5 +18,9 @@
     {
         "id": "AntikeStaedte_Heute",
         "name": "Wichtige Städte der Antike heute"
+    },
+    {
+        "id": "StarWarsScreentime",
+        "name": "Star Wars Charaktere nach Screentime"
     }
 ]
