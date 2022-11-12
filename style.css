@@ -136,7 +136,7 @@ body {
 }
 
 .character-inserted {
-    width: 100%;
+    width: calc(100% - 20px);
     cursor: default;
 }
 
@@ -148,13 +148,13 @@ body {
     width: 550px;
     height: auto;
     margin-top: 15px;
+    border-radius: 10px;
+    border: 3px solid #2A2A2A;
     padding: 0 25px;
     display: flex;
     flex-flow: column nowrap;
     justify-content: flex-start;
     align-items: center;
-    border-radius: 10px;
-    border: 3px solid #2A2A2A;
 }
 
 .insertion-box {
@@ -164,8 +164,25 @@ body {
     position: relative;
 }
 
+.insertion-hint {
+    display: none;
+    width: calc(100% - 6px);
+    height: 15px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    border: 3px dashed #2c2c2d;
+    border-radius: 10px;
+    pointer-events: none;
+    transition: height 0.3s ease;
+}
+
 .insertion-box-extended {
     height: 60px;
+}
+
+.insertion-box-extended .insertion-hint {
+    display: block;
+    height: 40px;
 }
 
 .character-status-box {
@@ -199,7 +216,7 @@ body {
 .inserted-wrong {
     border: 2px solid #c22c0b;
     opacity: 40%;
-    margin-top: 15px;
+    /*margin-top: 15px;*/
     min-height: 10;
 }
 
@@ -379,5 +396,4 @@ body {
 
 .archive-list-index {
     margin-right: 5px;
-    font-style: italic;
 }

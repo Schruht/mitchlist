@@ -1,6 +1,6 @@
 {
   "short":"US-Staaten_Einwohner",
-  "name":"US-Bundesstaaten nach Einwohner",
+  "name":"US-Bundesstaaten nach Einwohnerzahl",
   "subjects":["Demographie"],
   "description":"Sortieren Sie diese Bundesstaaten und Territorien der Vereinigten Staaten nach ihrer Einwohnerzahl, beginnend mit dem meistbevölkerten. Es gilt der Zensus von 2020.",
   "standard":"New York",

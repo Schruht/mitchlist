@@ -54,7 +54,7 @@ function dropOnInsertionHandler(event, index) {
 
     document.getElementById('score-counter').innerHTML = `${(sortedListData.length - 1)}/${gameList.length - 1}${sortedListData.length > 1 ? `, davon ${parseInt(score / (sortedListData.length - 1) * 100)}% richtig` : ''}`
     document.getElementById('score-bar-fill').style.setProperty('width', `calc(${parseInt((sortedListData.length - 1) / (gameList.length - 1) * 100)}% - 6px)`)
-    
+
     renderList(sortedListData)
     renderPool(unsortedPool)
 
@@ -117,9 +117,17 @@ function incrementScore(amount) {
 }
 
 function renderList(list) {
-    let htmlString = ''
+    let htmlString = `
+    <div 
+    class="insertion-box"
+    ondrop="dropOnInsertionHandler(event, 0)"
+    ondragenter="dragEnterInsertionBox(event)"
+    ondragleave="dragLeaveInsertionBox(event)"
+    ondragover="allowDrop(event)"></div>
+    `
 
-    if (list[0].correct) {
+    /*
+        if (list[0].correct) {
         htmlString = `
         <div 
             class="insertion-box"
@@ -130,7 +138,6 @@ function renderList(list) {
         ></div>
     `
     }
-
     list.forEach((element, index) => {
         htmlString += `
         <div class="character character-inserted ${element.correct ? (element.standard ? 'inserted-standard' : '') : 'inserted-wrong'}">
@@ -148,6 +155,25 @@ function renderList(list) {
             ondragleave="dragLeaveInsertionBox(event)"
             ondragover="allowDrop(event)"
         ></div>` : ``}
+        `
+    })*/
+    list.forEach((element, index) => {
+        htmlString += `
+        <div class="character character-inserted ${element.correct ? (element.standard ? 'inserted-standard' : '') : 'inserted-wrong'}">
+            <div class="character-name">${element.itemName}</div>
+            <div class="character-status-box">
+                <div class="character-screentime-value">${element.itemValue}</div>
+                <div class="character-screentime-status character-screentime-status-${element.standard ? 'standard' : element.correct ? "correct" : "wrong"}">${element.correct ? "✓" : "×"}</div>
+            </div>
+        </div>
+        <div 
+        class="insertion-box"
+        ondrop="dropOnInsertionHandler(event, ${index + 1})"
+        ondragenter="dragEnterInsertionBox(event)"
+        ondragleave="dragLeaveInsertionBox(event)"
+        ondragover="allowDrop(event)">
+            <div class="insertion-hint"></div>
+        </div>
         `
     })
     document.getElementById('character-list').innerHTML = htmlString
@@ -193,7 +219,7 @@ function startGameForDay(day) {
     unsortedPool = []
 
     $.getJSON('./schedule.json', (schedule) => {
-        $.getJSON(`./lists/${schedule[day].id}.json`, (list) => {
+        $.getJSON(`./lists/${schedule.schedule[day].id}.json`, (list) => {
             gameList = list.things
             document.getElementById('movie-title').innerHTML = list.name
             document.getElementById('movie-description').innerHTML = list.description
@@ -268,7 +294,7 @@ function openArchive() {
     $.getJSON('./schedule.json', (schedule) => {
         var archiveListHTMLString = ''
         for (let i = getCurrentDay(); i >= 0; i--) {
-            const list = schedule[i]
+            const list = schedule.schedule[i]
             const listCompleted = saveState?.[i]?.completed
             archiveListHTMLString += `
                 <div class="archive-list-entry" onclick="dismissPopup();startGameForDay(${i})">
