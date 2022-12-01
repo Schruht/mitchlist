@@ -219,7 +219,7 @@ function startGameForDay(day) {
     unsortedPool = []
 
     $.getJSON('./schedule.json', (schedule) => {
-        $.getJSON(`./lists/${schedule.schedule[day].id}.json`, (list) => {
+        $.getJSON(`./lists/${schedule.indexed[day].id}.json`, (list) => {
             gameList = list.things
             document.getElementById('movie-title').innerHTML = list.name
             document.getElementById('movie-description').innerHTML = list.description
@@ -294,7 +294,7 @@ function openArchive() {
     $.getJSON('./schedule.json', (schedule) => {
         var archiveListHTMLString = ''
         for (let i = getCurrentDay(); i >= 0; i--) {
-            const list = schedule.schedule[i]
+            const list = schedule.indexed[i]
             const listCompleted = saveState?.[i]?.completed
             archiveListHTMLString += `
                 <div class="archive-list-entry" onclick="dismissPopup();startGameForDay(${i})">

@@ -34,12 +34,26 @@
             "name": "Staedte nach Bruttoinlandsprodukt"
         },
         {
-            "id": "US-Staaten_Einwohner",
-            "name": "US-Bundesstaaten nach Einwohnerzahl"
+            "id": "McDonalds_Kalorien",
+            "name": "..."
+        },
+        {
+            "id": "Saurier_Popkultur",
+            "name": "..."
         },
         {
             "id": "Elemente_Schmelzpunkt",
             "name": "Elemente nach Schmelzpunkt"
+        },
+        {
+            "id": "US-Staaten_Einwohner",
+            "name": "US-Bundesstaaten nach Einwohnerzahl"
         }
-    ]
+    ],
+    "indexed": {
+        "26": {
+            "id": "Laender_Bier",
+            "name": "Länder nach Bierkonsum pro Einwohner"
+        }
+    }
 }

@@ -3,7 +3,7 @@
   "name":"Elemente nach Schmelzpunkt",
   "subjects":["Chemie"],
   "description":"Sortieren Sie diese chemischen Elemente nach ihrem Schmelzpunkt, beginnend mit dem am kühlsten schmilzenden Element.",
-  "standard":"Wasser (H₂0)",
+  "standard":"Wasser (H20)",
   "cut":true,
   "things":[
     {
