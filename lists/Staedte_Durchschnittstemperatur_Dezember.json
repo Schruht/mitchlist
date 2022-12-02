@@ -6,7 +6,7 @@
         "Meteorologie"
     ],
     "description": "Sortieren Sie diese Städte nach der dort im Dezember gemessenen Durchschnittstemperatur, beginnend mit der höchsten Temperatur.",
-    "standard": "Berlin",
+    "standard": "Marseille, Frankreich",
     "cut": true,
     "things": [
         {
