@@ -1,0 +1,101 @@
+{
+    "short": "Staedte_Durchschnittstemperatur_Dezember",
+    "name": "Städte nach Durchschnittstemperatur im Dezember",
+    "subjects": [
+        "Geographie",
+        "Meteorologie"
+    ],
+    "description": "Sortieren Sie diese Städte nach der dort im Dezember gemessenen Durchschnittstemperatur, beginnend mit der höchsten Temperatur.",
+    "standard": "Berlin",
+    "cut": true,
+    "things": [
+        {
+            "name": "Darwin, Australien",
+            "value": "30,2°C"
+        },
+        {
+            "name": "Mombasa, Kenia",
+            "value": "27,4°C"
+        },
+        {
+            "name": "Kinshasa, D.R. Kongo",
+            "value": "25,6°C"
+        },
+        {
+            "name": "Durban, Südafrika",
+            "value": "23,1°C"
+        },
+        {
+            "name": "Vientiane, Laos",
+            "value": "21,7°C"
+        },
+        {
+            "name": "Santiago de Chile, Chile",
+            "value": "20,1°C"
+        },
+        {
+            "name": "Kapstadt, Südafrika",
+            "value": "19,5°C"
+        },
+        {
+            "name": "Hong Kong, China",
+            "value": "17,9°C"
+        },
+        {
+            "name": "Alexandria, Ägypten",
+            "value": "14,9°C"
+        },
+        {
+            "name": "Nicosia, Zypern",
+            "value": "12,0°C"
+        },
+        {
+            "name": "Bagdad, Irak",
+            "value": "11,2°C"
+        },
+        {
+            "name": "Marseille, Frankreich",
+            "value": "9,3°C"
+        },
+        {
+            "name": "Stanley, Falklandinseln",
+            "value": "8,1°C"
+        },
+        {
+            "name": "Baku, Azerbaijan",
+            "value": "7,3°C"
+        },
+        {
+            "name": "Amsterdam, Niederlande",
+            "value": "4,0°C"
+        },
+        {
+            "name": "Frankfurt, Deutschland",
+            "value": "2,5°C"
+        },
+        {
+            "name": "Kabul, Afghanistan",
+            "value": "0,6°C"
+        },
+        {
+            "name": "Milwaukee, USA",
+            "value": "-2,9°C"
+        },
+        {
+            "name": "Moskau, Russland",
+            "value": "-5,2°C"
+        },
+        {
+            "name": "Astana, Kasachstan",
+            "value": "-12,1°C"
+        },
+        {
+            "name": "Fairbanks, USA",
+            "value": "−19,8°C"
+        },
+        {
+            "name": "Jakutsk, Russland",
+            "value": "−37,6°C"
+        }
+    ]
+}

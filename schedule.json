@@ -54,6 +54,10 @@
         "26": {
             "id": "Laender_Bier",
             "name": "Länder nach Bierkonsum pro Einwohner"
+        },
+        "27": {
+            "id": "Staedte_Durchschnittstemperatur_Dezember",
+            "name": "Städte nach Durchschnittstemperatur im Dezember"
         }
     }
 }
