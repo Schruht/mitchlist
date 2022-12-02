@@ -27,6 +27,26 @@
     }
 }
 
+::-webkit-scrollbar {
+    width: 5px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    display: none;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+
 html,
 body {
     margin: 0;
@@ -339,6 +359,13 @@ body {
     background-color: #1c1c1e;
 }
 
+.popup-content {
+    padding: 5px;
+    position: relative;
+    max-height: 300px;
+    overflow: auto;
+}
+
 .popup-slidein {
     animation-name: popup-slidein;
     animation-duration: 0.2s;
@@ -359,11 +386,6 @@ body {
 
 .popup-button:hover {
     background-color: #342a9b;
-}
-
-.archive-list {
-    max-height: 800px;
-    overflow-y: auto;
 }
 
 .archive-list-entry {

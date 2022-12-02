@@ -294,10 +294,13 @@ function openArchive() {
     $.getJSON('./schedule.json', (schedule) => {
         var archiveListHTMLString = ''
         for (let i = getCurrentDay(); i >= 0; i--) {
-            const list = schedule.indexed[i]
+            const list = schedule.indexed[i] ?? {
+                'name': 'HEUTE KEINE LISTE',
+                'value': 'NULL'
+            }
             const listCompleted = saveState?.[i]?.completed
             archiveListHTMLString += `
-                <div class="archive-list-entry" onclick="dismissPopup();startGameForDay(${i})">
+                <div class="archive-list-entry" ${list.value != 'NULL' ? `onclick="dismissPopup();startGameForDay(${i})"` : ''}>
                     <div class="archive-list-index">#${i + 1}</div>
                     <div class="archive-list-title">${list.name}</div>
                     <div class="archive-list-status">${listCompleted ?? false ? '✓' : ''}</div>    
