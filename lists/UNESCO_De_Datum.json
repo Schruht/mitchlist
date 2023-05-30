@@ -1,0 +1,115 @@
+{
+  "short":"UNESCO_De_Datum.json",
+  "name":"Liste der UNESCO Erbestätten in Deutschland nach Etablierungsdatum",
+  "subjects":["Geschichte"],
+  "description":"Sortieren Sie diese UNESCO Welterbestätten in Deutschland nach dem Jahr, in dem sie zur Welterbestätte wurden. Beginnend mit der ersten Erbestätte.",
+  "source":"https://www.unesco.de/kultur-und-natur/welterbe/welterbe-deutschland/welterbestaetten-deutschland",
+  "standard":"Grenzen des Römischen Reiches",
+  "cut":true,
+  "things":[
+    {
+      "name":"Aachener Dom",
+      "value":"1978"
+    },
+    {
+      "name":"Speyerer Dom",
+      "value":"1981"
+    },
+    {
+      "name":"Schlösser Augustusburg und Falkenlust in Brühl",
+      "value":"1984"
+    },
+    {
+      "name":"Römische Denkmale (inklusive Porta Nigra), Dom St. Peter und Liebfrauenkirche in Trier",
+      "value":"1986"
+    },
+    {
+      "name":"Hansestadt Lübeck",
+      "value":"1987"
+    },
+    {
+      "name":"Schlösser und Parks von Potsdam und Berlin ",
+      "value":"1990"
+    },
+    {
+      "name":"Bergwerk Rammelsberg, Altstadt von Goslar und Oberharzer Wasserwirtschaft",
+      "value":"1992"
+    },
+    {
+      "name":"Klosteranlage Maulbronn",
+      "value":"1993"
+    },
+    {
+      "name":"Stiftskirche, Schloss und Altstadt von Quedlinburg",
+      "value":"1994"
+    },
+    {
+      "name":"Fossillagerstätte Grube Messel",
+      "value":"1995"
+    },
+    {
+      "name":"Kölner Dom",
+      "value":"1996"
+    },
+    {
+      "name":"Klassisches Weimar",
+      "value":"1998"
+    },
+    {
+      "name":"Wartburg",
+      "value":"1999"
+    },
+    {
+      "name":"Industriekomplex Zeche Zollverein in Essen",
+      "value":"2001"
+    },
+    {
+      "name":"Oberes Mittelrheintal",
+      "value":"2002"
+    },
+    {
+      "name":"Muskauer Park / Park Mużakowski",
+      "value":"2004"
+    },
+    {
+      "name":"Grenzen des Römischen Reiches",
+      "value":"2005"
+    },
+    {
+      "name":"Siedlungen der Berliner Moderne",
+      "value":"2008"
+    },
+    {
+      "name":"Wattenmeer",
+      "value":"2009"
+    },
+    {
+      "name":"Fagus-Werk in Alfeld",
+      "value":"2011"
+    },
+    {
+      "name":"Markgräfliches Opernhaus Bayreuth",
+      "value":"2012"
+    },
+    {
+      "name":"Karolingisches Westwerk und Civitas Corvey",
+      "value":"2014"
+    },
+    {
+      "name":"Speicherstadt und Kontorhausviertel mit Chilehaus",
+      "value":"2015"
+    },
+    {
+      "name":"Höhlen und Eiszeitkunst der Schwäbischen Alb",
+      "value":"2017"
+    },
+    {
+      "name":"Archäologischer Grenzkomplex Haithabu und Danewerk",
+      "value":"2018"
+    },
+    {
+      "name":"Mathildenhöhe Darmstadt",
+      "value":"2021"
+    }
+  ]
+}
